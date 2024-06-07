@@ -4,7 +4,6 @@ import { initializeApp } from "firebase/app";
 import { getDatabase } from 'firebase/database';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyAFwoeoXetJ-68QkZJOcqd6rVtH1VWoQEU",
     authDomain: "woulduratherbackend-default-rtdb.firebaseio.com/",
     projectId: "woulduratherbackend",
     storageBucket: "woulduratherbackend.appspot.com",
