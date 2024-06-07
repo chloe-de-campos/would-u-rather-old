@@ -1,5 +1,5 @@
 // getResponses.js
-import { ref, get, child, onValue } from 'firebase/database';
+import { ref, get } from 'firebase/database';
 import { db } from './firebase';
 
 const getResponses = async () => {

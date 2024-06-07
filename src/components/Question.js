@@ -10,7 +10,6 @@ const Question = ({ question, onRespond, response, disabledbutton }) => {
 
       <button 
         style={{maxWidth:"240px"}}
-         role="button"
         onClick={() => handleClick('optionA')}
         className={response && response.choice === 'optionA' ? 'selected' : ''}
         disabled ={disabledbutton}
@@ -24,7 +23,6 @@ const Question = ({ question, onRespond, response, disabledbutton }) => {
  
       <button
        style={{maxWidth:"240px"}}
-        role="button"
         onClick={() => handleClick('optionB')}
         className={response && response.choice === 'optionB' ? 'selected' : ''}
         disabled = {disabledbutton}

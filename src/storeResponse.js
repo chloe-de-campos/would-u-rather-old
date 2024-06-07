@@ -1,5 +1,5 @@
 // storeResponse.js
-import { ref, push, set, query, orderByChild, equalTo, get, remove } from 'firebase/database';
+import { ref, push, set, remove } from 'firebase/database';
 import { db } from './firebase';
 
 

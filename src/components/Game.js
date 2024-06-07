@@ -13,7 +13,6 @@ import '../App.css';
 import { useNavigate } from 'react-router-dom';
 import { MdArrowBackIos, MdArrowForwardIos } from "react-icons/md";
 import {storeResponse,removeResponse} from '../storeResponse';
-import Cookies from 'js-cookie';
 import { RiPieChartFill } from "react-icons/ri"
 
 
@@ -23,7 +22,7 @@ const Game = () => {
   const [questions, setQuestions] = useState([]);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [questionStats, setQuestionStats] = useState(null); // For storing stats of current question
-  const [isButtonDisabled, setIsButtonDisabled] = useState(false);
+
   const [toggleStats, setToggleStats] = useState(false);
   const history = useNavigate();
 
@@ -113,7 +112,6 @@ const handleChoice = async (questionId, choice) => {
     await(removeResponse(foundcookie.value))
   }
 
-  setIsButtonDisabled(true);
 
   const newResponse = {
     // cookieid: Cookies.set(`voted-${questionId}`, true),
@@ -139,7 +137,7 @@ const handleChoice = async (questionId, choice) => {
   // setCurrentIndex((prevIndex) => prevIndex + 1);
 
   // Optionally, clear the button disabled state after navigating to the next question
-  setIsButtonDisabled(false);
+
 };
 
   const wrapText = (text, maxWidth) => {

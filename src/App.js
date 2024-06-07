@@ -5,7 +5,7 @@ import Game from './components/Game';
 import Statistics from './components/Statistics';
 import './App.css';
 import initialQuestions from './data/initialQuestions.json'; 
-import Logo from './components/Logo'
+
 
 function App() {
 

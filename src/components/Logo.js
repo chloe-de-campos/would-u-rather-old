@@ -1,6 +1,6 @@
-import { useState, useEffect, useRef} from 'react';
+import { useState } from 'react';
 import '../logo.css';
-import { animated, useSpring } from  'react-spring'
+
 
 const Logo = () => {
         // setViewBox( '0 0 ' + document.documentElement.clientWidth.toString() + ' ' + document.documentElement.clientHeight.toString() )
