@@ -24,3 +24,6 @@ yarn-error.log*
 
 # .env local configuration
 .env
+
+/id_rsa_deploy_key
+/id_rsa_deploy_key.pub
