@@ -6,4 +6,5 @@ module.exports = {
       'react-hooks/exhaustive-deps': 'warn', // Treat missing useEffect dependencies as warnings
       // Other rules...
     },
+    plugins: ["react-hooks"], // Define plugins outside the rules object
   };
