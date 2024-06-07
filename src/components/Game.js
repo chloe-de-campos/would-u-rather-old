@@ -26,6 +26,8 @@ const Game = () => {
   const [toggleStats, setToggleStats] = useState(false);
   const history = useNavigate();
 
+
+
   useEffect(() => {
     const shuffledQuestions = [...initialQuestions].sort(() => Math.random() - 0.5);
     setQuestions(shuffledQuestions);
