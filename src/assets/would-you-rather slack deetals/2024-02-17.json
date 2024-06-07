@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1708182907.145219",
+        "client_msg_id": "8AFD94F1-60EA-40B8-AAC6-ED6A2ACA8179",
+        "text": "i would pay you $10",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708145668.713189",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JI5tV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i would pay you $10"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

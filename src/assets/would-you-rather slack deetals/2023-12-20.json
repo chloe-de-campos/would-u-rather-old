@@ -1,0 +1,88 @@
+[
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1703097931.216039",
+        "client_msg_id": "87dba6cc-011b-4c2e-a8b3-5b273675ef5d",
+        "text": "i like that this slack channel is just a very specifically dedicated groupchat for us",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3WyyS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i like that this slack channel is just a very specifically dedicated groupchat for us"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1703097954.052159",
+        "client_msg_id": "ACFF4EC7-F195-4EF6-8135-F37CC10DBFF1",
+        "text": "my dream is that someday somebody will discover it and join ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kmtli",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "my dream is that someday somebody will discover it and join "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bangbang",
+                "users": [
+                    "U01AQNJ26GZ",
+                    "U02JDCDDXHP"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

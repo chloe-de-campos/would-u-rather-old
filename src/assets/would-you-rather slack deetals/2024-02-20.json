@@ -1,0 +1,868 @@
+[
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1708454635.625739",
+        "client_msg_id": "2866AF77-4C23-4FDA-B04E-EEFFB900CEDC",
+        "text": "i have find my iphone i can get that shit back",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708389590.316499",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tfYdh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i have find my iphone i can get that shit back"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1708454650.703579",
+        "client_msg_id": "CF620115-CB7C-4B0B-96CE-9A61C059E4E5",
+        "text": "100% prance",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708390009.971909",
+        "parent_user_id": "U02JDCDDXHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TJrgr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "100% prance"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U02JDCDDXHP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1708454677.350949",
+        "client_msg_id": "CD11B12A-844A-4777-834A-074F07324FBE",
+        "text": "no they powered down your phone",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708389590.316499",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pnD3L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no they powered down your phone"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1708454685.440469",
+        "client_msg_id": "82F0B3DF-8021-4848-97D4-BC641901948B",
+        "text": "sold it for parts",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708389590.316499",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o+jiz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sold it for parts"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1708454686.455349",
+        "client_msg_id": "0470A080-4F62-4679-B9AF-29A89DD98601",
+        "text": "sorry",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708389590.316499",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yAJMv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sorry"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1708454711.853679",
+        "client_msg_id": "A545A715-A34E-4AE2-8281-7704F9BC4201",
+        "text": "but also you were on your way to school when you got yakked on",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708389590.316499",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iELMc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but also you were on your way to school when you got yakked on"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1708454748.228899",
+        "client_msg_id": "5E4065FE-69E0-46CA-8DDA-769AEC366006",
+        "text": "oh hmm",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708389590.316499",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IOwk8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh hmm"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1708454752.335079",
+        "client_msg_id": "0CB349C6-C0BF-485F-8E7C-302C61454F98",
+        "text": "that changes things",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708389590.316499",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wfqw1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "that changes things"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1708455108.672639",
+        "client_msg_id": "6A9B4436-1C76-46B3-82B9-5AD3311FED20",
+        "text": ":credit_card: : go a week without your wallet \n:headphones: : go a week without your headphones",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708455108.672639",
+        "reply_count": 7,
+        "reply_users_count": 3,
+        "latest_reply": "1708455553.382879",
+        "reply_users": [
+            "U01AQNJ26GZ",
+            "U046PRR8JJG",
+            "U02JDCDDXHP"
+        ],
+        "replies": [
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1708455130.326609"
+            },
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1708455137.894989"
+            },
+            {
+                "user": "U046PRR8JJG",
+                "ts": "1708455154.965709"
+            },
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1708455163.809609"
+            },
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1708455491.162149"
+            },
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1708455511.897159"
+            },
+            {
+                "user": "U046PRR8JJG",
+                "ts": "1708455553.382879"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xYTjU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "credit_card",
+                                "unicode": "1f4b3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : go a week without your wallet \n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "headphones",
+                                "unicode": "1f3a7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : go a week without your headphones"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "headphones",
+                "users": [
+                    "U046PRR8JJG",
+                    "U047D0ZHW3A"
+                ],
+                "count": 2
+            },
+            {
+                "name": "skull",
+                "users": [
+                    "U04700S4CGH",
+                    "U01ANRY24FK"
+                ],
+                "count": 2
+            },
+            {
+                "name": "credit_card",
+                "users": [
+                    "U01AQNJ26GZ",
+                    "U02JDCDDXHP",
+                    "U01ANRY24FK",
+                    "U02HL5DAYUF"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1708455130.326609",
+        "client_msg_id": "0BAE7A84-F6BF-4DB3-B019-87EF712070FC",
+        "text": "you have apple pay btw",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708455108.672639",
+        "parent_user_id": "U01AQNJ26GZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/yZuF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you have apple pay btw"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1708455137.894989",
+        "client_msg_id": "28C38ED0-B474-4793-83CD-D440290B8D74",
+        "text": "but NO HEADPHONES ZERO",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708455108.672639",
+        "parent_user_id": "U01AQNJ26GZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SKuHf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but NO HEADPHONES ZERO"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U046PRR8JJG",
+        "type": "message",
+        "ts": "1708455154.965709",
+        "edited": {
+            "user": "U046PRR8JJG",
+            "ts": "1708455167.000000"
+        },
+        "client_msg_id": "1A7D09D2-0E7C-40FA-A1B4-D413C16B6011",
+        "text": "living without headphones is making me stronger and more world weary ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "77002c531ba9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-29\/4708321359702_77002c531ba97e80041c_72.png",
+            "first_name": "Olivia",
+            "real_name": "Olivia Rodriguez",
+            "display_name": "astrolivia",
+            "team": "T019RL7R8K1",
+            "name": "oliviarodriguez1564",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708455108.672639",
+        "parent_user_id": "U01AQNJ26GZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K9roP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "living without headphones is making me stronger and more world weary "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "open_mouth",
+                "users": [
+                    "U047D0ZHW3A"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1708455163.809609",
+        "client_msg_id": "22A67BA1-8850-4346-9AD2-E81E9AD48F84",
+        "text": "boo",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708455108.672639",
+        "parent_user_id": "U01AQNJ26GZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lVb0D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "boo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1708455491.162149",
+        "client_msg_id": "F5364663-CAD4-4155-9640-CD92C64146D5",
+        "text": "No headphones astro??? Since WHEN? They’re such an iconic part of your daily fashion ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708455108.672639",
+        "parent_user_id": "U01AQNJ26GZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TXdlw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No headphones astro??? Since WHEN? "
+                            },
+                            {
+                                "type": "text",
+                                "text": "They’re"
+                            },
+                            {
+                                "type": "text",
+                                "text": " such an iconic part of your daily fashion "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1708455511.897159",
+        "client_msg_id": "D39AAF2C-C9E5-4F5F-8A01-6B087D011CD6",
+        "text": "I often go weeks without my wallet",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708455108.672639",
+        "parent_user_id": "U01AQNJ26GZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R7JHD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I often go weeks without my wallet"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bangbang",
+                "users": [
+                    "U01AQNJ26GZ",
+                    "U047D0ZHW3A"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U046PRR8JJG",
+        "type": "message",
+        "ts": "1708455553.382879",
+        "client_msg_id": "1EEAA44C-DCE8-470D-B5E5-807E85D39F6E",
+        "text": "lost them moving from shark week to my dorm it’s been crushing but I have hardened to the world ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "77002c531ba9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-29\/4708321359702_77002c531ba97e80041c_72.png",
+            "first_name": "Olivia",
+            "real_name": "Olivia Rodriguez",
+            "display_name": "astrolivia",
+            "team": "T019RL7R8K1",
+            "name": "oliviarodriguez1564",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708455108.672639",
+        "parent_user_id": "U01AQNJ26GZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C\/hXo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "lost them moving from shark week to my dorm "
+                            },
+                            {
+                                "type": "text",
+                                "text": "it’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " been crushing but I have hardened to the world "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "headstone",
+                "users": [
+                    "U02JDCDDXHP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1708455565.902319",
+        "client_msg_id": "861E4DA2-7FEB-4D6B-B228-529921DA825F",
+        "text": "I can get a new phone but I don’t think I can recover from stranger vomit ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708389590.316499",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E3FZ+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can get a new phone but "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I don’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " think I can recover from stranger vomit "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1708455571.731299",
+        "client_msg_id": "82E15BBB-488F-4374-9031-971E31824631",
+        "text": "Friend vomit I could recover from",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708389590.316499",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xtCAM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Friend vomit I could recover from"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

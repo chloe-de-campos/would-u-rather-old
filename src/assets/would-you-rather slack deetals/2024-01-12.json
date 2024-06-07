@@ -1,0 +1,666 @@
+[
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1705093694.029239",
+        "edited": {
+            "user": "U01ANRY24FK",
+            "ts": "1705093736.000000"
+        },
+        "client_msg_id": "348D3689-FCBD-4392-B25C-CDCE9A0DEC08",
+        "text": "your partners bed is full of ants :microbe:\nyour roommates bed is full of ants :hocho: ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1705093694.029239",
+        "reply_count": 7,
+        "reply_users_count": 3,
+        "latest_reply": "1705116631.766829",
+        "reply_users": [
+            "U01AQNJ26GZ",
+            "U01ANRY24FK",
+            "U02JDCDDXHP"
+        ],
+        "replies": [
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1705093804.145759"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1705097095.640289"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1705097099.798659"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1705097118.770289"
+            },
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1705116563.109689"
+            },
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1705116572.087299"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1705116631.766829"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ODlvH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "your partners bed is full of ants "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "microbe",
+                                "unicode": "1f9a0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nyour roommates bed is full of ants "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hocho",
+                                "unicode": "1f52a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "hocho",
+                "users": [
+                    "U01AQNJ26GZ",
+                    "U01ANRY24FK"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1705093804.145759",
+        "client_msg_id": "d623766d-8358-4c80-b1ef-7600659b8888",
+        "text": "is this my current roommate or like a hypothetical roommate",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1705093694.029239",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jW6TW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "is this my current roommate or like a hypothetical roommate"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1705097095.640289",
+        "client_msg_id": "0319CADB-41C2-415F-8C80-760A6DBC215A",
+        "text": "hahah",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1705093694.029239",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xwxTY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hahah"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1705097099.798659",
+        "client_msg_id": "6E9E5615-2E44-4376-9EB6-1AB52CAFFA55",
+        "text": "hypothetical",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1705093694.029239",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LtQuP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hypothetical"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1705097118.770289",
+        "client_msg_id": "66F3CF39-58FE-4AD2-9A4B-9AD78AF17BF9",
+        "text": "you’re not wishing ill on your lovely roommates",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1705093694.029239",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Phwj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you’re"
+                            },
+                            {
+                                "type": "text",
+                                "text": " not wishing ill on your lovely roommates"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1705115782.298489",
+        "edited": {
+            "user": "U02JDCDDXHP",
+            "ts": "1705115794.000000"
+        },
+        "client_msg_id": "04D335B3-F862-435F-A94C-D0AD6055FA3C",
+        "text": "your YouTube search history :clown_face: is published for the world to see of your internet search history :face_with_spiral_eyes: ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1705115782.298489",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1705115831.685509",
+        "reply_users": [
+            "U01ANRY24FK"
+        ],
+        "replies": [
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1705115827.995849"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1705115831.685509"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zzlq5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "your YouTube search history "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "clown_face",
+                                "unicode": "1f921"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is published for the world to see of your internet search history "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_with_spiral_eyes",
+                                "unicode": "1f635-200d-1f4ab"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "clown_face",
+                "users": [
+                    "U01ANRY24FK",
+                    "U02JDCDDXHP",
+                    "U01AQNJ26GZ"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1705115827.995849",
+        "client_msg_id": "F2BA097B-57F3-4194-89EE-FF531445511E",
+        "text": "for sure",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1705115782.298489",
+        "parent_user_id": "U02JDCDDXHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m9pFk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "for sure"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1705115831.685509",
+        "client_msg_id": "B69F6682-0FFB-407F-B0A0-03F22A216289",
+        "text": "absolute clown",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1705115782.298489",
+        "parent_user_id": "U02JDCDDXHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xtgia",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "absolute clown"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bangbang",
+                "users": [
+                    "U02JDCDDXHP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1705115862.170009",
+        "client_msg_id": "5CFE8C55-D4FF-4079-B31F-85DF9C193AAF",
+        "text": "at least I’d be oblivious ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1705022940.800969",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ato8N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "at least "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " be oblivious "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "two_hearts",
+                "users": [
+                    "U01ANRY24FK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1705116563.109689",
+        "client_msg_id": "0A33AEE8-5C57-47DC-A9B8-C73D15098E84",
+        "text": "I feel like even if my roommates had ants my apartment is big enough that maybe I wouldn’t have any ant issues ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1705093694.029239",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fmnik",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I feel like even if my roommates had ants my apartment is big enough that maybe "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I wouldn’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " have any ant issues "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "two_hearts",
+                "users": [
+                    "U01ANRY24FK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1705116572.087299",
+        "client_msg_id": "986594E0-C1AF-4A28-8825-37C370D0A283",
+        "text": " Can I try to fix their ant problem? ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1705093694.029239",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EfD0\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": " Can I try to fix their ant problem? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1705116631.766829",
+        "client_msg_id": "A777AC6D-991F-4636-A8ED-9068332E26BD",
+        "text": "yes but they’re addy and really don’t want to hurt the ants",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1705093694.029239",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/2Tx2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes but "
+                            },
+                            {
+                                "type": "text",
+                                "text": "they’re"
+                            },
+                            {
+                                "type": "text",
+                                "text": " addy and really "
+                            },
+                            {
+                                "type": "text",
+                                "text": "don’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " want to hurt the ants"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

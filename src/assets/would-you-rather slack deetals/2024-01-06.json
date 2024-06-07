@@ -1,0 +1,207 @@
+[
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1704565126.099649",
+        "client_msg_id": "3C587DBB-27D2-4E1B-B412-D90A993A1F40",
+        "text": "rat in pantry :kissing_heart: \nmaggots in pantry :drooling_face: ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P+Pbl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "rat in pantry "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "kissing_heart",
+                                "unicode": "1f618"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nmaggots in pantry "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "drooling_face",
+                                "unicode": "1f924"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "kissing_heart",
+                "users": [
+                    "U02JDCDDXHP",
+                    "U01AQNJ26GZ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1704574397.334039",
+        "client_msg_id": "AF3DA443-2E18-44FE-966F-7CCBF5068CCD",
+        "text": "would you rather\nonly be able to poop every 4 days :honey_pot:\nonly be able to shower every 4 days :coconut: ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704574397.334039",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1704772080.463489",
+        "reply_users": [
+            "U02JDCDDXHP",
+            "U01AQNJ26GZ",
+            "U01ANRY24FK"
+        ],
+        "replies": [
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1704574421.214919"
+            },
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1704694729.069959"
+            },
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1704694741.158819"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1704729712.500189"
+            },
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1704772080.463489"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iZ3uQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "would you rather\nonly be able to poop every 4 days "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "honey_pot",
+                                "unicode": "1f36f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nonly be able to shower every 4 days "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "coconut",
+                                "unicode": "1f965"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "honey_pot",
+                "users": [
+                    "U01AQNJ26GZ",
+                    "U02JDCDDXHP"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1704574421.214919",
+        "client_msg_id": "532686D1-446D-4462-B3BF-C68489CF011F",
+        "text": "This is so hard ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704574397.334039",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U16IN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is so hard "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,164 @@
+[
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1704694729.069959",
+        "client_msg_id": "3138115b-11db-4432-84a0-617e583da6f3",
+        "text": "am i in pain due to not pooping?",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704574397.334039",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mxj6d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "am i in pain due to not pooping?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1704694741.158819",
+        "client_msg_id": "423ce50c-6a37-4b3d-9a5b-c14da0fa49bd",
+        "text": "or am i just like hmm weird i haven’t pooped in a bit",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704574397.334039",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cm\/u5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "or am i just like hmm weird i haven’t pooped in a bit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1704695001.308929",
+        "client_msg_id": "0b522d4f-d99c-4748-b951-94611a48957e",
+        "text": "something spooky happens (a weird shadow, spooky sounds, etc) and you live alone. would you rather\n:spoon: explain it away due to ghosts because you wholeheartedly believe in ghosts\n:pleading_face: explain it away with general world knowledge but have a sneaking suspicion that something is amiss",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704695001.308929",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1704729644.913679",
+        "reply_users": [
+            "U01ANRY24FK"
+        ],
+        "replies": [
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1704729644.913679"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Trepp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "something spooky happens (a weird shadow, spooky sounds, etc) and you live alone. would you rather\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "spoon",
+                                "unicode": "1f944"
+                            },
+                            {
+                                "type": "text",
+                                "text": " explain it away due to ghosts because you wholeheartedly believe in ghosts\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pleading_face",
+                                "unicode": "1f97a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " explain it away with general world knowledge but have a sneaking suspicion that something is amiss"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "spoon",
+                "users": [
+                    "U01ANRY24FK",
+                    "U02JDCDDXHP",
+                    "U01AQNJ26GZ"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

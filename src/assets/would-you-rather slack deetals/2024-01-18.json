@@ -1,0 +1,419 @@
+[
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1705601455.724459",
+        "client_msg_id": "3CA09ADA-FBBB-4DF0-B497-DD3996E348BF",
+        "text": "holy shit welcome sita  ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fQb\/M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "holy shit welcome sita  "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U02HL5DAYUF",
+                    "U02JDCDDXHP"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heart_eyes_cat",
+                "users": [
+                    "U02JDCDDXHP",
+                    "U01AQNJ26GZ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1705601497.649719",
+        "client_msg_id": "AFCBF35F-5DBC-4E1D-A436-A986D20B98E6",
+        "text": "would you rather\nhave the dropsies and not be able to catch 50% of the time :love_letter: \nor have the dropsies and not be able to throw 50% of the time :mirror_ball: ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1705601497.649719",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1705604855.731939",
+        "reply_users": [
+            "U02HL5DAYUF",
+            "U02JDCDDXHP",
+            "U01ANRY24FK"
+        ],
+        "replies": [
+            {
+                "user": "U02HL5DAYUF",
+                "ts": "1705603369.201199"
+            },
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1705604618.169279"
+            },
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1705604620.520149"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1705604662.589029"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1705604679.268069"
+            },
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1705604855.731939"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UcnC8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "would you rather\nhave the dropsies and not be able to catch 50% of the time "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "love_letter",
+                                "unicode": "1f48c"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nor have the dropsies and not be able to throw 50% of the time "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "mirror_ball",
+                                "unicode": "1faa9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "mirror_ball",
+                "users": [
+                    "U02HL5DAYUF",
+                    "U02JDCDDXHP",
+                    "U01AQNJ26GZ"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U02HL5DAYUF",
+        "type": "message",
+        "ts": "1705603369.201199",
+        "client_msg_id": "64798995-F6A7-4B8D-A927-541851C0D158",
+        "text": "statistically so easy ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "8e0bfbcf203e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-27\/4138580027845_8e0bfbcf203e200c94fc_72.png",
+            "first_name": "Sita",
+            "real_name": "Sita",
+            "display_name": "Pawar",
+            "team": "T019RL7R8K1",
+            "name": "sita_pawar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1705601497.649719",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9PMfS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "statistically so easy "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1705604618.169279",
+        "client_msg_id": "AD1AE808-B05D-484E-8020-BECC820F2ACA",
+        "text": "that was me freshman year ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1705601497.649719",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d6xeU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "that was me freshman year "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1705604620.520149",
+        "client_msg_id": "29F511DD-6861-4E42-823E-667A6AA68B28",
+        "text": "Dump city ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1705601497.649719",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1kzMV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dump city "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1705604662.589029",
+        "client_msg_id": "5AEF44A7-0D88-4CE0-94A7-BA69A5CE6540",
+        "text": "ok but you hit your dump ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1705601497.649719",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YgYDZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok but you hit your dump "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1705604679.268069",
+        "client_msg_id": "4FCA6483-7B75-461B-893B-C391E6AA68C3",
+        "text": "this is like 50% of your throws just fall out of your hands onto the ground ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1705601497.649719",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t08zN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this is like 50% of your throws just fall out of your hands onto the ground "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1705604855.731939",
+        "client_msg_id": "9EF09A8C-15E1-4BB3-A777-D200C3DAE12F",
+        "text": "But teams could keep taking me bc they think you can teach throwing but you can’t teach catching ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1705601497.649719",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UgGwM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But teams could keep taking me bc they think you can teach throwing but you "
+                            },
+                            {
+                                "type": "text",
+                                "text": "can’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " teach catching "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bangbang",
+                "users": [
+                    "U01AQNJ26GZ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

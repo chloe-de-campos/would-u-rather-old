@@ -1,0 +1,151 @@
+[
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1707878958.005139",
+        "edited": {
+            "user": "U01ANRY24FK",
+            "ts": "1707879462.000000"
+        },
+        "client_msg_id": "b8e1c35c-fcb6-43ce-accb-058218eda0cc",
+        "text": ":nail_care: tomorrow, you walk into the ratty and you see ed sheeran. he's sitting at a table in the back cove eating pepperoni pizza. nobody around him seems to recognize him but you KNOW its him. he literally has a guitar on his back and he's rapping under his breath. you scream and shout and throw a tantrum but nobody else sees him. ed sheeran gets embarassed and leaves. the nice lady who swiped you in sheepishly asks you to leave the ratty. side chat goes crazy.\n:star-struck: i stab you with a hot knife. it’s painful but we take you straight to RI hospital where elle stitches you up. also the wound is like already cauterized cause the knife is hot just like i told you. you have a cool scar and a cool story. you and i are never really friends again :(.",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1707878958.005139",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1707930302.072299",
+        "reply_users": [
+            "U01ANRY24FK",
+            "U01AQNJ26GZ"
+        ],
+        "replies": [
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1707887411.987079"
+            },
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1707930302.072299"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S0fMB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "nail_care",
+                                "unicode": "1f485"
+                            },
+                            {
+                                "type": "text",
+                                "text": " tomorrow, you walk into the ratty and you see ed sheeran. he's sitting at a table in the back cove eating pepperoni pizza. nobody around him seems to recognize him but you KNOW its him. he literally has a guitar on his back and he's rapping under his breath. you scream and shout and throw a tantrum but nobody else sees him. ed sheeran gets embarassed and leaves. the nice lady who swiped you in sheepishly asks you to leave the ratty. side chat goes crazy.\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "star-struck",
+                                "unicode": "1f929"
+                            },
+                            {
+                                "type": "text",
+                                "text": " i stab you with a hot knife. it’s painful but we take you straight to RI hospital where elle stitches you up. also the wound is like already cauterized cause the knife is hot just like i told you. you have a cool scar and a cool story. you and i are never really friends again :(."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "nail_care",
+                "users": [
+                    "U0605TPR6NA",
+                    "U046PRR8JJG"
+                ],
+                "count": 2
+            },
+            {
+                "name": "nail_care::skin-tone-2",
+                "users": [
+                    "U01AQNJ26GZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U02JDDZETMX",
+        "text": "<@U02JDDZETMX> has joined the channel",
+        "type": "message",
+        "ts": "1707879240.811379",
+        "reactions": [
+            {
+                "name": "two_hearts",
+                "users": [
+                    "U01ANRY24FK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1707887411.987079",
+        "client_msg_id": "9e159274-2d71-43b1-a8f0-5909bc6740bd",
+        "text": "ok this one was a flop i admit that",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1707878958.005139",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4cVHO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok this one was a flop i admit that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

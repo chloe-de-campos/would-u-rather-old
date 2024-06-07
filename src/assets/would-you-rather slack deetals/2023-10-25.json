@@ -1,0 +1,153 @@
+[
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1698258114.341089",
+        "client_msg_id": "eef9b26e-6ce3-48e5-8348-fbad2120011d",
+        "text": "could you identify your own asshole in a lineup? yes :pinched_fingers: no :see_no_evil:",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698258114.341089",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1699585182.110049",
+        "reply_users": [
+            "U02JDCDDXHP"
+        ],
+        "replies": [
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1699585182.110049"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sooVn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "could you identify your own asshole in a lineup? yes "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pinched_fingers",
+                                "unicode": "1f90c"
+                            },
+                            {
+                                "type": "text",
+                                "text": " no "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "see_no_evil",
+                                "unicode": "1f648"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "see_no_evil",
+                "users": [
+                    "U01ANRY24FK",
+                    "U01AQNJ26GZ",
+                    "U02JDCDDXHP"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1698258179.276679",
+        "client_msg_id": "1AA88484-31E2-4EEC-94A4-3EF292049EC9",
+        "text": "would you rather be the rat under the pressure of running a kitchen :rat:  or be linguine no thoughts head empty just vibing :spaghetti: ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qEnrL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "would you rather be the rat under the pressure of running a kitchen "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rat",
+                                "unicode": "1f400"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  or be linguine no thoughts head empty just vibing "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "spaghetti",
+                                "unicode": "1f35d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "rat",
+                "users": [
+                    "U01ANRY24FK",
+                    "U01AQNJ26GZ"
+                ],
+                "count": 2
+            },
+            {
+                "name": "spaghetti",
+                "users": [
+                    "U02JDCDDXHP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

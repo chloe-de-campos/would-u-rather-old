@@ -1,0 +1,312 @@
+[
+    {
+        "user": "U02JDC3M1Q9",
+        "type": "message",
+        "ts": "1711306551.115399",
+        "client_msg_id": "7F12E9C2-5EB7-4AC0-ADEA-EF01A09DE2C2",
+        "text": "This is wild in an amazing way",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "5df4583c6c3e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-20\/2859539530726_5df4583c6c3e4c507a51_72.png",
+            "first_name": "Addison",
+            "real_name": "Addison Hannah Kerwin",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "addison_kerwin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711083147.906519",
+        "parent_user_id": "U046PRR8JJG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TozqK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is wild in an amazing way"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1711333605.028279",
+        "client_msg_id": "2CC870B7-EF28-4B31-8B50-4F3372217DF3",
+        "text": ":trophy: constipated for 10 days\n:star: addy’s yak virus for 24 hours",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HtosG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "trophy",
+                                "unicode": "1f3c6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " constipated for 10 days\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "star",
+                                "unicode": "2b50"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "addy’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " yak virus for 24 hours"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "trophy",
+                "users": [
+                    "U02J0PQR85R",
+                    "U02J0N4DU10",
+                    "U0605TPR6NA"
+                ],
+                "count": 3
+            },
+            {
+                "name": "star",
+                "users": [
+                    "U05VC250MM5",
+                    "U01ANRY24FK",
+                    "U047D0ZHW3A",
+                    "U01AQNJ26GZ",
+                    "U046PRR8JJG",
+                    "U02HXU752RK",
+                    "U02JDC3M1Q9",
+                    "U02JDCDDXHP"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1711333898.291299",
+        "edited": {
+            "user": "U01ANRY24FK",
+            "ts": "1711333911.000000"
+        },
+        "client_msg_id": "A5DDC3A7-5568-4774-9080-B80BFCED665F",
+        "text": ":rose: be on a plane with 100 frisbee players who just finished a day of 90degree frisbee and didn’t shower. you’re just flying to visit your friend. \n:lips: be the stinkiest + only frisbee player on the flight. everyone else is just flying to visit their friends and do business and be normal",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711333898.291299",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1711563044.652329",
+        "reply_users": [
+            "U0605TPR6NA",
+            "U01ANRY24FK",
+            "U02JDC3M1Q9"
+        ],
+        "replies": [
+            {
+                "user": "U0605TPR6NA",
+                "ts": "1711334148.065629"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1711334193.152049"
+            },
+            {
+                "user": "U02JDC3M1Q9",
+                "ts": "1711563028.449959"
+            },
+            {
+                "user": "U02JDC3M1Q9",
+                "ts": "1711563032.045849"
+            },
+            {
+                "user": "U02JDC3M1Q9",
+                "ts": "1711563044.652329"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "20sdR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "rose",
+                                "unicode": "1f339"
+                            },
+                            {
+                                "type": "text",
+                                "text": " be on a plane with 100 frisbee players who just finished a day of 90degree frisbee and didn’t shower. you’re just flying to visit your friend. \n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "lips",
+                                "unicode": "1f444"
+                            },
+                            {
+                                "type": "text",
+                                "text": " be the stinkiest + only frisbee player on the flight. everyone else is just flying to visit their friends and do business and be normal"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "lips",
+                "users": [
+                    "U02J0PQR85R",
+                    "U02J0N4DU10",
+                    "U05VC250MM5",
+                    "U060601B2NS",
+                    "U047D0ZHW3A",
+                    "U01AQNJ26GZ",
+                    "U046PRR8JJG",
+                    "U02JDC3M1Q9"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "user": "U0605TPR6NA",
+        "type": "message",
+        "ts": "1711334148.065629",
+        "client_msg_id": "D8BAC7B3-0CB2-44C7-B632-17C05E1A75C2",
+        "text": "how long is flight",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "ec9ff28af7b5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-06\/6165117200897_ec9ff28af7b554dfa0e0_72.jpg",
+            "first_name": "Alice",
+            "real_name": "Alice Cannon",
+            "display_name": "Alice Cannon",
+            "team": "T019RL7R8K1",
+            "name": "alice_cannon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711333898.291299",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ePO2U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "how long is flight"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1711334193.152049",
+        "client_msg_id": "D1DDA2AE-7A1C-4642-A310-699986D344EE",
+        "text": "2.5 hrs",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711333898.291299",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fDfuB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2.5 hrs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

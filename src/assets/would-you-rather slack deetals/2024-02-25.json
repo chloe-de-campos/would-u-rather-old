@@ -1,0 +1,4616 @@
+[
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1708911744.845809",
+        "client_msg_id": "B0744A29-797A-431A-82E6-3A3581FDA03A",
+        "text": ":sparkles: win the game to go to natties against north eastern on uni. \n:heart_on_fire: scrimmage bmo on mk. they try their hardest but we still win. (unsanctioned)",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708911744.845809",
+        "reply_count": 18,
+        "reply_users_count": 3,
+        "latest_reply": "1708912788.663219",
+        "reply_users": [
+            "U02JDCDDXHP",
+            "U01ANRY24FK",
+            "U01AQNJ26GZ"
+        ],
+        "replies": [
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1708911792.206129"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1708911836.884749"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1708911845.516369"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1708911864.395609"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1708911867.354279"
+            },
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1708911925.178329"
+            },
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1708911963.516599"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1708911974.334549"
+            },
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1708911982.577899"
+            },
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1708912699.465109"
+            },
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1708912706.480859"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1708912711.432429"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1708912715.687149"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1708912721.425559"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1708912742.339509"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1708912751.477909"
+            },
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1708912766.573299"
+            },
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1708912788.663219"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pVeLn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            },
+                            {
+                                "type": "text",
+                                "text": " win the game to go to natties against north eastern on uni. \n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_on_fire",
+                                "unicode": "2764-fe0f-200d-1f525"
+                            },
+                            {
+                                "type": "text",
+                                "text": " scrimmage bmo on mk. they try their hardest but we still win. (unsanctioned)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "sparkles",
+                "users": [
+                    "U02JDCDDXHP",
+                    "U02JDDZETMX",
+                    "U02J0N4DU10"
+                ],
+                "count": 3
+            },
+            {
+                "name": "heart_on_fire",
+                "users": [
+                    "U01AQNJ26GZ",
+                    "U060601B2NS",
+                    "U01AJKAFPLL",
+                    "U01ANRY24FK"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1708911792.206129",
+        "client_msg_id": "DF3D402C-89B7-498F-87F4-80F8312D74AE",
+        "text": "filmed? ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708911744.845809",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HUn5l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "filmed? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1708911836.884749",
+        "client_msg_id": "3B914AE4-0C31-4C20-BA08-40D45967F95B",
+        "text": "shitty drone",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708911744.845809",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7IvC7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "shitty drone"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1708911845.516369",
+        "client_msg_id": "AECC07B5-F7D6-413D-A8E5-21072E57BDF4",
+        "text": "there’s scientific proof but it’s not pleasant",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708911744.845809",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jOBEQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "there’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " scientific proof but "
+                            },
+                            {
+                                "type": "text",
+                                "text": "it’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " not pleasant"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1708911864.395609",
+        "client_msg_id": "9A82A194-060E-41D2-9AF4-8EDD19351A91",
+        "text": "i think i want both of these from 2 years ago",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708911744.845809",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2d1jc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i think i want both of these from 2 years ago"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1708911867.354279",
+        "client_msg_id": "80A690F8-2250-4525-A267-09FE3CE108A9",
+        "text": "this year idk",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708911744.845809",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uC25k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this year idk"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1708911922.807239",
+        "client_msg_id": "33A483F7-0CEB-4BEF-BB62-6C5B303FDEF7",
+        "text": ":car: go in the ditch every morning\n:see_no_evil: never experience the ditch",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708911922.807239",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1708912215.229939",
+        "reply_users": [
+            "U01AQNJ26GZ"
+        ],
+        "replies": [
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1708912215.229939"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4d0Qz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "red_car",
+                                "unicode": "1f697"
+                            },
+                            {
+                                "type": "text",
+                                "text": " go in the ditch every morning\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "see_no_evil",
+                                "unicode": "1f648"
+                            },
+                            {
+                                "type": "text",
+                                "text": " never experience the ditch"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "hear_no_evil",
+                "users": [
+                    "U02JDCDDXHP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "car",
+                "users": [
+                    "U01ANRY24FK",
+                    "U01AQNJ26GZ",
+                    "U04700S4CGH",
+                    "U0605TPR6NA",
+                    "U02J0N4DU10",
+                    "U047D0ZHW3A",
+                    "U01AJKAFPLL"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1708911925.178329",
+        "client_msg_id": "86570237-E1FD-45D2-BFD5-622120BA9281",
+        "text": "beat JR and dice lol ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708911744.845809",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bhPgs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "beat JR and dice lol "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1708911963.516599",
+        "client_msg_id": "7DAD0BF1-AF9B-4EED-B777-AC2E981360E3",
+        "text": "do they play awesome but we play awesomer?",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708911744.845809",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L15py",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "do they play awesome but we play awesomer?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1708911974.334549",
+        "client_msg_id": "32261BCB-C780-4392-8F59-B8BB6CF91AEA",
+        "text": "indeed",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708911744.845809",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EaM\/C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "indeed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1708911982.577899",
+        "client_msg_id": "F4C76361-A5A2-4719-9CC5-2F8E39482BB8",
+        "text": "no contest",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708911744.845809",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "52UlE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no contest"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1708912072.451559",
+        "edited": {
+            "user": "U02JDCDDXHP",
+            "ts": "1708912857.000000"
+        },
+        "client_msg_id": "8E086403-089E-4A6E-945E-92D86ED21D3E",
+        "text": ":jeans: get pantsed on the ultiworld stream but they accidentally pull down all your layers so you’re both butt and front out but from afar and maybe your teammates help you cover up \n:toilet: pee your pants in a 6 person seminar and everyone knows \n\nFor clarity- your pants are down, you struggle to pull them up, your teammates attempt to cover you as your struggle , your goods may be out on ultiworld",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708912072.451559",
+        "reply_count": 7,
+        "reply_users_count": 2,
+        "latest_reply": "1708912181.487609",
+        "reply_users": [
+            "U01ANRY24FK",
+            "U02JDCDDXHP"
+        ],
+        "replies": [
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1708912104.406849"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1708912113.103629"
+            },
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1708912140.286109"
+            },
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1708912149.779809"
+            },
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1708912157.997039"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1708912178.726339"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1708912181.487609"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wyu\/V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "jeans",
+                                "unicode": "1f456"
+                            },
+                            {
+                                "type": "text",
+                                "text": " get pantsed on the ultiworld stream but they accidentally pull down all your layers so you’re both butt and front out but from afar and maybe your teammates help you cover up \n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "toilet",
+                                "unicode": "1f6bd"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pee your pants in a 6 person seminar and everyone knows \n\nFor clarity- your pants are down, you struggle to pull them up, your teammates attempt to cover you as your struggle , your goods may be out on ultiworld"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "jeans",
+                "users": [
+                    "U01AQNJ26GZ",
+                    "U01ANRY24FK",
+                    "U060601B2NS",
+                    "U02JDCDDXHP",
+                    "U0605TPR6NA",
+                    "U04700S4CGH",
+                    "U047D0ZHW3A",
+                    "U01AJKAFPLL"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1708912104.406849",
+        "client_msg_id": "184EB0E7-661F-4FFA-8293-AE20E58D4C6C",
+        "text": "i feel like i caht mean it",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708912072.451559",
+        "parent_user_id": "U02JDCDDXHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "68uzx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i feel like i caht mean it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bangbang",
+                "users": [
+                    "U02JDCDDXHP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1708912113.103629",
+        "client_msg_id": "5A1325DF-1DB0-4DEE-8C3E-3642D2A8AE3C",
+        "text": "but i feel like pantsed would be ok",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708912072.451559",
+        "parent_user_id": "U02JDCDDXHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QQhbC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but i feel like pantsed would be ok"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bangbang",
+                "users": [
+                    "U01AQNJ26GZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1708912140.286109",
+        "client_msg_id": "37BB896A-B0B8-4A8C-88CC-268054C221E3",
+        "text": "I just feel like it would be a really great bit",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708912072.451559",
+        "parent_user_id": "U02JDCDDXHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uOfes",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I just feel like it would be a really great bit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1708912149.779809",
+        "client_msg_id": "6BDAEFD9-0313-483F-B20C-DBAB405EB454",
+        "text": "frisbee folk are so open to pantsing ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708912072.451559",
+        "parent_user_id": "U02JDCDDXHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sZMhY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "frisbee folk are so open to pantsing "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bangbang",
+                "users": [
+                    "U01AQNJ26GZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1708912157.997039",
+        "client_msg_id": "54F7CBBB-9724-4878-9C0D-B3C0577F5092",
+        "text": "permanent nickname material ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708912072.451559",
+        "parent_user_id": "U02JDCDDXHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Z4Sy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "permanent nickname material "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1708912178.726339",
+        "client_msg_id": "A4E60BA9-7BFF-48ED-9C17-2D9D4DAA6E43",
+        "text": "watch ur waistband",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708912072.451559",
+        "parent_user_id": "U02JDCDDXHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RAKGs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "watch ur waistband"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "face_with_peeking_eye",
+                "users": [
+                    "U02JDCDDXHP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1708912181.487609",
+        "client_msg_id": "6AB1D22C-7816-4B4C-96F9-AF2E6958C472",
+        "text": "&gt;:)",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708912072.451559",
+        "parent_user_id": "U02JDCDDXHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h4vCF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": ">:)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1708912215.229939",
+        "client_msg_id": "557519F5-0899-407A-8840-E36894C8B6CF",
+        "text": "i crave routine",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708911922.807239",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iQybd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i crave routine"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "sneezing_face",
+                "users": [
+                    "U01ANRY24FK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1708912225.756249",
+        "client_msg_id": "7F8D2AA0-0CEA-4559-A13C-FE1F51F77790",
+        "text": ":relaxed:  sprain one ankle 10x in 5 years\n:flushed:  sprain each ankle 5x in 5 years",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708912225.756249",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1708917127.516619",
+        "reply_users": [
+            "U02JDCDDXHP",
+            "U01AQNJ26GZ",
+            "U01ANRY24FK"
+        ],
+        "replies": [
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1708912270.378029"
+            },
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1708912307.709799"
+            },
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1708916498.946719"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1708917127.516619"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FgUVr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "relaxed",
+                                "unicode": "263a-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  sprain one ankle 10x in 5 years\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "flushed",
+                                "unicode": "1f633"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  sprain each ankle 5x in 5 years"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "flushed",
+                "users": [
+                    "U0605TPR6NA",
+                    "U05VC250MM5",
+                    "U01AQNJ26GZ",
+                    "U01ANRY24FK",
+                    "U060CNF6ZBL",
+                    "U02JDCDDXHP"
+                ],
+                "count": 6
+            },
+            {
+                "name": "relaxed",
+                "users": [
+                    "U047D0ZHW3A",
+                    "U02J0N4DU10"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1708912270.378029",
+        "client_msg_id": "007A13A1-9F02-497C-9DE9-F12D503213E4",
+        "text": "this is heinous",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708912225.756249",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/md2g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this is heinous"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1708912307.709799",
+        "client_msg_id": "B50AD97C-A40D-4F88-BA20-55D2A4AEE9EB",
+        "text": "i’m sure there’s a medically correct answer",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708912225.756249",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GgzND",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sure "
+                            },
+                            {
+                                "type": "text",
+                                "text": "there’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " a medically correct answer"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1708912461.789779",
+        "edited": {
+            "user": "U01ANRY24FK",
+            "ts": "1708912489.000000"
+        },
+        "client_msg_id": "97BAC08E-43D1-41D6-824C-1FEEE897EDBE",
+        "text": ":face_with_peeking_eye: accidentally attach nudes instead of your homework to an email to your professor\n:no_mouth: don’t?",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708912461.789779",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1708912549.186179",
+        "reply_users": [
+            "U01AQNJ26GZ",
+            "U01ANRY24FK",
+            "U060601B2NS"
+        ],
+        "replies": [
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1708912532.894089"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1708912537.429519"
+            },
+            {
+                "user": "U060601B2NS",
+                "ts": "1708912549.186179"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XRDd9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "face_with_peeking_eye",
+                                "unicode": "1fae3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " accidentally attach nudes instead of your homework to an email to your professor\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "no_mouth",
+                                "unicode": "1f636"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "don’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "no_mouth",
+                "users": [
+                    "U01AQNJ26GZ",
+                    "U047D0ZHW3A"
+                ],
+                "count": 2
+            },
+            {
+                "name": "face_with_peeking_eye",
+                "users": [
+                    "U060601B2NS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U02J0N4DU10",
+        "text": "<@U02J0N4DU10> has joined the channel",
+        "type": "message",
+        "ts": "1708912491.911159",
+        "reactions": [
+            {
+                "name": "two_hearts",
+                "users": [
+                    "U01ANRY24FK",
+                    "U01AQNJ26GZ",
+                    "U02J0N4DU10",
+                    "U04700S4CGH",
+                    "U02JDCDDXHP"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1708912532.894089",
+        "client_msg_id": "861696D0-3636-4CF3-8F75-53E0BE544387",
+        "text": "linnaea",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708912461.789779",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "86R26",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "linnaea"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1708912537.429519",
+        "client_msg_id": "B27FFA8A-BE11-4124-A218-43CEE22D2FA8",
+        "text": "sparky? ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708912461.789779",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QRk0p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sparky? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U060601B2NS",
+        "type": "message",
+        "ts": "1708912549.186179",
+        "client_msg_id": "CCEC679E-9ED4-4EE7-B6DF-C66F072BE2A3",
+        "text": ":sunglasses: ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "0e29ae744ea2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-12\/6018253406423_0e29ae744ea23ac66d9b_72.png",
+            "first_name": "Linnaea",
+            "real_name": "Linnaea McGuinness",
+            "display_name": "sparky",
+            "team": "T019RL7R8K1",
+            "name": "linnaea_mcguinness",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708912461.789779",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "klZNL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "sunglasses",
+                                "unicode": "1f60e"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "sunglasses",
+                "users": [
+                    "U02JDCDDXHP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U02HXU752RK",
+        "text": "<@U02HXU752RK> has joined the channel",
+        "type": "message",
+        "ts": "1708912599.472989"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U02J0PQR85R",
+        "text": "<@U02J0PQR85R> has joined the channel",
+        "type": "message",
+        "ts": "1708912605.165819"
+    },
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1708912699.465109",
+        "client_msg_id": "04699B44-BA02-40AD-B0A3-E9B597AC2B49",
+        "text": "if we beat bmo i do feel that we would also by extension be good enough for natties",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708911744.845809",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cqtcn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "if we beat bmo i do feel that we would also by extension be good enough for natties"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1708912706.480859",
+        "client_msg_id": "5FDF8B9D-A075-479D-AF8B-1E32C1E73ACD",
+        "text": "or is that not how it works",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708911744.845809",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y1Cp7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "or is that not how it works"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1708912711.432429",
+        "client_msg_id": "BB77D891-066D-4225-9E36-9FF7E87D0957",
+        "text": "no ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708911744.845809",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fJMFP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1708912715.687149",
+        "client_msg_id": "FD4DC738-8FE3-42CB-ABA8-32ADB60B3785",
+        "text": "the brackets are fucked ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708911744.845809",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XGWfX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the brackets are fucked "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1708912721.425559",
+        "client_msg_id": "6501F58F-DF5D-4271-80E8-3347BDF5F378",
+        "text": "we have a high ceiling and a low floor",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708911744.845809",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dhU4C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we have a high ceiling and a low floor"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1708912742.339509",
+        "client_msg_id": "6FCEB40D-CCBC-4714-B18A-39B22B6C94F0",
+        "text": "it’s a tumultuous season  ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708911744.845809",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G+xoz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " a tumultuous season  "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1708912751.477909",
+        "client_msg_id": "33DDDB2F-1645-4BF4-9A76-9108DBF07D12",
+        "text": "it’s a tumultuous season",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708911744.845809",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0XYTP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " a tumultuous season"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1708912766.573299",
+        "client_msg_id": "5A491B2B-AA8C-443B-8DF3-78F1FB513CFE",
+        "text": "fuck",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708911744.845809",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MxrRH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "fuck"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1708912788.663219",
+        "client_msg_id": "1C7E94E2-FB7C-4716-BBEC-0D206B2E708C",
+        "text": "is it good for program unity",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708911744.845809",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yv17I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "is it good for program unity"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1708916352.875719",
+        "client_msg_id": "1F07B98E-8503-4AF3-BF87-AC0B68B918AD",
+        "text": ":see_no_evil: tell a stranger at the airport you play sports: ultimate frisbee \n:face_with_spiral_eyes: tell a stranger at the airport you play sports: bowling",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708916352.875719",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1708916516.505779",
+        "reply_users": [
+            "U02J0PQR85R",
+            "U01ANRY24FK"
+        ],
+        "replies": [
+            {
+                "user": "U02J0PQR85R",
+                "ts": "1708916409.551179"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1708916516.505779"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BCK2L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "see_no_evil",
+                                "unicode": "1f648"
+                            },
+                            {
+                                "type": "text",
+                                "text": " tell a stranger at the airport you play sports: ultimate frisbee \n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_with_spiral_eyes",
+                                "unicode": "1f635-200d-1f4ab"
+                            },
+                            {
+                                "type": "text",
+                                "text": " tell a stranger at the airport you play sports: bowling"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "monkey",
+                "users": [
+                    "U02J0N4DU10",
+                    "U02JDCDDXHP",
+                    "U047D0ZHW3A"
+                ],
+                "count": 3
+            },
+            {
+                "name": "face_with_spiral_eyes",
+                "users": [
+                    "U02JDDZETMX",
+                    "U02J0PQR85R",
+                    "U02HXU752RK"
+                ],
+                "count": 3
+            },
+            {
+                "name": "see_no_evil",
+                "users": [
+                    "U01AQNJ26GZ",
+                    "U05VC250MM5",
+                    "U060F69DCUU",
+                    "U01AJKAFPLL"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U02HXPJ5CS1",
+        "text": "<@U02HXPJ5CS1> has joined the channel",
+        "type": "message",
+        "ts": "1708916404.212999"
+    },
+    {
+        "user": "U02J0PQR85R",
+        "type": "message",
+        "ts": "1708916409.551179",
+        "client_msg_id": "3F909242-8755-4631-924E-8DA212FBBC4E",
+        "text": "wait is the bowling team at tulane or anywhere else",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "5a5a4c9ba486",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-01\/5197718318484_5a5a4c9ba486da208996_72.png",
+            "first_name": "Nora",
+            "real_name": "Nora Starhill",
+            "display_name": "Max Shields",
+            "team": "T019RL7R8K1",
+            "name": "nora_starhill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708916352.875719",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hpPzh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "wait is the bowling team at tulane or anywhere else"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1708916498.946719",
+        "client_msg_id": "FB8E5392-EC05-445D-96F1-02F9A2050380",
+        "text": "If I sprain both at least my legs are even ? ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708912225.756249",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dpaO9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If I sprain both at least my legs are even ? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "hand_with_index_finger_and_thumb_crossed",
+                "users": [
+                    "U01ANRY24FK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1708916516.505779",
+        "client_msg_id": "69B79FC2-27F9-446D-A1E5-C6E8436E0110",
+        "text": "tulane",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708916352.875719",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "93WAI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tulane"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1708916791.692989",
+        "edited": {
+            "user": "U01ANRY24FK",
+            "ts": "1708916799.000000"
+        },
+        "client_msg_id": "225F8024-61A0-4EB3-8350-0C0A612F8383",
+        "text": "welcome new members of the channel. please participate or else i will accuse you of being boring and threaten to eject you :kissing_heart: ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M+XUY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "welcome new members of the channel. please participate or else i will accuse you of being boring and threaten to eject you "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "kissing_heart",
+                                "unicode": "1f618"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "smiling_imp",
+                "users": [
+                    "U02JDCDDXHP",
+                    "U01ANRY24FK",
+                    "U02J0PQR85R"
+                ],
+                "count": 3
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U01AQNJ26GZ",
+                    "U02J0PQR85R"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1708917127.516619",
+        "client_msg_id": "1D9245AA-7292-4A16-A7E9-B38CC5EE5D28",
+        "text": "that feels nice",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708912225.756249",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xd\/7A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "that feels nice"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDDZETMX",
+        "type": "message",
+        "ts": "1708917374.259959",
+        "client_msg_id": "2524C657-7DD9-4674-81BA-8A9E7069D23A",
+        "text": " :beers: sit next to a creepy looking old ish man wearing florescent neon \n:pray: jump out the window of the plane \n:broken_heart: cry ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "da58b8021c6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-04\/2910844484980_da58b8021c6fbdeeb42c_72.png",
+            "first_name": "Dana",
+            "real_name": "Dana Richie",
+            "display_name": "jack jack",
+            "team": "T019RL7R8K1",
+            "name": "darichie20",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708917374.259959",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1708918304.498479",
+        "reply_users": [
+            "U02JDCDDXHP",
+            "U02J0PQR85R"
+        ],
+        "replies": [
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1708917641.197709"
+            },
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1708917659.989649"
+            },
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1708917676.041799"
+            },
+            {
+                "user": "U02J0PQR85R",
+                "ts": "1708917787.911419"
+            },
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1708918304.498479"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8+42K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "beers",
+                                "unicode": "1f37b"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sit next to a creepy looking old ish man wearing florescent neon \n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " jump out the window of the plane \n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "broken_heart",
+                                "unicode": "1f494"
+                            },
+                            {
+                                "type": "text",
+                                "text": " cry "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "beers",
+                "users": [
+                    "U02J0PQR85R"
+                ],
+                "count": 1
+            },
+            {
+                "name": "broken_heart",
+                "users": [
+                    "U047D0ZHW3A",
+                    "U02JDCDDXHP",
+                    "U060F69DCUU",
+                    "U01AQNJ26GZ",
+                    "U060CNF6ZBL",
+                    "U01AJKAFPLL"
+                ],
+                "count": 6
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U0605TPR6NA",
+                    "U02HXU752RK"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U02J0PQR85R",
+        "type": "message",
+        "ts": "1708917475.523839",
+        "client_msg_id": "C7AA4324-5A61-480F-A988-E69D6CC342DD",
+        "text": ":computer: everyone gets airdropped a funny picture but you\n:dancers: you continually get airdropped the same photo by everyone and you CANT decline",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "5a5a4c9ba486",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-01\/5197718318484_5a5a4c9ba486da208996_72.png",
+            "first_name": "Nora",
+            "real_name": "Nora Starhill",
+            "display_name": "Max Shields",
+            "team": "T019RL7R8K1",
+            "name": "nora_starhill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lP1rF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "computer",
+                                "unicode": "1f4bb"
+                            },
+                            {
+                                "type": "text",
+                                "text": " everyone gets airdropped a funny picture but you\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "dancers",
+                                "unicode": "1f46f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " you continually get airdropped the same photo by everyone and you CANT decline"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "computer",
+                "users": [
+                    "U01ANRY24FK",
+                    "U02JDDZETMX",
+                    "U01AQNJ26GZ",
+                    "U02HXU752RK",
+                    "U01AJKAFPLL"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1708917506.793729",
+        "client_msg_id": "E974CE54-A0F8-4611-B6BF-DEA5EC21FF25",
+        "text": ":honey_pot: chat for the whole flight with a very boring but very friendly seatmate\n:tangerine: sit next to a hostile child",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708917506.793729",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1708917642.879119",
+        "reply_users": [
+            "U060601B2NS",
+            "U02J0PQR85R",
+            "U01ANRY24FK"
+        ],
+        "replies": [
+            {
+                "user": "U060601B2NS",
+                "ts": "1708917534.081809"
+            },
+            {
+                "user": "U02J0PQR85R",
+                "ts": "1708917548.073399"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1708917632.772159"
+            },
+            {
+                "user": "U060601B2NS",
+                "ts": "1708917642.879119"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QhjG2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "honey_pot",
+                                "unicode": "1f36f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " chat for the whole flight with a very boring but very friendly seatmate\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "tangerine",
+                                "unicode": "1f34a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sit next to a hostile child"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "large_orange_circle",
+                "users": [
+                    "U02J0PQR85R",
+                    "U060601B2NS",
+                    "U060F69DCUU",
+                    "U02HXU752RK",
+                    "U01AJKAFPLL"
+                ],
+                "count": 5
+            },
+            {
+                "name": "honey_pot",
+                "users": [
+                    "U01AQNJ26GZ",
+                    "U060CNF6ZBL"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U060601B2NS",
+        "type": "message",
+        "ts": "1708917534.081809",
+        "client_msg_id": "031A690C-82B0-46DE-9D60-8BB106AC28A2",
+        "text": "Can we physically fight the child? ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "0e29ae744ea2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-12\/6018253406423_0e29ae744ea23ac66d9b_72.png",
+            "first_name": "Linnaea",
+            "real_name": "Linnaea McGuinness",
+            "display_name": "sparky",
+            "team": "T019RL7R8K1",
+            "name": "linnaea_mcguinness",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708917506.793729",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hKV\/o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can we physically fight the child? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bangbang",
+                "users": [
+                    "U02JDDZETMX",
+                    "U05VC250MM5",
+                    "U060F69DCUU"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U02JDDZETMX",
+        "type": "message",
+        "ts": "1708917545.775439",
+        "client_msg_id": "2ECC6394-3611-4B3F-84FD-F7F84021AB8C",
+        "text": "would you rather \n:kiss: have chapped lips perpetually for the rest of your life and any chapstick that comes witching your presence melts at your touch \n:muscle: constantly have an egregious farms sun burn but you have to wear nothing but tank tops forever ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "da58b8021c6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-04\/2910844484980_da58b8021c6fbdeeb42c_72.png",
+            "first_name": "Dana",
+            "real_name": "Dana Richie",
+            "display_name": "jack jack",
+            "team": "T019RL7R8K1",
+            "name": "darichie20",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708917545.775439",
+        "reply_count": 7,
+        "reply_users_count": 4,
+        "latest_reply": "1708917886.115099",
+        "reply_users": [
+            "U02J0PQR85R",
+            "U02JDDZETMX",
+            "U01ANRY24FK",
+            "U01AQNJ26GZ"
+        ],
+        "replies": [
+            {
+                "user": "U02J0PQR85R",
+                "ts": "1708917583.408299"
+            },
+            {
+                "user": "U02JDDZETMX",
+                "ts": "1708917591.004619"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1708917657.742589"
+            },
+            {
+                "user": "U02JDDZETMX",
+                "ts": "1708917717.890999"
+            },
+            {
+                "user": "U02JDDZETMX",
+                "ts": "1708917729.075969"
+            },
+            {
+                "user": "U02J0PQR85R",
+                "ts": "1708917736.271809"
+            },
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1708917886.115099"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lE5St",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "would you rather \n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "kiss",
+                                "unicode": "1f48b"
+                            },
+                            {
+                                "type": "text",
+                                "text": " have chapped lips perpetually for the rest of your life and any chapstick that comes witching your presence melts at your touch \n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle",
+                                "unicode": "1f4aa"
+                            },
+                            {
+                                "type": "text",
+                                "text": " constantly have an egregious farms sun burn but you have to wear nothing but tank tops forever "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "U02J0PQR85R",
+                    "U05VC250MM5",
+                    "U0605TPR6NA",
+                    "U01ANRY24FK",
+                    "U01AJKAFPLL",
+                    "U02JDCDDXHP"
+                ],
+                "count": 6
+            },
+            {
+                "name": "kiss",
+                "users": [
+                    "U01AQNJ26GZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02J0PQR85R",
+        "type": "message",
+        "ts": "1708917548.073399",
+        "client_msg_id": "30031C8D-C2A2-4008-906A-51EA743D7B7A",
+        "text": "important to know",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "5a5a4c9ba486",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-01\/5197718318484_5a5a4c9ba486da208996_72.png",
+            "first_name": "Nora",
+            "real_name": "Nora Starhill",
+            "display_name": "Max Shields",
+            "team": "T019RL7R8K1",
+            "name": "nora_starhill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708917506.793729",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ba16L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "important to know"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02J0PQR85R",
+        "type": "message",
+        "ts": "1708917583.408299",
+        "client_msg_id": "C3FE3A33-5BE3-4736-9F71-1EE9714CD866",
+        "text": "i need <@U02J0N4DU10> to apply my chapstick forever so obvi i can’t go that",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "5a5a4c9ba486",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-01\/5197718318484_5a5a4c9ba486da208996_72.png",
+            "first_name": "Nora",
+            "real_name": "Nora Starhill",
+            "display_name": "Max Shields",
+            "team": "T019RL7R8K1",
+            "name": "nora_starhill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708917545.775439",
+        "parent_user_id": "U02JDDZETMX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9greu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i need "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02J0N4DU10"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to apply my chapstick forever so obvi i "
+                            },
+                            {
+                                "type": "text",
+                                "text": "can’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " go that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U02J0N4DU10"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02JDDZETMX",
+        "type": "message",
+        "ts": "1708917591.004619",
+        "client_msg_id": "5F293817-D269-41EF-A03C-FA9235648BF6",
+        "text": "the herald regrets the spelling errors",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "da58b8021c6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-04\/2910844484980_da58b8021c6fbdeeb42c_72.png",
+            "first_name": "Dana",
+            "real_name": "Dana Richie",
+            "display_name": "jack jack",
+            "team": "T019RL7R8K1",
+            "name": "darichie20",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708917545.775439",
+        "parent_user_id": "U02JDDZETMX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ovCPO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the herald regrets the spelling errors"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U060601B2NS",
+        "type": "message",
+        "ts": "1708917616.696559",
+        "edited": {
+            "user": "U060601B2NS",
+            "ts": "1708917684.000000"
+        },
+        "client_msg_id": "C126BC06-718F-4FC7-81EA-3D7AEEB72B74",
+        "text": ":face_vomiting:  *frow up in brosville\n:unamused: NOT have the life experience of throwing up in brosville",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "0e29ae744ea2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-12\/6018253406423_0e29ae744ea23ac66d9b_72.png",
+            "first_name": "Linnaea",
+            "real_name": "Linnaea McGuinness",
+            "display_name": "sparky",
+            "team": "T019RL7R8K1",
+            "name": "linnaea_mcguinness",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708917616.696559",
+        "reply_count": 8,
+        "reply_users_count": 5,
+        "latest_reply": "1708917743.631929",
+        "reply_users": [
+            "U02J0PQR85R",
+            "U02HXPJ5CS1",
+            "U060601B2NS",
+            "U01ANRY24FK",
+            "U02JDDZETMX"
+        ],
+        "replies": [
+            {
+                "user": "U02J0PQR85R",
+                "ts": "1708917638.041169"
+            },
+            {
+                "user": "U02HXPJ5CS1",
+                "ts": "1708917639.788819"
+            },
+            {
+                "user": "U060601B2NS",
+                "ts": "1708917663.279579"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1708917681.276349"
+            },
+            {
+                "user": "U02JDDZETMX",
+                "ts": "1708917687.009839"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1708917692.428409"
+            },
+            {
+                "user": "U02JDDZETMX",
+                "ts": "1708917695.169839"
+            },
+            {
+                "user": "U060601B2NS",
+                "ts": "1708917743.631929"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "omXn4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "face_with_open_mouth_vomiting",
+                                "unicode": "1f92e"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  *frow up in brosville\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "unamused",
+                                "unicode": "1f612"
+                            },
+                            {
+                                "type": "text",
+                                "text": " NOT have the life experience of throwing up in brosville"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "face_vomiting",
+                "users": [
+                    "U01ANRY24FK",
+                    "U02J0PQR85R",
+                    "U02HXU752RK",
+                    "U060CNF6ZBL",
+                    "U047D0ZHW3A"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1708917632.772159",
+        "client_msg_id": "95B9D12B-EE27-402C-9CA3-579B6E5C318D",
+        "text": "not legally. everyone’s mad you’re beating up a child",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708917506.793729",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z10j4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "not legally. "
+                            },
+                            {
+                                "type": "text",
+                                "text": "everyone’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " mad "
+                            },
+                            {
+                                "type": "text",
+                                "text": "you’re"
+                            },
+                            {
+                                "type": "text",
+                                "text": " beating up a child"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02J0PQR85R",
+        "type": "message",
+        "ts": "1708917638.041169",
+        "client_msg_id": "8DE3C640-3BBF-4136-B053-81EC064395D0",
+        "text": "is this from experience",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "5a5a4c9ba486",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-01\/5197718318484_5a5a4c9ba486da208996_72.png",
+            "first_name": "Nora",
+            "real_name": "Nora Starhill",
+            "display_name": "Max Shields",
+            "team": "T019RL7R8K1",
+            "name": "nora_starhill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708917616.696559",
+        "parent_user_id": "U060601B2NS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JHsWa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "is this from experience"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02HXPJ5CS1",
+        "type": "message",
+        "ts": "1708917639.788819",
+        "client_msg_id": "5DFC15C1-B17E-4C33-8857-6DEBD7F92D65",
+        "text": "*frow up ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "2072fa054fab",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-14\/2839079319525_2072fa054fabe0dddf3a_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Feder",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "rita_feder",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708917616.696559",
+        "parent_user_id": "U060601B2NS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nsUnb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "*frow up "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bangbang",
+                "users": [
+                    "U060601B2NS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1708917641.197709",
+        "client_msg_id": "2DCC7669-17EF-49EE-8BF7-0CAA89BF02C0",
+        "text": "IM FUCKING CACKLINE",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708917374.259959",
+        "parent_user_id": "U02JDDZETMX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "umfI2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "IM FUCKING CACKLINE"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U060601B2NS",
+        "type": "message",
+        "ts": "1708917642.879119",
+        "client_msg_id": "DDEBF14B-EE77-42CB-941F-C15B03111FBA",
+        "text": "Worth it ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "0e29ae744ea2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-12\/6018253406423_0e29ae744ea23ac66d9b_72.png",
+            "first_name": "Linnaea",
+            "real_name": "Linnaea McGuinness",
+            "display_name": "sparky",
+            "team": "T019RL7R8K1",
+            "name": "linnaea_mcguinness",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708917506.793729",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hdlrT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Worth it "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bangbang",
+                "users": [
+                    "U02J0PQR85R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1708917657.742589",
+        "client_msg_id": "9A4A07B4-DF2D-4D46-993C-2CBEE3641733",
+        "text": "i HATE chapped lips",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708917545.775439",
+        "parent_user_id": "U02JDDZETMX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bVRvv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i HATE chapped lips"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1708917659.989649",
+        "client_msg_id": "7C342F6E-9BA3-4475-87BA-9802BD7C7593",
+        "text": "Jack Jack ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708917374.259959",
+        "parent_user_id": "U02JDDZETMX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LHzEU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Jack Jack "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U060601B2NS",
+        "type": "message",
+        "ts": "1708917663.279579",
+        "client_msg_id": "49FB3875-11C2-40C8-B6EB-F31EE2542F97",
+        "text": "No comment ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "0e29ae744ea2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-12\/6018253406423_0e29ae744ea23ac66d9b_72.png",
+            "first_name": "Linnaea",
+            "real_name": "Linnaea McGuinness",
+            "display_name": "sparky",
+            "team": "T019RL7R8K1",
+            "name": "linnaea_mcguinness",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708917616.696559",
+        "parent_user_id": "U060601B2NS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bq9zx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No comment "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1708917676.041799",
+        "client_msg_id": "E37D0699-E2BA-4E3E-80AF-61F909871903",
+        "text": "The way you are leaned so far against the window ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708917374.259959",
+        "parent_user_id": "U02JDDZETMX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DL\/Kc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The way you are leaned so far against the window "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1708917681.276349",
+        "client_msg_id": "2CAFD3E9-F312-4C83-8F06-965E97949984",
+        "text": "honestly",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708917616.696559",
+        "parent_user_id": "U060601B2NS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RlmLN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "honestly"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDDZETMX",
+        "type": "message",
+        "ts": "1708917687.009839",
+        "client_msg_id": "C95E964B-1530-4984-8971-F92E3C84C81B",
+        "text": "third option pee in brosville with your buddy ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "da58b8021c6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-04\/2910844484980_da58b8021c6fbdeeb42c_72.png",
+            "first_name": "Dana",
+            "real_name": "Dana Richie",
+            "display_name": "jack jack",
+            "team": "T019RL7R8K1",
+            "name": "darichie20",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708917616.696559",
+        "parent_user_id": "U060601B2NS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MAbWB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "third option pee in brosville with your buddy "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bangbang",
+                "users": [
+                    "U02JDCDDXHP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1708917692.428409",
+        "client_msg_id": "6109B2DF-AD2D-4E17-906B-829845BF11AB",
+        "text": "what an honor that must’ve been ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708917616.696559",
+        "parent_user_id": "U060601B2NS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/m98G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what an honor that "
+                            },
+                            {
+                                "type": "text",
+                                "text": "must’ve"
+                            },
+                            {
+                                "type": "text",
+                                "text": " been "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bangbang",
+                "users": [
+                    "U060601B2NS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02JDDZETMX",
+        "type": "message",
+        "ts": "1708917695.169839",
+        "client_msg_id": "1DF57D47-F70B-42B8-BB2C-E3B4685CD8CD",
+        "text": "i :heart_hands:  you <@U02JDCDDXHP> ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "da58b8021c6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-04\/2910844484980_da58b8021c6fbdeeb42c_72.png",
+            "first_name": "Dana",
+            "real_name": "Dana Richie",
+            "display_name": "jack jack",
+            "team": "T019RL7R8K1",
+            "name": "darichie20",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708917616.696559",
+        "parent_user_id": "U060601B2NS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hgEq4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_hands",
+                                "unicode": "1faf6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02JDCDDXHP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U02JDCDDXHP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "kissing_heart",
+                "users": [
+                    "U02JDCDDXHP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "bangbang",
+                "users": [
+                    "U060601B2NS",
+                    "U01ANRY24FK"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U02JDDZETMX",
+        "type": "message",
+        "ts": "1708917717.890999",
+        "client_msg_id": "FD172AB3-A8D1-4615-B58D-78A1E2262BDC",
+        "text": "i have chapped lips rn and a games sun burn ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "da58b8021c6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-04\/2910844484980_da58b8021c6fbdeeb42c_72.png",
+            "first_name": "Dana",
+            "real_name": "Dana Richie",
+            "display_name": "jack jack",
+            "team": "T019RL7R8K1",
+            "name": "darichie20",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708917545.775439",
+        "parent_user_id": "U02JDDZETMX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bRbjb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i have chapped lips rn and a games sun burn "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bangbang",
+                "users": [
+                    "U01ANRY24FK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02JDDZETMX",
+        "type": "message",
+        "ts": "1708917729.075969",
+        "client_msg_id": "713BC741-428D-45D6-A276-A46C0CD96E1A",
+        "text": "i am in a ring of hell",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "da58b8021c6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-04\/2910844484980_da58b8021c6fbdeeb42c_72.png",
+            "first_name": "Dana",
+            "real_name": "Dana Richie",
+            "display_name": "jack jack",
+            "team": "T019RL7R8K1",
+            "name": "darichie20",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708917545.775439",
+        "parent_user_id": "U02JDDZETMX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IJZRE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i am in a ring of hell"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02J0PQR85R",
+        "type": "message",
+        "ts": "1708917736.271809",
+        "client_msg_id": "DCABD0A5-6EB1-4D74-8D1B-A03BA3332773",
+        "text": "maggie flamed me earlier for having chapped lips",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "5a5a4c9ba486",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-01\/5197718318484_5a5a4c9ba486da208996_72.png",
+            "first_name": "Nora",
+            "real_name": "Nora Starhill",
+            "display_name": "Max Shields",
+            "team": "T019RL7R8K1",
+            "name": "nora_starhill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708917545.775439",
+        "parent_user_id": "U02JDDZETMX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hEvX3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "maggie flamed me earlier for having chapped lips"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U060601B2NS",
+        "type": "message",
+        "ts": "1708917743.631929",
+        "client_msg_id": "C49617DF-A890-4139-BE72-50E770E32BA4",
+        "text": "Kunzang wins driver of the year award ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "0e29ae744ea2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-12\/6018253406423_0e29ae744ea23ac66d9b_72.png",
+            "first_name": "Linnaea",
+            "real_name": "Linnaea McGuinness",
+            "display_name": "sparky",
+            "team": "T019RL7R8K1",
+            "name": "linnaea_mcguinness",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708917616.696559",
+        "parent_user_id": "U060601B2NS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ECdNg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Kunzang wins driver of the year award "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart_eyes_cat",
+                "users": [
+                    "U02JDCDDXHP",
+                    "U01ANRY24FK"
+                ],
+                "count": 2
+            },
+            {
+                "name": "bangbang",
+                "users": [
+                    "U0605TPR6NA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F06M7GR60V6",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U02J0PQR85R",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1708917787.911419",
+        "client_msg_id": "D091B4D5-04CE-4009-A89F-0C7890E49300",
+        "thread_ts": "1708917374.259959",
+        "parent_user_id": "U02JDDZETMX"
+    },
+    {
+        "user": "U02JDDZETMX",
+        "type": "message",
+        "ts": "1708917870.456459",
+        "client_msg_id": "79780F55-62D1-48E0-AEB3-88B766729DFE",
+        "text": ":sheep: be on a plane that is run like the military \n:pray: fly southwest with the guy who made jokes ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "da58b8021c6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-04\/2910844484980_da58b8021c6fbdeeb42c_72.png",
+            "first_name": "Dana",
+            "real_name": "Dana Richie",
+            "display_name": "jack jack",
+            "team": "T019RL7R8K1",
+            "name": "darichie20",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BalN+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "sheep",
+                                "unicode": "1f411"
+                            },
+                            {
+                                "type": "text",
+                                "text": " be on a plane that is run like the military \n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " fly southwest with the guy who made jokes "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U060CNF6ZBL",
+                    "U02JDCDDXHP",
+                    "U060601B2NS",
+                    "U05VC250MM5",
+                    "U01AJKAFPLL"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "type": "message",
+        "ts": "1708917870.764649",
+        "thread_ts": "1708917870.764649",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1708917979.846889",
+        "reply_users": [
+            "U02JDDZETMX",
+            "U02J0PQR85R"
+        ],
+        "replies": [
+            {
+                "user": "U02JDDZETMX",
+                "ts": "1708917925.668399"
+            },
+            {
+                "user": "U02JDDZETMX",
+                "ts": "1708917932.988899"
+            },
+            {
+                "user": "U02JDDZETMX",
+                "ts": "1708917937.258769"
+            },
+            {
+                "user": "U02JDDZETMX",
+                "ts": "1708917941.263139"
+            },
+            {
+                "user": "U02J0PQR85R",
+                "ts": "1708917979.846889"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "male_mage",
+                "users": [
+                    "U01ANRY24FK",
+                    "U0605TPR6NA",
+                    "U060CNF6ZBL",
+                    "U02JDDZETMX",
+                    "U060601B2NS",
+                    "U02J0N4DU10",
+                    "U02HXPJ5CS1"
+                ],
+                "count": 7
+            },
+            {
+                "name": "paperclip",
+                "users": [
+                    "U02JDCDDXHP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02JDDZETMX",
+        "type": "message",
+        "ts": "1708917879.574019",
+        "client_msg_id": "6C84C4D7-3A8B-4285-9DA8-0314E786FF41",
+        "text": "same brain",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "da58b8021c6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-04\/2910844484980_da58b8021c6fbdeeb42c_72.png",
+            "first_name": "Dana",
+            "real_name": "Dana Richie",
+            "display_name": "jack jack",
+            "team": "T019RL7R8K1",
+            "name": "darichie20",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lv4va",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "same brain"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDDZETMX",
+        "type": "message",
+        "ts": "1708917883.140949",
+        "client_msg_id": "DF777862-9607-4F33-B925-70F2EA379B5E",
+        "text": "twin flame ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "da58b8021c6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-04\/2910844484980_da58b8021c6fbdeeb42c_72.png",
+            "first_name": "Dana",
+            "real_name": "Dana Richie",
+            "display_name": "jack jack",
+            "team": "T019RL7R8K1",
+            "name": "darichie20",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jOYIK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "twin flame "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1708917886.115099",
+        "client_msg_id": "2C5725E5-E859-4D7F-B00E-866AE4F752FC",
+        "text": "tbh i already live the constantly chapped lifestyle ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708917545.775439",
+        "parent_user_id": "U02JDDZETMX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EVN+v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tbh i already live the constantly chapped lifestyle "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDDZETMX",
+        "type": "message",
+        "ts": "1708917887.460889",
+        "client_msg_id": "A9E9502B-5E94-441B-A03F-47EFD1D8FD38",
+        "text": ":joy: :kiss: ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "da58b8021c6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-04\/2910844484980_da58b8021c6fbdeeb42c_72.png",
+            "first_name": "Dana",
+            "real_name": "Dana Richie",
+            "display_name": "jack jack",
+            "team": "T019RL7R8K1",
+            "name": "darichie20",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4al9s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "kiss",
+                                "unicode": "1f48b"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDDZETMX",
+        "type": "message",
+        "ts": "1708917925.668399",
+        "client_msg_id": "A12BAAC5-6A70-43E8-93AB-4C59EDCCFE41",
+        "text": "i feel like bad karma ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "da58b8021c6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-04\/2910844484980_da58b8021c6fbdeeb42c_72.png",
+            "first_name": "Dana",
+            "real_name": "Dana Richie",
+            "display_name": "jack jack",
+            "team": "T019RL7R8K1",
+            "name": "darichie20",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708917870.764649",
+        "parent_user_id": "USLACKBOT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zKIY4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i feel like bad karma "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDDZETMX",
+        "type": "message",
+        "ts": "1708917932.988899",
+        "client_msg_id": "301A7F05-F616-445B-91A4-58674082A96C",
+        "text": "what’s that show when the soccer team has a plane crash ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "da58b8021c6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-04\/2910844484980_da58b8021c6fbdeeb42c_72.png",
+            "first_name": "Dana",
+            "real_name": "Dana Richie",
+            "display_name": "jack jack",
+            "team": "T019RL7R8K1",
+            "name": "darichie20",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708917870.764649",
+        "parent_user_id": "USLACKBOT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "87zpq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " that show when the soccer team has a plane crash "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDDZETMX",
+        "type": "message",
+        "ts": "1708917937.258769",
+        "client_msg_id": "49A45D92-DC34-4FA2-B191-1022C4009930",
+        "text": "bc like that could be us ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "da58b8021c6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-04\/2910844484980_da58b8021c6fbdeeb42c_72.png",
+            "first_name": "Dana",
+            "real_name": "Dana Richie",
+            "display_name": "jack jack",
+            "team": "T019RL7R8K1",
+            "name": "darichie20",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708917870.764649",
+        "parent_user_id": "USLACKBOT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sDI0e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "bc like that could be us "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDDZETMX",
+        "type": "message",
+        "ts": "1708917941.263139",
+        "client_msg_id": "83BFB544-5A94-40E0-8657-35AA82559BA3",
+        "text": "low key ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "da58b8021c6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-04\/2910844484980_da58b8021c6fbdeeb42c_72.png",
+            "first_name": "Dana",
+            "real_name": "Dana Richie",
+            "display_name": "jack jack",
+            "team": "T019RL7R8K1",
+            "name": "darichie20",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708917870.764649",
+        "parent_user_id": "USLACKBOT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZBhyT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "low key "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U02J1ARQFC3",
+        "text": "<@U02J1ARQFC3> has joined the channel",
+        "type": "message",
+        "ts": "1708917950.436289"
+    },
+    {
+        "user": "U02J0PQR85R",
+        "type": "message",
+        "ts": "1708917979.846889",
+        "client_msg_id": "84458120-62DF-4B38-BC82-994B5D070524",
+        "text": "that why i didn’t react",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "5a5a4c9ba486",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-01\/5197718318484_5a5a4c9ba486da208996_72.png",
+            "first_name": "Nora",
+            "real_name": "Nora Starhill",
+            "display_name": "Max Shields",
+            "team": "T019RL7R8K1",
+            "name": "nora_starhill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708917870.764649",
+        "parent_user_id": "USLACKBOT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rt4Xi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "that why i didn’t react"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02HXPJ5CS1",
+        "type": "message",
+        "ts": "1708918006.915319",
+        "client_msg_id": "75ECD143-2189-44EB-B375-0EE2493311CB",
+        "text": ":smiling_face_with_3_hearts:  watch Aila do standup for 3 hours :white_check_mark: win the Olympics ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "2072fa054fab",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-14\/2839079319525_2072fa054fabe0dddf3a_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Feder",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "rita_feder",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708918006.915319",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1708918148.043009",
+        "reply_users": [
+            "U02J0PQR85R",
+            "U060601B2NS",
+            "U047D0ZHW3A"
+        ],
+        "replies": [
+            {
+                "user": "U02J0PQR85R",
+                "ts": "1708918019.648279"
+            },
+            {
+                "user": "U060601B2NS",
+                "ts": "1708918030.754599"
+            },
+            {
+                "user": "U047D0ZHW3A",
+                "ts": "1708918148.043009"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vWHfC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "smiling_face_with_3_hearts",
+                                "unicode": "1f970"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  watch Aila do standup for 3 hours "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "white_check_mark",
+                                "unicode": "2705"
+                            },
+                            {
+                                "type": "text",
+                                "text": " win the Olympics "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "smiling_face_with_3_hearts",
+                "users": [
+                    "U02J0PQR85R",
+                    "U02HXPJ5CS1",
+                    "U060601B2NS",
+                    "U0605TPR6NA",
+                    "U060CNF6ZBL",
+                    "U047D0ZHW3A",
+                    "U01ANRY24FK",
+                    "U02J0N4DU10",
+                    "U02JDCDDXHP",
+                    "U02JDDZETMX",
+                    "U05VC250MM5",
+                    "U060F69DCUU",
+                    "U02HXU752RK",
+                    "U01AJKAFPLL",
+                    "U01AQNJ26GZ"
+                ],
+                "count": 15
+            }
+        ]
+    },
+    {
+        "user": "U02J0PQR85R",
+        "type": "message",
+        "ts": "1708918019.648279",
+        "client_msg_id": "754AD789-CAE1-441A-944D-72903E3AD419",
+        "text": "easy. ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "5a5a4c9ba486",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-01\/5197718318484_5a5a4c9ba486da208996_72.png",
+            "first_name": "Nora",
+            "real_name": "Nora Starhill",
+            "display_name": "Max Shields",
+            "team": "T019RL7R8K1",
+            "name": "nora_starhill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708918006.915319",
+        "parent_user_id": "U02HXPJ5CS1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B6iZL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "easy"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U060601B2NS",
+        "type": "message",
+        "ts": "1708918030.754599",
+        "client_msg_id": "53749F3F-CBC2-4D54-A302-27912FD09A04",
+        "text": "EASIEST one ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "0e29ae744ea2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-12\/6018253406423_0e29ae744ea23ac66d9b_72.png",
+            "first_name": "Linnaea",
+            "real_name": "Linnaea McGuinness",
+            "display_name": "sparky",
+            "team": "T019RL7R8K1",
+            "name": "linnaea_mcguinness",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708918006.915319",
+        "parent_user_id": "U02HXPJ5CS1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7rihr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "EASIEST one "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U047D0ZHW3A",
+        "type": "message",
+        "ts": "1708918148.043009",
+        "client_msg_id": "6E6F1523-05EA-4B81-B08A-DFA5F10BF613",
+        "text": "frisbee is not even in the olympics",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "8114083af499",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5166097997843_8114083af499c88c36ee_72.png",
+            "first_name": "julien",
+            "real_name": "julien song",
+            "display_name": "julien song",
+            "team": "T019RL7R8K1",
+            "name": "julien_song",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708918006.915319",
+        "parent_user_id": "U02HXPJ5CS1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6j5Cn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "frisbee is not even in the olympics"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U02HXU752RK",
+                    "U01AQNJ26GZ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1708918304.498479",
+        "client_msg_id": "75428EA1-4B9E-46FD-BBD7-85E2A5716EF7",
+        "text": "HAHAHAHAHA",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708917374.259959",
+        "parent_user_id": "U02JDDZETMX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G3HUk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "HAHAHAHAHA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

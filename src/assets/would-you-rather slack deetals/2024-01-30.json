@@ -1,0 +1,68 @@
+[
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1706669714.301289",
+        "edited": {
+            "user": "U01ANRY24FK",
+            "ts": "1706720998.000000"
+        },
+        "client_msg_id": "E4AF642A-AFC4-41F5-81DC-4E3349E3CC26",
+        "text": "raise yourself as a baby :rage:\nhave yourself as a parent :cold_face:",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ns+30",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "raise yourself as a baby "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rage",
+                                "unicode": "1f621"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nhave yourself as a parent "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "cold_face",
+                                "unicode": "1f976"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "rage",
+                "users": [
+                    "U01AQNJ26GZ",
+                    "U01ANRY24FK"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

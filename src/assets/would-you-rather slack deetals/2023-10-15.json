@@ -1,0 +1,93 @@
+[
+    {
+        "user": "U01ACQBSABF",
+        "type": "message",
+        "ts": "1697408878.750339",
+        "edited": {
+            "user": "B01A95GAFAA",
+            "ts": "1699380237.000000"
+        },
+        "bot_id": "B01A95GAFAA",
+        "app_id": "A04E6JX41",
+        "text": "*This polly is closed.* <@U01ANRY24FK> has a polly for you!",
+        "team": "T019RL7R8K1",
+        "bot_profile": {
+            "id": "B01A95GAFAA",
+            "app_id": "A04E6JX41",
+            "name": "Polly",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-10-26\/1466083688641_05afc842ead4d799a4fc_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-10-26\/1466083688641_05afc842ead4d799a4fc_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-26\/1466083688641_05afc842ead4d799a4fc_72.png"
+            },
+            "deleted": false,
+            "updated": 1599765602,
+            "team_id": "T019RL7R8K1"
+        },
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "B2lvA",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*would you rather*",
+                    "verbatim": true
+                },
+                "accessory": {
+                    "type": "overflow",
+                    "action_id": "PollMessage(othEzHyQaGQENdrx8).PollMessageOverflowMenu()",
+                    "options": [
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": "Settings",
+                                "emoji": true
+                            },
+                            "value": "settings"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "HsFKs",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "This polly is closed.",
+                    "verbatim": true
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "7l35V",
+                "fields": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "*1*: not make natties and get covid  \n\n`⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ `  |  0% (0)",
+                        "verbatim": true
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "*2*: make natties and get covid so you can't go  \n\n`⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ `  |  0% (0)",
+                        "verbatim": true
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "wo5B+"
+            },
+            {
+                "type": "context",
+                "block_id": "z\/4vo",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Sender: @Chloe de Campos (hobgoblin) | :unlock: *Responses:* Non-Anonymous | *:clock930: Closed: *<!date^1698013677^{date_short} at {time}|Oct 22, 2023 at 22:27 PM>",
+                        "verbatim": true
+                    }
+                ]
+            }
+        ]
+    }
+]

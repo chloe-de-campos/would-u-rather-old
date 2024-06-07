@@ -1,0 +1,387 @@
+[
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1706734764.473309",
+        "client_msg_id": "218cd679-9e5d-4b02-8a5f-7b28375d0d44",
+        "text": ":crocodile: : it's the game to go @ regionals. your game is being streamed on ESPN 3. it's the last point (maybe uni, maybe not). the disc goes up. you layout + score in the endzone. on impact, you shit your pants. it's massive and epic. your teammates are proud and disgusted. you go to natties where everyone knows you as poopoopants\n:dash: : it's just another day at practice. it's a tuesday night -- 28 degrees and you're wearing 2 pairs of pants. you're jogging to the line during a scrimmage when you shit your pants. nobody sees it happen, but you feel it and smell it. nobody knows you as poopoopants.",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706734764.473309",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1706737298.929639",
+        "reply_users": [
+            "U0605TPR6NA"
+        ],
+        "replies": [
+            {
+                "user": "U0605TPR6NA",
+                "ts": "1706737298.929639"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wCxFU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "crocodile",
+                                "unicode": "1f40a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : it's the game to go @ regionals. your game is being streamed on ESPN 3. it's the last point (maybe uni, maybe not). the disc goes up. you layout + score in the endzone. on impact, you shit your pants. it's massive and epic. your teammates are proud and disgusted. you go to natties where everyone knows you as poopoopants\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "dash",
+                                "unicode": "1f4a8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : it's just another day at practice. it's a tuesday night -- 28 degrees and you're wearing 2 pairs of pants. you're jogging to the line during a scrimmage when you shit your pants. nobody sees it happen, but you feel it and smell it. nobody knows you as poopoopants."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "crocodile",
+                "users": [
+                    "U01ANRY24FK",
+                    "U0605TPR6NA",
+                    "U01AQNJ26GZ"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1706734942.365179",
+        "client_msg_id": "11c22b17-3eb3-47f5-aed3-2f6315a2d58e",
+        "text": ":money_with_wings:: have wings on your back\n:turtle:: have a turtle shell on your back",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706734942.365179",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1706735935.423009",
+        "reply_users": [
+            "U02JDCDDXHP",
+            "U01ANRY24FK"
+        ],
+        "replies": [
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1706735903.191929"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1706735924.219559"
+            },
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1706735935.423009"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5K0KG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "money_with_wings",
+                                "unicode": "1f4b8"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": have wings on your back\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "turtle",
+                                "unicode": "1f422"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": have a turtle shell on your back"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "turtle",
+                "users": [
+                    "U01ANRY24FK",
+                    "U02JDCDDXHP"
+                ],
+                "count": 2
+            },
+            {
+                "name": "money_with_wings",
+                "users": [
+                    "U01AQNJ26GZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1706735903.191929",
+        "client_msg_id": "1A046BE4-1477-4F4D-9809-D90B4C2F606C",
+        "text": "Do the wings fly ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706734942.365179",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6XUeH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do the wings fly "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1706735924.219559",
+        "client_msg_id": "f9b67897-b051-40a9-b60e-be1b1dda2b1a",
+        "text": "yes and the shell hides you",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706734942.365179",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kY2zr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes and the shell hides you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1706735935.423009",
+        "client_msg_id": "06D47359-FF4E-4F89-AB5B-F1C6B71B62C5",
+        "text": "Oh BOY",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706734942.365179",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dhPth",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh BOY"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0605TPR6NA",
+        "type": "message",
+        "ts": "1706737298.929639",
+        "client_msg_id": "D4AFEAFA-AFDC-4BA8-B128-937D3D97C776",
+        "text": "Go big or go home :crocodile: :crocodile: :crocodile: :crocodile: :crocodile: ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "ec9ff28af7b5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-06\/6165117200897_ec9ff28af7b554dfa0e0_72.jpg",
+            "first_name": "Alice",
+            "real_name": "Alice Cannon",
+            "display_name": "Alice Cannon",
+            "team": "T019RL7R8K1",
+            "name": "alice_cannon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706734764.473309",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KENOa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Go big or go home "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "crocodile",
+                                "unicode": "1f40a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "crocodile",
+                                "unicode": "1f40a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "crocodile",
+                                "unicode": "1f40a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "crocodile",
+                                "unicode": "1f40a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "crocodile",
+                                "unicode": "1f40a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01ANRY24FK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,204 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U046ERV9BPY",
+        "text": "<@U046ERV9BPY> has joined the channel",
+        "type": "message",
+        "ts": "1705884343.797429"
+    },
+    {
+        "user": "U046ERV9BPY",
+        "type": "message",
+        "ts": "1705884356.878879",
+        "edited": {
+            "user": "U046ERV9BPY",
+            "ts": "1705884392.000000"
+        },
+        "client_msg_id": "66E8A978-9340-4266-85E0-1D742C533D48",
+        "text": "Would u rather go to the university of Miami or not go to college :raised_hands:  for Miami :brain:  no college ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "653b6b1bd4d2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-14\/4249193418080_653b6b1bd4d2896796be_72.png",
+            "first_name": "sally",
+            "real_name": "sally hirschwerk",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "shirschwerk21",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7QupV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Would u rather go to the university of Miami or not go to college "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "unicode": "1f64c"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  for Miami "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "brain",
+                                "unicode": "1f9e0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  no college "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02JDCDDXHP",
+                    "U01ANRY24FK"
+                ],
+                "count": 2
+            },
+            {
+                "name": "brain",
+                "users": [
+                    "U01AQNJ26GZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1705884444.718249",
+        "client_msg_id": "37A22339-68AA-4CAB-9F5D-124AE7F54264",
+        "text": "WELCOME SALLY",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JHsrx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "W"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ELCOME SALLY"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1705884571.748469",
+        "client_msg_id": "FEF83135-1B9C-4658-9E93-A0FBAEBD79E8",
+        "text": "SALLYYYY",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GvyJh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "SALLYYYY"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1705884573.998199",
+        "client_msg_id": "64D19C71-CC58-4B91-B895-1D2B252141D2",
+        "text": "YES",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P2db2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "YES"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

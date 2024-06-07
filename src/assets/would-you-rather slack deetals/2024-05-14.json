@@ -1,0 +1,144 @@
+[
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1715703121.003409",
+        "client_msg_id": "361a2513-e598-44d3-a47f-70195075c952",
+        "text": ":bulb: there is a 30 min line to order your food\/drink\/etc\n:hankey: there is a 30 min line for for the bathroom",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715703121.003409",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1715703827.944109",
+        "reply_users": [
+            "U02J0PQR85R"
+        ],
+        "replies": [
+            {
+                "user": "U02J0PQR85R",
+                "ts": "1715703827.944109"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y3J63",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "bulb",
+                                "unicode": "1f4a1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " there is a 30 min line to order your food\/drink\/etc\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hankey",
+                                "unicode": "1f4a9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " there is a 30 min line for for the bathroom"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bulb",
+                "users": [
+                    "U046PRR8JJG",
+                    "U01AQNJ26GZ",
+                    "U05VC250MM5",
+                    "U04700S4CGH",
+                    "U02J0PQR85R",
+                    "U02HXU752RK",
+                    "U060CNF6ZBL",
+                    "U01AJKAFPLL",
+                    "U047D0ZHW3A",
+                    "U060601B2NS"
+                ],
+                "count": 10
+            }
+        ]
+    },
+    {
+        "user": "U02J0PQR85R",
+        "type": "message",
+        "ts": "1715703827.944109",
+        "client_msg_id": "78C4D27A-A186-4E9F-849C-1A0724446BC4",
+        "text": "i don’t have the bladder for this one",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "5a5a4c9ba486",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-01\/5197718318484_5a5a4c9ba486da208996_72.png",
+            "first_name": "Nora",
+            "real_name": "Nora Starhill",
+            "display_name": "Max Shields",
+            "team": "T019RL7R8K1",
+            "name": "nora_starhill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715703121.003409",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SBKJu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i "
+                            },
+                            {
+                                "type": "text",
+                                "text": "don’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " have the bladder for this one"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bangbang",
+                "users": [
+                    "U060CNF6ZBL"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

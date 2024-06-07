@@ -1,0 +1,18 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U046PRR8JJG",
+        "text": "<@U046PRR8JJG> has joined the channel",
+        "type": "message",
+        "ts": "1707776688.373799",
+        "reactions": [
+            {
+                "name": "two_hearts",
+                "users": [
+                    "U01ANRY24FK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

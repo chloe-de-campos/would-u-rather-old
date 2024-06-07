@@ -1,0 +1,636 @@
+[
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1709087139.734599",
+        "edited": {
+            "user": "U01AQNJ26GZ",
+            "ts": "1709087240.000000"
+        },
+        "client_msg_id": "BA0534C6-5A3E-4CA4-9FEB-0140D3F34874",
+        "text": ":love_hotel:: ur having sex in barus and holley and the janitor enters the room, turns the lights on, but doesn’t see you. he leaves, leaving the lights on. the moment is ruined.\n:nest_with_eggs:: ur on an easter egg hunt in barus and holley with owen from pfunk and the janitor enters the room, turns the lights on, and clearly believes you are having sex. you try to convince him otherwise but he won’t have it.  the whimsy evaporates.",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709087139.734599",
+        "reply_count": 10,
+        "reply_users_count": 5,
+        "latest_reply": "1709092494.514969",
+        "reply_users": [
+            "U01ANRY24FK",
+            "U01AQNJ26GZ",
+            "U02JDDZETMX",
+            "U02JDCDDXHP",
+            "U02HXU752RK"
+        ],
+        "replies": [
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1709087159.188359"
+            },
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1709087169.033429"
+            },
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1709087172.333439"
+            },
+            {
+                "user": "U02JDDZETMX",
+                "ts": "1709087275.216529"
+            },
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1709088576.606189"
+            },
+            {
+                "user": "U02HXU752RK",
+                "ts": "1709092236.456649"
+            },
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1709092404.928439"
+            },
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1709092453.421379"
+            },
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1709092465.416869"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1709092494.514969"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fZfEH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "love_hotel",
+                                "unicode": "1f3e9"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": ur having sex in barus and holley and the janitor enters the room, turns the lights on, but doesn’t see you. he leaves, leaving the lights on. the moment is ruined.\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "nest_with_eggs",
+                                "unicode": "1faba"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": ur on an easter egg hunt in barus and holley with owen from pfunk and the janitor enters the room, turns the lights on, and clearly believes you are having sex. you try to convince him otherwise but he won’t have it.  the whimsy evaporates."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "nest_with_eggs",
+                "users": [
+                    "U02J0N4DU10",
+                    "U01ANRY24FK",
+                    "U02J0PQR85R",
+                    "U046PRR8JJG",
+                    "U0609QNFT6Z",
+                    "U01AJKAFPLL",
+                    "U060CNF6ZBL",
+                    "U060F69DCUU"
+                ],
+                "count": 8
+            },
+            {
+                "name": "love_hotel",
+                "users": [
+                    "U04700S4CGH",
+                    "U02J1ARQFC3",
+                    "U01AQNJ26GZ",
+                    "U02HL5DAYUF",
+                    "U060601B2NS",
+                    "U02JDCDDXHP",
+                    "U02HXU752RK",
+                    "U047D0ZHW3A"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1709087159.188359",
+        "client_msg_id": "FBD9D8B8-18B4-41EC-B3D2-BB56B49DE934",
+        "text": "is this inspired by true events yes or no",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709087139.734599",
+        "parent_user_id": "U01AQNJ26GZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rgPJH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "is this inspired by true events yes or no"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1709087169.033429",
+        "client_msg_id": "8377F275-2812-44E2-AC35-BF9C9FF6FEC3",
+        "text": "<@U02JDDZETMX> ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709087139.734599",
+        "parent_user_id": "U01AQNJ26GZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T6V8r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02JDDZETMX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1709087172.333439",
+        "client_msg_id": "C17FD5E9-E12C-4989-ACAC-6108182053F9",
+        "text": "tap in",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709087139.734599",
+        "parent_user_id": "U01AQNJ26GZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "78xo1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tap in"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDDZETMX",
+        "type": "message",
+        "ts": "1709087275.216529",
+        "client_msg_id": "5E7019BF-4969-4800-AE48-13D7FF2B71C3",
+        "text": "i was accused of having sex in b &amp;h but it did not happen!",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "da58b8021c6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-04\/2910844484980_da58b8021c6fbdeeb42c_72.png",
+            "first_name": "Dana",
+            "real_name": "Dana Richie",
+            "display_name": "jack jack",
+            "team": "T019RL7R8K1",
+            "name": "darichie20",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709087139.734599",
+        "parent_user_id": "U01AQNJ26GZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jPEmF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i was accused of having sex in b &h but it did not happen!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "-1",
+                "users": [
+                    "U01ANRY24FK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1709088576.606189",
+        "client_msg_id": "85670498-CF6D-4170-987A-667DEE0A61F0",
+        "text": "<@U02JDDZETMX> STORY TIME",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709087139.734599",
+        "parent_user_id": "U01AQNJ26GZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LuyOW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02JDDZETMX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " STORY TIME"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bangbang",
+                "users": [
+                    "U01ANRY24FK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02HXU752RK",
+        "type": "message",
+        "ts": "1709092236.456649",
+        "client_msg_id": "68D18A04-1B29-4FCA-82C5-C46DD69D693A",
+        "text": "In the first option, why would the moment be ruined?",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "ccfcba4efad8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-06\/3211774774561_ccfcba4efad879e7272f_72.png",
+            "first_name": "Mister",
+            "real_name": "Mister Legs",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "retta.karpinski",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709087139.734599",
+        "parent_user_id": "U01AQNJ26GZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gW4i9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In the first option, why would the moment be ruined?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bangbang",
+                "users": [
+                    "U02JDCDDXHP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1709092404.928439",
+        "client_msg_id": "62F2A123-FFDB-4541-9488-6AD25EF1C4CB",
+        "text": "I would say I’ve kind of almost experienced the first one ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709087139.734599",
+        "parent_user_id": "U01AQNJ26GZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PH\/eX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would say "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’ve"
+                            },
+                            {
+                                "type": "text",
+                                "text": " kind of almost experienced the first one "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U01ANRY24FK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1709092453.421379",
+        "client_msg_id": "D5E97898-FD59-42DF-83D6-3E663AA973B0",
+        "text": "it wasn’t sex and it stopped like 2 minutes pre janitor entering so it wasn’t the janitor that ruined the moment ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709087139.734599",
+        "parent_user_id": "U01AQNJ26GZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gZbsZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it "
+                            },
+                            {
+                                "type": "text",
+                                "text": "wasn’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sex and it stopped like 2 minutes pre janitor entering so it "
+                            },
+                            {
+                                "type": "text",
+                                "text": "wasn’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " the janitor that ruined the moment "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1709092465.416869",
+        "client_msg_id": "15A7BAA3-5B7D-49F0-AF96-70B51B0E40EC",
+        "text": "it was the fact that we were in barus and holly I’d say ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709087139.734599",
+        "parent_user_id": "U01AQNJ26GZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wjtAB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it was the fact that we were in barus and holly "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’d say"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1709092494.514969",
+        "client_msg_id": "F7353B91-B89F-42B6-B054-11E08B558019",
+        "text": "and it was… near sex?",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709087139.734599",
+        "parent_user_id": "U01AQNJ26GZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wkx5X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and it was"
+                            },
+                            {
+                                "type": "text",
+                                "text": "…"
+                            },
+                            {
+                                "type": "text",
+                                "text": " near sex?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "scream_cat",
+                "users": [
+                    "U02JDCDDXHP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

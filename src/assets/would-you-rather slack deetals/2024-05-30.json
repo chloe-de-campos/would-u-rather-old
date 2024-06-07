@@ -1,0 +1,366 @@
+[
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1717117081.835609",
+        "client_msg_id": "9bf28c19-dadd-4578-9959-1acfd794eced",
+        "text": ":snowflake: accidentally call your friend's dad's girlfriend by the name of your friend's mom\n:dotted_line_face: pretend to fake a throw and then do it again and hit your friend in the face and his nose bleeds",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717117081.835609",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1717117534.304439",
+        "reply_users": [
+            "U01AQNJ26GZ",
+            "U01ANRY24FK",
+            "U02JDCDDXHP"
+        ],
+        "replies": [
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1717117129.360599"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1717117144.796929"
+            },
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1717117158.386959"
+            },
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1717117514.581039"
+            },
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1717117532.110819"
+            },
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1717117534.304439"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kiuyg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "snowflake",
+                                "unicode": "2744-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " accidentally call your friend's dad's girlfriend by the name of your friend's mom\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "dotted_line_face",
+                                "unicode": "1fae5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pretend to fake a throw and then do it again and hit your friend in the face and his nose bleeds"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "snowflake",
+                "users": [
+                    "U01AQNJ26GZ",
+                    "U01AJKAFPLL",
+                    "U02J0PQR85R"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1717117129.360599",
+        "client_msg_id": "608E4976-B9CF-4E4F-B4E1-E60650ACE81F",
+        "text": "i have no allegiance to this girlfriend ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717117081.835609",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HvHqJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i have no allegiance to this girlfriend "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1717117144.796929",
+        "client_msg_id": "684948b5-5f0d-41a9-8ff5-fe1ce0cce2e8",
+        "text": "no but your friend and her dad are like wtf",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717117081.835609",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ht4Ny",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no but your friend and her dad are like wtf"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1717117158.386959",
+        "client_msg_id": "EF80FDAD-E600-4591-87BF-1C9A22E57FA8",
+        "text": "they’ll get over it",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717117081.835609",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k4vdQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "they’ll"
+                            },
+                            {
+                                "type": "text",
+                                "text": " get over it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1717117514.581039",
+        "client_msg_id": "4E9BE459-1ED8-4BBC-A47F-DD9161E081B0",
+        "text": "<@U02JDC3M1Q9>  did you get over it ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717117081.835609",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kwkH9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02JDC3M1Q9"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  did you get over it "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pleading_face",
+                "users": [
+                    "U01ANRY24FK"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U01ANRY24FK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1717117532.110819",
+        "client_msg_id": "9D52DAF8-A63F-49C7-AE59-22CE4BE47A65",
+        "text": "HAHAHAHAHAHAHAHAHA",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717117081.835609",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hgj9U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "HAHAHAHAHAHAHAHAHA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1717117534.304439",
+        "client_msg_id": "A1F61639-061E-45C2-87FA-14598E531A96",
+        "text": "OH NO",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717117081.835609",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BXPjs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "OH NO"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

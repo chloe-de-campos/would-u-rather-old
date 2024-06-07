@@ -1,0 +1,419 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U047D0ZHW3A",
+        "text": "<@U047D0ZHW3A> has joined the channel",
+        "type": "message",
+        "ts": "1707925704.631329"
+    },
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1707930302.072299",
+        "client_msg_id": "6B4BD324-7337-4B33-9090-50F2945D3BC1",
+        "text": "id let u stab me if we could be friends after",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1707878958.005139",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2QHiC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "id let u stab me if we could be friends after"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bangbang",
+                "users": [
+                    "U02JDCDDXHP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "open_hands",
+                "users": [
+                    "U01ANRY24FK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1707930560.843679",
+        "client_msg_id": "AA9DE729-39E1-4455-A2D1-590C611E6CB5",
+        "text": ":grimacing: i stab you with a hot knife. it’s painful but we take you straight to RI hospital where elle stitches you up. also the wound is like already cauterized cause the knife is hot just like i told you. you have a cool scar and a cool story. you can decide whether you forgive me or not\n:car: you stab me with a hot knife. you’re not responsible for fixing me, but it’s guaranteed that i will receive immediate high quality medical care. also the wound is like already cauterized cause the knife is hot just like i told you 3 times jeez. i have a cool scar and a cool story. i say i forgive you but i also never stop making jokes about it.",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gfRl6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "grimacing",
+                                "unicode": "1f62c"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "i stab you with a hot knife. it’s painful but we take you straight to RI hospital where elle stitches you up. also the wound is like already cauterized cause the knife is hot just like i told you. you have a cool scar and a cool story. "
+                            },
+                            {
+                                "type": "text",
+                                "text": "you can decide whether you forgive me or not\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "car",
+                                "unicode": "1f697"
+                            },
+                            {
+                                "type": "text",
+                                "text": " you "
+                            },
+                            {
+                                "type": "text",
+                                "text": "stab "
+                            },
+                            {
+                                "type": "text",
+                                "text": "me"
+                            },
+                            {
+                                "type": "text",
+                                "text": " with a hot knife. "
+                            },
+                            {
+                                "type": "text",
+                                "text": "you’re not responsible for fixing me, but it’s guaranteed that i will receive immediate high quality medical care. "
+                            },
+                            {
+                                "type": "text",
+                                "text": "also the wound is like already cauterized cause the knife is hot just like i told you"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 3 times jeez"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". "
+                            },
+                            {
+                                "type": "text",
+                                "text": "i"
+                            },
+                            {
+                                "type": "text",
+                                "text": " have a cool scar and a cool story."
+                            },
+                            {
+                                "type": "text",
+                                "text": " i say i forgive you but i also never stop making jokes about it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "grimacing",
+                "users": [
+                    "U02JDCDDXHP",
+                    "U02HL5DAYUF",
+                    "U01AQNJ26GZ"
+                ],
+                "count": 3
+            },
+            {
+                "name": "car",
+                "users": [
+                    "U046PRR8JJG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1707963521.925589",
+        "edited": {
+            "user": "U01ANRY24FK",
+            "ts": "1708005078.000000"
+        },
+        "client_msg_id": "CAD4E1CF-4F4F-4047-9134-6A7C63C9E8EF",
+        "text": ":face_with_raised_eyebrow: ask your partner’s dad for their hand in marriage\n:garlic: your partner has to ask your dad for your hand in marriage ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1707963521.925589",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1707963586.533569",
+        "reply_users": [
+            "U02JDDZETMX",
+            "U01ANRY24FK"
+        ],
+        "replies": [
+            {
+                "user": "U02JDDZETMX",
+                "ts": "1707963545.539979"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1707963586.533569"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "36PfR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "face_with_raised_eyebrow",
+                                "unicode": "1f928"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ask your partner’s dad for their hand in marriage\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "garlic",
+                                "unicode": "1f9c4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " your partner has to ask your dad for your hand in marriage "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "garlic",
+                "users": [
+                    "U01AQNJ26GZ",
+                    "U01ANRY24FK"
+                ],
+                "count": 2
+            },
+            {
+                "name": "face_with_raised_eyebrow",
+                "users": [
+                    "U02JDCDDXHP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02JDDZETMX",
+        "type": "message",
+        "ts": "1707963545.539979",
+        "client_msg_id": "945B03ED-8D5F-403B-BB69-793BCBA4DD4A",
+        "text": "don’t let nora see this ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "da58b8021c6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-04\/2910844484980_da58b8021c6fbdeeb42c_72.png",
+            "first_name": "Dana",
+            "real_name": "Dana Richie",
+            "display_name": "jack jack",
+            "team": "T019RL7R8K1",
+            "name": "darichie20",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1707963521.925589",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/RMdj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "don’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " let nora see this "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1707963586.533569",
+        "client_msg_id": "7803B66F-F900-49CE-B367-B68FACC6AB57",
+        "text": ":face_with_peeking_eye: why",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1707963521.925589",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "REsE0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "face_with_peeking_eye",
+                                "unicode": "1fae3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " why"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U02J0PQR85R",
+        "text": "<@U02J0PQR85R> has joined the channel",
+        "type": "message",
+        "ts": "1707963749.023059"
+    },
+    {
+        "user": "U02J0PQR85R",
+        "type": "message",
+        "ts": "1707963767.010609",
+        "client_msg_id": "934DE257-57EB-4B68-9E0B-D89A2FEB243E",
+        "text": "someone said something about dads?",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "5a5a4c9ba486",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-01\/5197718318484_5a5a4c9ba486da208996_72.png",
+            "first_name": "Nora",
+            "real_name": "Nora Starhill",
+            "display_name": "Max Shields",
+            "team": "T019RL7R8K1",
+            "name": "nora_starhill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZDfxz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "someone said something about dads?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U02JDCDDXHP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

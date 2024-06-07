@@ -1,0 +1,537 @@
+[
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1712167076.483349",
+        "client_msg_id": "21208217-3e3a-4c5a-aefe-c1fd9f397abf",
+        "text": "ignoring your current dietary restrictions, would you rather...\n:crocodile: eat tofu made by a carnivore. they hate tofu\n:bee: eat a steak made by a vegan. they hate meat",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712167076.483349",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1712167404.847649",
+        "reply_users": [
+            "U05VC250MM5",
+            "U01ANRY24FK"
+        ],
+        "replies": [
+            {
+                "user": "U05VC250MM5",
+                "ts": "1712167155.132279"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1712167404.847649"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GRLMS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ignoring your current dietary restrictions, would you rather...\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "crocodile",
+                                "unicode": "1f40a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " eat tofu made by a carnivore. they hate tofu\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bee",
+                                "unicode": "1f41d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " eat a steak made by a vegan. they hate meat"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "crocodile",
+                "users": [
+                    "U0609QNFT6Z",
+                    "U060601B2NS",
+                    "U0605TPR6NA",
+                    "U02HXU752RK",
+                    "U060CNF6ZBL",
+                    "U02J0PQR85R",
+                    "U02JDDZETMX",
+                    "U01AQNJ26GZ"
+                ],
+                "count": 8
+            },
+            {
+                "name": "bee",
+                "users": [
+                    "U05VC250MM5",
+                    "U01ANRY24FK",
+                    "U01AJKAFPLL",
+                    "U060F69DCUU",
+                    "U046PRR8JJG"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "user": "U05VC250MM5",
+        "type": "message",
+        "ts": "1712167155.132279",
+        "client_msg_id": "89612F83-56AA-4A13-9EC3-3977C6C809E1",
+        "text": "are we taking into account the carnivore and vegans feelings or is it more about which would taste better",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "58cbf9f2bca7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6025713828131_58cbf9f2bca7f4004fd3_72.png",
+            "first_name": "sunday",
+            "real_name": "sunday",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "sunday_labrucherie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712167076.483349",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ngEOJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "are we taking into account the carnivore and vegans feelings or is it more about which would taste better"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1712167404.847649",
+        "client_msg_id": "0d420bef-51be-4bec-90aa-1c720afa4438",
+        "text": "just flavor not feelings",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712167076.483349",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KHJqF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "just flavor not feelings"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1712179548.198359",
+        "edited": {
+            "user": "U01ANRY24FK",
+            "ts": "1712179553.000000"
+        },
+        "client_msg_id": "015AC4F3-B750-4A31-B1B3-406CDDCB9D07",
+        "text": ":blueberries: car top\n :apple: car bottom",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uRHCq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "blueberries",
+                                "unicode": "1fad0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " car top\n "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "apple",
+                                "unicode": "1f34e"
+                            },
+                            {
+                                "type": "text",
+                                "text": " car bottom"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "apple",
+                "users": [
+                    "U02J0PQR85R",
+                    "U05VC250MM5",
+                    "U0609QNFT6Z",
+                    "U01AQNJ26GZ",
+                    "U02HXU752RK",
+                    "U02J0N4DU10"
+                ],
+                "count": 6
+            },
+            {
+                "name": "blueberries",
+                "users": [
+                    "U02JDC3M1Q9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1712191205.268829",
+        "client_msg_id": "485386aa-4992-4432-a810-f3b6c70e047e",
+        "text": ":coral: attach urself to me like a barnacle\n:palm_tree: let me attach to u like a barnacle\n\nur answer could have real life consequences so choose wisely",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712191205.268829",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1712199523.811999",
+        "reply_users": [
+            "U01ANRY24FK",
+            "U02JDC3M1Q9"
+        ],
+        "replies": [
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1712191245.145689"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1712191345.987379"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1712191363.820629"
+            },
+            {
+                "user": "U02JDC3M1Q9",
+                "ts": "1712199523.811999"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8xeIy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "coral",
+                                "unicode": "1fab8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " attach urself to me like a barnacle\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "palm_tree",
+                                "unicode": "1f334"
+                            },
+                            {
+                                "type": "text",
+                                "text": " let me attach to u like a barnacle\n\nur answer could have real life consequences so choose wisely"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "coral",
+                "users": [
+                    "U01ANRY24FK",
+                    "U046PRR8JJG",
+                    "U01AJKAFPLL",
+                    "U02JDC3M1Q9",
+                    "U04700S4CGH"
+                ],
+                "count": 5
+            },
+            {
+                "name": "palm_tree",
+                "users": [
+                    "U01ANRY24FK",
+                    "U04700S4CGH",
+                    "U02J0N4DU10",
+                    "U02J0PQR85R"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1712191245.145689",
+        "client_msg_id": "5A688205-639D-4FAA-88FE-B5EE5E844F23",
+        "text": "F I WANT BOTH",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712191205.268829",
+        "parent_user_id": "U01AQNJ26GZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Th5ZP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "F I WANT BOTH"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1712191345.987379",
+        "client_msg_id": "5A2EFFD5-AEE7-4A81-B0A2-71DB4F687F0E",
+        "text": "i’m imagining when you hug me and it’s barnacle and i want that feeling",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712191205.268829",
+        "parent_user_id": "U01AQNJ26GZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nBboj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " imagining when you hug me and "
+                            },
+                            {
+                                "type": "text",
+                                "text": "it’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " barnacle and i want that feeling"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1712191363.820629",
+        "client_msg_id": "2EFF7483-FA37-418F-84C0-97C4742A399B",
+        "text": "but realistically if i was gonna be tiny and stuck on you i want that",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712191205.268829",
+        "parent_user_id": "U01AQNJ26GZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+Dba4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but realistically if i was gonna be tiny and stuck on you i want that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDC3M1Q9",
+        "type": "message",
+        "ts": "1712199523.811999",
+        "client_msg_id": "3C888481-D0BD-4C45-B4CD-62C67EE9E8F4",
+        "text": "I love this",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "5df4583c6c3e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-20\/2859539530726_5df4583c6c3e4c507a51_72.png",
+            "first_name": "Addison",
+            "real_name": "Addison Hannah Kerwin",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "addison_kerwin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712191205.268829",
+        "parent_user_id": "U01AQNJ26GZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lwQOi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I love this"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

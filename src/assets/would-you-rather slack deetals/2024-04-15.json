@@ -1,0 +1,81 @@
+[
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1713202474.059359",
+        "client_msg_id": "7d7fe9d4-da37-4146-bde9-1affeb96c7ce",
+        "text": ":open_mouth:: spotify tells people when you've viewed their profile a la tiktok\n:hear_no_evil:: you can no longer see what people are listening to on spotify. social media aspect gone.",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+YMPh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "open_mouth",
+                                "unicode": "1f62e"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": spotify tells people when you've viewed their profile a la tiktok\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hear_no_evil",
+                                "unicode": "1f649"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": you can no longer see what people are listening to on spotify. social media aspect gone."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "open_mouth",
+                "users": [
+                    "U01AQNJ26GZ",
+                    "U01AJKAFPLL",
+                    "U0605TPR6NA",
+                    "U02J0PQR85R",
+                    "U060601B2NS",
+                    "U01ANRY24FK",
+                    "U060F69DCUU"
+                ],
+                "count": 7
+            },
+            {
+                "name": "hear_no_evil",
+                "users": [
+                    "U04700S4CGH",
+                    "U047D0ZHW3A",
+                    "U05VC250MM5",
+                    "U02HXU752RK",
+                    "U0609QNFT6Z",
+                    "U02HL5DAYUF"
+                ],
+                "count": 6
+            }
+        ]
+    }
+]

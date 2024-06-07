@@ -1,0 +1,94 @@
+[
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1705022940.800969",
+        "edited": {
+            "user": "U01ANRY24FK",
+            "ts": "1705093712.000000"
+        },
+        "client_msg_id": "B7882582-1C6E-46E1-B46B-24A55F16A612",
+        "text": "be president of the usa? :index_pointing_at_the_viewer:\nlive the life of the average american? :handshake: ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1705022940.800969",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1705115862.170009",
+        "reply_users": [
+            "U02JDCDDXHP"
+        ],
+        "replies": [
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1705115862.170009"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Eu9Nz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "be president of the usa? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "index_pointing_at_the_viewer",
+                                "unicode": "1faf5"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nlive the life of the average american? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "handshake",
+                                "unicode": "1f91d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "handshake::skin-tone-2",
+                "users": [
+                    "U01AQNJ26GZ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "handshake",
+                "users": [
+                    "U02JDCDDXHP",
+                    "U01ANRY24FK"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

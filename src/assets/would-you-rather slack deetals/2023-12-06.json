@@ -1,0 +1,94 @@
+[
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1701914221.990219",
+        "client_msg_id": "203b2cbc-98ea-4f52-971b-77f8f7b06086",
+        "text": "only date frisbee players :flying_disc: or never date a frisbee player again :heart_eyes_cat:",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701914221.990219",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1701968633.763569",
+        "reply_users": [
+            "U01ANRY24FK",
+            "U01AQNJ26GZ",
+            "U02JDCDDXHP"
+        ],
+        "replies": [
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1701958014.082679"
+            },
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1701968068.553669"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1701968081.312019"
+            },
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1701968633.763569"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y68++",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "only date frisbee players "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "flying_disc",
+                                "unicode": "1f94f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " or never date a frisbee player again "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_eyes_cat",
+                                "unicode": "1f63b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "flying_disc",
+                "users": [
+                    "U02JDCDDXHP",
+                    "U01ANRY24FK",
+                    "U01AQNJ26GZ"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

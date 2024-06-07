@@ -1,0 +1,73 @@
+[
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1715968735.791849",
+        "client_msg_id": "B8795A9F-358D-46C8-A60A-FD23C46B8441",
+        "text": ":pig_nose: wes is ur therapist\n:pig: ur current therapist gives u guitar lessons",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/LMC7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "pig_nose",
+                                "unicode": "1f43d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " wes is ur therapist\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pig",
+                                "unicode": "1f437"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ur current therapist gives u guitar lessons"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pig_nose",
+                "users": [
+                    "U01AJKAFPLL",
+                    "U060601B2NS",
+                    "U05VC250MM5",
+                    "U02J0MVSBPC"
+                ],
+                "count": 4
+            },
+            {
+                "name": "pig",
+                "users": [
+                    "U01AQNJ26GZ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

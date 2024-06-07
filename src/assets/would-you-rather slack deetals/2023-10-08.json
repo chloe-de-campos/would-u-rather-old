@@ -1,0 +1,97 @@
+[
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1696812214.890379",
+        "client_msg_id": "ba77d22e-c8e5-406c-987a-b0ca73d24ca3",
+        "text": "<https:\/\/shiverfrisbee.slack.com\/archives\/C02K1MNNDHB\/p1696812186471769>",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/shiverfrisbee.slack.com\/archives\/C02K1MNNDHB\/p1696812186471769",
+                "ts": "1696812186.471769",
+                "author_id": "U01AQNJ26GZ",
+                "channel_id": "C02K1MNNDHB",
+                "channel_team": "T019RL7R8K1",
+                "is_msg_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T019RL7R8K1",
+                        "channel": "C02K1MNNDHB",
+                        "ts": "1696812186.471769",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "QB=",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "for your viewing pleasure\nin case u were curious, the final vote was:\nsex tape: 8\nporta potty: 15\nft. ur teammates, elle, py, my cousin reese from bates, and her friend also from bates whose name i forget"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "files": [
+                    {
+                        "id": "F06023JAXBQ",
+                        "created": 1696812023,
+                        "timestamp": 1696812023,
+                        "user": "U01AQNJ26GZ",
+                        "is_hidden_by_limit": 1
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/shiverfrisbee.slack.com\/archives\/C02K1MNNDHB\/p1696812186471769",
+                "fallback": "[October 8th, 2023 5:43 PM] amelia_chalfant: for your viewing pleasure\nin case u were curious, the final vote was:\nsex tape: 8\nporta potty: 15\nft. ur teammates, elle, py, my cousin reese from bates, and her friend also from bates whose name i forget",
+                "text": "for your viewing pleasure\nin case u were curious, the final vote was:\nsex tape: 8\nporta potty: 15\nft. ur teammates, elle, py, my cousin reese from bates, and her friend also from bates whose name i forget",
+                "author_name": "wes chalfant",
+                "author_link": "https:\/\/shiverfrisbee.slack.com\/team\/U01AQNJ26GZ",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2023-09-28\/5964834009379_5d193e4204debf272dc2_48.png",
+                "author_subname": "wes chalfant",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Slack Conversation"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/XHC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/shiverfrisbee.slack.com\/archives\/C02K1MNNDHB\/p1696812186471769"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

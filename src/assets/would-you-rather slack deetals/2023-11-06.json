@@ -1,0 +1,71 @@
+[
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1699278770.383579",
+        "client_msg_id": "ff5abac5-9485-43f5-b3a0-0b7d6aad4011",
+        "text": "Would you rather be chased by a giant rubber ducky whenever it rains :duck:, or have to wear a banana suit every time you enter a grocery store :banana:",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9kAIK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Would you rather be chased by a giant rubber ducky whenever it rains "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "duck",
+                                "unicode": "1f986"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", or have to wear a banana suit every time you enter a grocery store "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "banana",
+                                "unicode": "1f34c"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "duck",
+                "users": [
+                    "U01ANRY24FK"
+                ],
+                "count": 1
+            },
+            {
+                "name": "banana",
+                "users": [
+                    "U01AQNJ26GZ",
+                    "U02JDCDDXHP"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

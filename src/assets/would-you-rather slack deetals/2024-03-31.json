@@ -1,0 +1,421 @@
+[
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1711881873.704589",
+        "client_msg_id": "3E8A4F8D-1BBD-45B8-8A3D-BF59D072695E",
+        "text": ":cow: you do donald trumps taxes\n:pig: a very smart chicken does your homework (smart for a chicken not a any other animal)",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711881873.704589",
+        "reply_count": 7,
+        "reply_users_count": 3,
+        "latest_reply": "1711939420.728609",
+        "reply_users": [
+            "U02JDDZETMX",
+            "U01ANRY24FK",
+            "U02HXU752RK"
+        ],
+        "replies": [
+            {
+                "user": "U02JDDZETMX",
+                "ts": "1711881945.464409"
+            },
+            {
+                "user": "U02JDDZETMX",
+                "ts": "1711881959.377689"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1711881973.168129"
+            },
+            {
+                "user": "U02JDDZETMX",
+                "ts": "1711882019.270359"
+            },
+            {
+                "user": "U02JDDZETMX",
+                "ts": "1711882026.238889"
+            },
+            {
+                "user": "U02JDDZETMX",
+                "ts": "1711882109.244899"
+            },
+            {
+                "user": "U02HXU752RK",
+                "ts": "1711939420.728609"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oGJUA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "cow",
+                                "unicode": "1f42e"
+                            },
+                            {
+                                "type": "text",
+                                "text": " you do donald trumps taxes\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pig",
+                                "unicode": "1f437"
+                            },
+                            {
+                                "type": "text",
+                                "text": " a very smart chicken does your homework (smart for a chicken not a any other animal)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pig",
+                "users": [
+                    "U02JDDZETMX",
+                    "U05VC250MM5",
+                    "U02J0PQR85R",
+                    "U02J0N4DU10",
+                    "U01AJKAFPLL",
+                    "U02J1ARQFC3",
+                    "U047D0ZHW3A",
+                    "U02JDC3M1Q9",
+                    "U060601B2NS"
+                ],
+                "count": 9
+            }
+        ]
+    },
+    {
+        "user": "U02JDDZETMX",
+        "type": "message",
+        "ts": "1711881945.464409",
+        "client_msg_id": "41D4CFE4-C26C-4B2E-9B64-750336CBB751",
+        "text": "smart chicken is smarter than me at taxes probably ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "da58b8021c6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-04\/2910844484980_da58b8021c6fbdeeb42c_72.png",
+            "first_name": "Dana",
+            "real_name": "Dana Richie",
+            "display_name": "jack jack",
+            "team": "T019RL7R8K1",
+            "name": "darichie20",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711881873.704589",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bE8JT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "smart chicken is smarter than me at taxes probably "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDDZETMX",
+        "type": "message",
+        "ts": "1711881959.377689",
+        "client_msg_id": "6B49B801-AA56-43AA-B923-3DF467843475",
+        "text": "i’m scared of taxes ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "da58b8021c6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-04\/2910844484980_da58b8021c6fbdeeb42c_72.png",
+            "first_name": "Dana",
+            "real_name": "Dana Richie",
+            "display_name": "jack jack",
+            "team": "T019RL7R8K1",
+            "name": "darichie20",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711881873.704589",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FcJZ9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " scared of taxes "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1711881973.168129",
+        "client_msg_id": "6D04C08A-936F-4B43-A43B-6942E7B210B4",
+        "text": "but it’s doing homeowrk not taxes",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711881873.704589",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qLmB3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but "
+                            },
+                            {
+                                "type": "text",
+                                "text": "it’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " doing homeowrk not taxes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDDZETMX",
+        "type": "message",
+        "ts": "1711882019.270359",
+        "client_msg_id": "F014E119-2261-48BC-8D6A-9BC19F7E7FE6",
+        "text": "oh i can’t read",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "da58b8021c6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-04\/2910844484980_da58b8021c6fbdeeb42c_72.png",
+            "first_name": "Dana",
+            "real_name": "Dana Richie",
+            "display_name": "jack jack",
+            "team": "T019RL7R8K1",
+            "name": "darichie20",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711881873.704589",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QRhIB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh i "
+                            },
+                            {
+                                "type": "text",
+                                "text": "can’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " read"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDDZETMX",
+        "type": "message",
+        "ts": "1711882026.238889",
+        "client_msg_id": "F6C74F88-C987-4E23-8A9C-29E115D0A672",
+        "text": "proving my point ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "da58b8021c6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-04\/2910844484980_da58b8021c6fbdeeb42c_72.png",
+            "first_name": "Dana",
+            "real_name": "Dana Richie",
+            "display_name": "jack jack",
+            "team": "T019RL7R8K1",
+            "name": "darichie20",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711881873.704589",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dg6tm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "proving my point "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDDZETMX",
+        "type": "message",
+        "ts": "1711882109.244899",
+        "client_msg_id": "8A6EF235-EE61-4CF0-8428-7BB8AD2B69E3",
+        "text": "my fear of taxes outweighs a lot ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "da58b8021c6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-04\/2910844484980_da58b8021c6fbdeeb42c_72.png",
+            "first_name": "Dana",
+            "real_name": "Dana Richie",
+            "display_name": "jack jack",
+            "team": "T019RL7R8K1",
+            "name": "darichie20",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711881873.704589",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+ReV\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "my fear of taxes outweighs a lot "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ditch",
+                "users": [
+                    "U01ANRY24FK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02HXU752RK",
+        "type": "message",
+        "ts": "1711939420.728609",
+        "client_msg_id": "36266a27-564b-482e-84ad-ace6bfd375f9",
+        "text": "I would do trumps taxes, make them terrible, then report it",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "ccfcba4efad8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-06\/3211774774561_ccfcba4efad879e7272f_72.png",
+            "first_name": "Mister",
+            "real_name": "Mister Legs",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "retta.karpinski",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711881873.704589",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BJa71",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would do trumps taxes, make them terrible, then report it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,313 @@
+[
+    {
+        "user": "U01ACQBSABF",
+        "type": "message",
+        "ts": "1697208884.913219",
+        "edited": {
+            "user": "B01A95GAFAA",
+            "ts": "1697208901.000000"
+        },
+        "bot_id": "B01A95GAFAA",
+        "app_id": "A04E6JX41",
+        "text": "<@U01ANRY24FK> has a polly for you!",
+        "team": "T019RL7R8K1",
+        "bot_profile": {
+            "id": "B01A95GAFAA",
+            "app_id": "A04E6JX41",
+            "name": "Polly",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-10-26\/1466083688641_05afc842ead4d799a4fc_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-10-26\/1466083688641_05afc842ead4d799a4fc_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-26\/1466083688641_05afc842ead4d799a4fc_72.png"
+            },
+            "deleted": false,
+            "updated": 1599765602,
+            "team_id": "T019RL7R8K1"
+        },
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "qcaDf",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*what are you?*",
+                    "verbatim": true
+                },
+                "accessory": {
+                    "type": "overflow",
+                    "action_id": "PollMessage(kdMcGzxtGYbSysgjH).PollMessageOverflowMenu()",
+                    "options": [
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": "Settings",
+                                "emoji": true
+                            },
+                            "value": "settings"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "actions",
+                "block_id": "OakMy",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "PollMessage(kdMcGzxtGYbSysgjH).VotingButton(0)",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "outside cat",
+                            "emoji": true
+                        },
+                        "value": "one"
+                    },
+                    {
+                        "type": "button",
+                        "action_id": "PollMessage(kdMcGzxtGYbSysgjH).VotingButton(1)",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "inside cat",
+                            "emoji": true
+                        },
+                        "value": "two"
+                    },
+                    {
+                        "type": "button",
+                        "action_id": "PollMessage(kdMcGzxtGYbSysgjH).VotingButton(2)",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "outside dog",
+                            "emoji": true
+                        },
+                        "value": "three"
+                    },
+                    {
+                        "type": "button",
+                        "action_id": "PollMessage(kdMcGzxtGYbSysgjH).VotingButton(3)",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "inside dog",
+                            "emoji": true
+                        },
+                        "value": "four"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "block_id": "gD9v3",
+                "fields": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "outside cat  \n\n`⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ `  |  0% (0)",
+                        "verbatim": true
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "inside cat  \n\n`⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ `  |  0% (0)",
+                        "verbatim": true
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "block_id": "VCqUy",
+                "fields": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "outside dog  \n\n`█████████████████████████`  |  100% (1)\n\n<@U01AQNJ26GZ>",
+                        "verbatim": true
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "inside dog  \n\n`⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ `  |  0% (0)",
+                        "verbatim": true
+                    }
+                ]
+            },
+            {
+                "type": "context",
+                "block_id": "nzKN1",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "*Total Votes*: 1",
+                        "verbatim": true
+                    }
+                ]
+            },
+            {
+                "type": "actions",
+                "block_id": "nO\/pr",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "PollMessage(kdMcGzxtGYbSysgjH).ViewAllResponsesButton",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "View All Responses ",
+                            "emoji": true
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "yGoZR"
+            },
+            {
+                "type": "context",
+                "block_id": "MtAGo",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Sender: @Chloe de Campos (hobgoblin) | :unlock: *Responses:* Non-Anonymous | *:clock930: Closes: *<!date^1697813683^{date_short} at {time}|Oct 20, 2023 at 14:54 PM>",
+                        "verbatim": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ACQBSABF",
+        "type": "message",
+        "ts": "1697208959.367999",
+        "edited": {
+            "user": "B01A95GAFAA",
+            "ts": "1699901103.000000"
+        },
+        "bot_id": "B01A95GAFAA",
+        "app_id": "A04E6JX41",
+        "text": "*This polly is closed.* <@U01ANRY24FK> has a polly for you!",
+        "team": "T019RL7R8K1",
+        "bot_profile": {
+            "id": "B01A95GAFAA",
+            "app_id": "A04E6JX41",
+            "name": "Polly",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-10-26\/1466083688641_05afc842ead4d799a4fc_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-10-26\/1466083688641_05afc842ead4d799a4fc_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-26\/1466083688641_05afc842ead4d799a4fc_72.png"
+            },
+            "deleted": false,
+            "updated": 1599765602,
+            "team_id": "T019RL7R8K1"
+        },
+        "thread_ts": "1697208959.367999",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1699901127.813209",
+        "reply_users": [
+            "U02JDCDDXHP"
+        ],
+        "replies": [
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1699901127.813209"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "rMOfj",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*you get two members of the incredibles to join your frisbee team. who?*\nYou may vote for multiple options",
+                    "verbatim": true
+                },
+                "accessory": {
+                    "type": "overflow",
+                    "action_id": "PollMessage(5snKYnxKT7S2Yfjkx).PollMessageOverflowMenu()",
+                    "options": [
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": "Settings",
+                                "emoji": true
+                            },
+                            "value": "settings"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "l+U0n",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "This polly is closed.",
+                    "verbatim": true
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "h0uyO",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Top 2 Choices of 7*",
+                    "verbatim": true
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "6hIDM",
+                "fields": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "elastagirl  \n\n`████████████ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢`  |  50% (1)\n\n<@U01AQNJ26GZ>",
+                        "verbatim": true
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "dash  \n\n`████████████ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢`  |  50% (1)\n\n<@U01AQNJ26GZ>",
+                        "verbatim": true
+                    }
+                ]
+            },
+            {
+                "type": "context",
+                "block_id": "k99+y",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "*Total Votes*: 2",
+                        "verbatim": true
+                    }
+                ]
+            },
+            {
+                "type": "actions",
+                "block_id": "7z5bQ",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "PollMessage(5snKYnxKT7S2Yfjkx).ViewAllResponsesButton",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "View All Responses ",
+                            "emoji": true
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "pO5Sw"
+            },
+            {
+                "type": "context",
+                "block_id": "cUHKU",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Sender: @Chloe de Campos (hobgoblin) | :unlock: *Responses:* Non-Anonymous | *:clock930: Closed: *<!date^1697813757^{date_short} at {time}|Oct 20, 2023 at 14:55 PM>",
+                        "verbatim": true
+                    }
+                ]
+            }
+        ]
+    }
+]

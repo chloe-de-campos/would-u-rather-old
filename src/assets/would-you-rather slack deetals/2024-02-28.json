@@ -1,0 +1,287 @@
+[
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1709179508.694359",
+        "client_msg_id": "67571CFF-F9C4-4D59-8A6C-5ECF4E40F8DC",
+        "text": ":pig: jeff probst is your therapist\n:cactus: you have to be jeff probst’s therapist",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709179508.694359",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1709180839.101839",
+        "reply_users": [
+            "U01ANRY24FK",
+            "U02J0PQR85R",
+            "U02JDCDDXHP"
+        ],
+        "replies": [
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1709179606.864739"
+            },
+            {
+                "user": "U02J0PQR85R",
+                "ts": "1709179654.020979"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1709179682.824659"
+            },
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1709180839.101839"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2R7r9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "pig",
+                                "unicode": "1f437"
+                            },
+                            {
+                                "type": "text",
+                                "text": " jeff probst is your therapist\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "cactus",
+                                "unicode": "1f335"
+                            },
+                            {
+                                "type": "text",
+                                "text": " you have to be jeff probst’s therapist"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "cactus",
+                "users": [
+                    "U01AJKAFPLL",
+                    "U02J0PQR85R",
+                    "U01ANRY24FK",
+                    "U05VC250MM5",
+                    "U02HXU752RK"
+                ],
+                "count": 5
+            },
+            {
+                "name": "pig",
+                "users": [
+                    "U02J0PQR85R",
+                    "U01AQNJ26GZ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1709179606.864739",
+        "edited": {
+            "user": "U01ANRY24FK",
+            "ts": "1709180325.000000"
+        },
+        "client_msg_id": "49F96F09-816A-4913-B95D-25A42257884C",
+        "text": "scenario 1: you have to go to his office every week and he condescends you for 2 hours\nscenario 2: you are legally required to talk him through his issues. if you do not make progress through his complicated power complex in 6 weeks, he will sue. he has very powerful lawyers. you have no formal training. he is shockingly strange.",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709179508.694359",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XkfDF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "scenario 1: you have to go to his office every week and he condescends you for 2 hours\nscenario 2: you are legally required to talk him through his issues. if you do not make progress through his complicated power complex in 6 weeks, he will sue. he has very powerful lawyers. you have no formal training. he is shockingly strange."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01AJKAFPLL",
+                    "U02HXU752RK"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U02J0PQR85R",
+        "type": "message",
+        "ts": "1709179654.020979",
+        "client_msg_id": "33CE72A4-F4F7-4FEC-AF9E-CF393F764802",
+        "text": "both?",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "5a5a4c9ba486",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-01\/5197718318484_5a5a4c9ba486da208996_72.png",
+            "first_name": "Nora",
+            "real_name": "Nora Starhill",
+            "display_name": "Max Shields",
+            "team": "T019RL7R8K1",
+            "name": "nora_starhill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709179508.694359",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UQs\/N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "both?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1709179682.824659",
+        "client_msg_id": "1004C367-0778-4643-B5A8-E1DA94201805",
+        "text": "max",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709179508.694359",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VGFjz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "max"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1709180839.101839",
+        "client_msg_id": "2A49565A-4183-4BF1-89BE-58F3896414D0",
+        "text": "Who dat ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709179508.694359",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Bni3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Who dat "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "two_hearts",
+                "users": [
+                    "U01ANRY24FK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

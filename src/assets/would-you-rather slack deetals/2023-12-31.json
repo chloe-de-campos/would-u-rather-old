@@ -1,0 +1,363 @@
+[
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1704066026.778419",
+        "client_msg_id": "34988503-1697-4121-8401-8d41baddf655",
+        "text": "give a gift :open_hands: or get a gift :ribbon:",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1PDJP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "give a gift "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "open_hands",
+                                "unicode": "1f450"
+                            },
+                            {
+                                "type": "text",
+                                "text": " or get a gift "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ribbon",
+                                "unicode": "1f380"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "open_hands",
+                "users": [
+                    "U01ANRY24FK"
+                ],
+                "count": 1
+            },
+            {
+                "name": "ribbon",
+                "users": [
+                    "U02JDCDDXHP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "open_hands::skin-tone-2",
+                "users": [
+                    "U01AQNJ26GZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1704066068.354999",
+        "client_msg_id": "1905e749-5b89-4a6f-a0b0-9cdb356a7b16",
+        "text": "1 maggot in the leg :sneezing_face:\nor 10000 maggots in the pantry :bricks:",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704066068.354999",
+        "reply_count": 11,
+        "reply_users_count": 3,
+        "latest_reply": "1704227002.186779",
+        "reply_users": [
+            "U02JDCDDXHP",
+            "U01ANRY24FK",
+            "U01AQNJ26GZ"
+        ],
+        "replies": [
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1704067394.205989"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1704067417.873139"
+            },
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1704067440.516619"
+            },
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1704067465.224179"
+            },
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1704221354.302779"
+            },
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1704221355.715819"
+            },
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1704226924.506529"
+            },
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1704226945.172419"
+            },
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1704226988.438349"
+            },
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1704226998.951349"
+            },
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1704227002.186779"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fw8WT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "1 maggot in the leg "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sneezing_face",
+                                "unicode": "1f927"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nor 10000 maggots in the pantry "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bricks",
+                                "unicode": "1f9f1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "sneezing_face",
+                "users": [
+                    "U01ANRY24FK"
+                ],
+                "count": 1
+            },
+            {
+                "name": "bricks",
+                "users": [
+                    "U01AQNJ26GZ",
+                    "U02JDCDDXHP"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1704067394.205989",
+        "client_msg_id": "ac3f33a3-5430-4088-a813-31e7ffca7bde",
+        "text": "can i get it out of my leg ever?",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704066068.354999",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J8xIA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "can i get it out of my leg ever?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1704067417.873139",
+        "client_msg_id": "a88bea95-ccaa-4774-8c53-9b796a37f985",
+        "text": "yes! you can remove them all.",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704066068.354999",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HhJuF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes! you can remove them all."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1704067440.516619",
+        "client_msg_id": "c8b00d64-772d-40c6-9170-a708e0781171",
+        "text": "hobbes youre so brave",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704066068.354999",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "waY4S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hobbes youre so brave"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1704067465.224179",
+        "client_msg_id": "b41fac81-dfd5-4f1a-8484-dec11a96e5df",
+        "text": "you and your 10005 roommates",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704066068.354999",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kSsc1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you and your 10005 roommates"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

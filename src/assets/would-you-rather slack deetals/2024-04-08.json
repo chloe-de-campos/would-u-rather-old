@@ -1,0 +1,546 @@
+[
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1712624763.878899",
+        "client_msg_id": "B45273A2-A47A-49E8-8E84-306111C4D439",
+        "text": ":hankey: layout into dog poop 15 mins into a 4 hour tryout. there is no running water at the fields.\n:flying_disc: get donked in the eyeball so hard u cry 15 mins into a 4 hour tryout. no concussion but u cried in front of everyone.",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712624763.878899",
+        "reply_count": 10,
+        "reply_users_count": 3,
+        "latest_reply": "1712630347.447329",
+        "reply_users": [
+            "U02JDCDDXHP",
+            "U01AQNJ26GZ",
+            "U02JDC3M1Q9"
+        ],
+        "replies": [
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1712625352.297979"
+            },
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1712625378.598649"
+            },
+            {
+                "user": "U02JDC3M1Q9",
+                "ts": "1712625932.828419"
+            },
+            {
+                "user": "U02JDC3M1Q9",
+                "ts": "1712625936.878459"
+            },
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1712626294.313449"
+            },
+            {
+                "user": "U02JDC3M1Q9",
+                "ts": "1712627758.375269"
+            },
+            {
+                "user": "U02JDC3M1Q9",
+                "ts": "1712627783.592839"
+            },
+            {
+                "user": "U02JDC3M1Q9",
+                "ts": "1712627787.945529"
+            },
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1712630332.975709"
+            },
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1712630347.447329"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iIVBS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "hankey",
+                                "unicode": "1f4a9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " layout into dog poop 15 mins into a 4 hour tryout. there is no running water at the fields.\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "flying_disc",
+                                "unicode": "1f94f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " get donked in the eyeball so hard u cry 15 mins into a 4 hour tryout. no concussion but u cried in front of everyone."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "hankey",
+                "users": [
+                    "U01ANRY24FK",
+                    "U02J0N4DU10",
+                    "U02JDCDDXHP",
+                    "U02HXU752RK",
+                    "U02JDC3M1Q9",
+                    "U060F69DCUU",
+                    "U01AJKAFPLL",
+                    "U0609QNFT6Z"
+                ],
+                "count": 8
+            },
+            {
+                "name": "flying_disc",
+                "users": [
+                    "U01AQNJ26GZ",
+                    "U0605TPR6NA",
+                    "U05VC250MM5",
+                    "U02JDC3M1Q9",
+                    "U060601B2NS",
+                    "U060CNF6ZBL",
+                    "U02J0PQR85R",
+                    "U046PRR8JJG",
+                    "U04700S4CGH"
+                ],
+                "count": 9
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1712625352.297979",
+        "client_msg_id": "4E79CB20-8BFB-4BD9-908D-5D850612850F",
+        "text": "Do you continue playing and can you see ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712624763.878899",
+        "parent_user_id": "U01AQNJ26GZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B6dl0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do you continue playing and can you see "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1712625378.598649",
+        "client_msg_id": "5090B005-B60D-471B-88BE-63161FC4A9F7",
+        "text": "you play the rest of the tryout and u can see but ur face hurts bigtime",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712624763.878899",
+        "parent_user_id": "U01AQNJ26GZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M3aWM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you play the rest of the tryout and u can see but ur face hurts bigtime"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDC3M1Q9",
+        "type": "message",
+        "ts": "1712625932.828419",
+        "client_msg_id": "34de5183-866e-47ee-97e9-1647e0516b4d",
+        "text": "ok what happens if i would be pro both these happening",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "5df4583c6c3e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-20\/2859539530726_5df4583c6c3e4c507a51_72.png",
+            "first_name": "Addison",
+            "real_name": "Addison Hannah Kerwin",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "addison_kerwin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712624763.878899",
+        "parent_user_id": "U01AQNJ26GZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sra7F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok what happens if i would be pro both these happening"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDC3M1Q9",
+        "type": "message",
+        "ts": "1712625936.878459",
+        "client_msg_id": "296ac3ae-ac97-4c64-8514-a1b0d944118e",
+        "text": "they both seem iconic as helll",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "5df4583c6c3e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-20\/2859539530726_5df4583c6c3e4c507a51_72.png",
+            "first_name": "Addison",
+            "real_name": "Addison Hannah Kerwin",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "addison_kerwin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712624763.878899",
+        "parent_user_id": "U01AQNJ26GZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VuKk1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "they both seem iconic as helll"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1712626294.313449",
+        "client_msg_id": "C201DF51-5B19-4A13-ACB9-33C69D40DBCB",
+        "text": "crying post injury is a sign of weakness ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712624763.878899",
+        "parent_user_id": "U01AQNJ26GZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UAAlg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "crying post injury is a sign of weakness "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDC3M1Q9",
+        "type": "message",
+        "ts": "1712627758.375269",
+        "client_msg_id": "c7d113c8-7d76-41f4-aa65-88935f290f76",
+        "text": "woahhhh",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "5df4583c6c3e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-20\/2859539530726_5df4583c6c3e4c507a51_72.png",
+            "first_name": "Addison",
+            "real_name": "Addison Hannah Kerwin",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "addison_kerwin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712624763.878899",
+        "parent_user_id": "U01AQNJ26GZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xSDK5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "woahhhh"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDC3M1Q9",
+        "type": "message",
+        "ts": "1712627783.592839",
+        "client_msg_id": "3d343081-3f76-420c-a680-0580325a1c08",
+        "text": "crying but not being ashamed of it (especially when it is biological ) is strength",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "5df4583c6c3e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-20\/2859539530726_5df4583c6c3e4c507a51_72.png",
+            "first_name": "Addison",
+            "real_name": "Addison Hannah Kerwin",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "addison_kerwin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712624763.878899",
+        "parent_user_id": "U01AQNJ26GZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j2NWo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "crying but not being ashamed of it (especially when it is biological ) is strength"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDC3M1Q9",
+        "type": "message",
+        "ts": "1712627787.945529",
+        "client_msg_id": "4338a7c1-e0c1-43e8-a66a-7c62bb7d6185",
+        "text": "don't come for me like this",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "5df4583c6c3e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-20\/2859539530726_5df4583c6c3e4c507a51_72.png",
+            "first_name": "Addison",
+            "real_name": "Addison Hannah Kerwin",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "addison_kerwin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712624763.878899",
+        "parent_user_id": "U01AQNJ26GZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3Mswc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "don't come for me like this"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1712630332.975709",
+        "client_msg_id": "2540D155-95A8-4FA9-A557-82F6DCD0090C",
+        "text": "butttt as a first impression it’s tough ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712624763.878899",
+        "parent_user_id": "U01AQNJ26GZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nve3i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "butttt as a first impression "
+                            },
+                            {
+                                "type": "text",
+                                "text": "it’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " tough "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1712630347.447329",
+        "client_msg_id": "0179DDD6-B43A-45D3-B7B3-07BF52719577",
+        "text": "unless you get back up and power through like so quickly ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712624763.878899",
+        "parent_user_id": "U01AQNJ26GZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ySzqA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "unless you get back up and power through like so quickly "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

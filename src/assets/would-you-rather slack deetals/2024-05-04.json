@@ -1,0 +1,817 @@
+[
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1714857368.474669",
+        "client_msg_id": "0B6C21A5-D9AF-401C-9AF3-61B86E34B3DB",
+        "text": ":face_with_peeking_eye: “kiss a lot and very often but not officially date but you say i love you and also make love to each other” with a white person with 2 hidden dreads under the rest of their hair\n:lying_face: you get to be with the love of your life + get married and be together forever BUT you have two hidden dreadlocks for the rest of your life.",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714857368.474669",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1714857571.042319",
+        "reply_users": [
+            "U02J0PQR85R",
+            "U01AQNJ26GZ",
+            "U01ANRY24FK",
+            "U02J1ARQFC3"
+        ],
+        "replies": [
+            {
+                "user": "U02J0PQR85R",
+                "ts": "1714857396.900239"
+            },
+            {
+                "user": "U02J0PQR85R",
+                "ts": "1714857418.462469"
+            },
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1714857426.329719"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1714857440.121559"
+            },
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1714857460.099879"
+            },
+            {
+                "user": "U02J1ARQFC3",
+                "ts": "1714857571.042319"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OMTsB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "face_with_peeking_eye",
+                                "unicode": "1fae3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " “kiss a lot and very often but not officially date but you say i love you and also make love to each other” with a white person with 2 hidden dreads under the rest of their hair\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "lying_face",
+                                "unicode": "1f925"
+                            },
+                            {
+                                "type": "text",
+                                "text": " you get to be with the love of your life + get married and be together forever BUT you have two hidden dreadlocks for the rest of your life."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "face_with_peeking_eye",
+                "users": [
+                    "U02JDC3M1Q9",
+                    "U02J0PQR85R",
+                    "U02J1ARQFC3",
+                    "U02HXU752RK",
+                    "U05VC250MM5"
+                ],
+                "count": 5
+            },
+            {
+                "name": "lying_face",
+                "users": [
+                    "U01AQNJ26GZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02J0PQR85R",
+        "type": "message",
+        "ts": "1714857396.900239",
+        "client_msg_id": "ABF46397-6140-4AEB-8741-3AEE929A77AF",
+        "text": "IMPOSSIBLE",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "5a5a4c9ba486",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-01\/5197718318484_5a5a4c9ba486da208996_72.png",
+            "first_name": "Nora",
+            "real_name": "Nora Starhill",
+            "display_name": "Max Shields",
+            "team": "T019RL7R8K1",
+            "name": "nora_starhill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714857368.474669",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "su9ff",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "IMPOSSIBLE"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02J0PQR85R",
+        "type": "message",
+        "ts": "1714857418.462469",
+        "client_msg_id": "C77F5D40-466A-4A09-8D18-DC94676A0FC7",
+        "text": "BOTH SO BAD",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "5a5a4c9ba486",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-01\/5197718318484_5a5a4c9ba486da208996_72.png",
+            "first_name": "Nora",
+            "real_name": "Nora Starhill",
+            "display_name": "Max Shields",
+            "team": "T019RL7R8K1",
+            "name": "nora_starhill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714857368.474669",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "duU54",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "BOTH SO BAD"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1714857426.329719",
+        "client_msg_id": "7DA6B2DF-F7F4-4984-A7CB-30EE2DAB83CB",
+        "text": "how hidden is hidden",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714857368.474669",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DBMVy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "how hidden is hidden"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1714857440.121559",
+        "client_msg_id": "C81FF6AE-2309-4E99-ACD0-EE9EC2FA2D95",
+        "text": "they hang out a tiny bit and when people ask you have to show them :\/",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714857368.474669",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hdoUk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "they hang out a tiny bit and when people ask you have to show them :\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1714857460.099879",
+        "client_msg_id": "D39F758B-1B4E-4426-AFA6-6D5C6A7C90F3",
+        "text": "do they believe it’s out of your control",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714857368.474669",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/cQka",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "do they believe "
+                            },
+                            {
+                                "type": "text",
+                                "text": "it’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " out of your control"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02J1ARQFC3",
+        "type": "message",
+        "ts": "1714857571.042319",
+        "client_msg_id": "33A4AC8A-2638-46AF-9C19-27EE4B594738",
+        "text": "hidden but now exposed to not hidden that you played them today ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "8503608c976c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-11\/4077453914001_8503608c976c261958e9_72.png",
+            "first_name": "anjali",
+            "real_name": "anjali",
+            "display_name": "aj",
+            "team": "T019RL7R8K1",
+            "name": "anjali_shah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714857368.474669",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P1pRg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hidden but now exposed to not hidden that you played them today "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1714858089.859689",
+        "client_msg_id": "0D051ED3-84C9-416A-B559-140EBF940754",
+        "text": ":frog: your boyfriend is a literal toad and he is the size of a toad and your friends can see it but think he’s just a weird croaky little dude\n:hatched_chick: a duck is in love with you and really wants you to be it’s partner (NOT SEXUALLY —THIS IS ABOUT ROMANCE GWT YOUR HEAD OUT OF THE GUTTER) but you just see a funny duck following you around",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714858089.859689",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1714858475.968459",
+        "reply_users": [
+            "U02J0PQR85R",
+            "U01ANRY24FK"
+        ],
+        "replies": [
+            {
+                "user": "U02J0PQR85R",
+                "ts": "1714858150.368229"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1714858363.968579"
+            },
+            {
+                "user": "U02J0PQR85R",
+                "ts": "1714858472.994389"
+            },
+            {
+                "user": "U02J0PQR85R",
+                "ts": "1714858475.968459"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5APot",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "frog",
+                                "unicode": "1f438"
+                            },
+                            {
+                                "type": "text",
+                                "text": " your boyfriend is a literal toad and he is the size of a toad and your friends can see it but think "
+                            },
+                            {
+                                "type": "text",
+                                "text": "he’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " just a weird croaky little dude\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hatched_chick",
+                                "unicode": "1f425"
+                            },
+                            {
+                                "type": "text",
+                                "text": " a duck is in love with you and really wants you to be "
+                            },
+                            {
+                                "type": "text",
+                                "text": "it’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " partner (NOT SEXUALLY "
+                            },
+                            {
+                                "type": "text",
+                                "text": "—"
+                            },
+                            {
+                                "type": "text",
+                                "text": "THIS IS ABOUT ROMANCE GWT YOUR HEAD OUT OF THE GUTTER) but you just see a funny duck following you around"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "hatched_chick",
+                "users": [
+                    "U05VC250MM5",
+                    "U060601B2NS",
+                    "U02J0PQR85R",
+                    "U01AJKAFPLL",
+                    "U02J0MVSBPC",
+                    "U060CNF6ZBL",
+                    "U02HXU752RK",
+                    "U01AQNJ26GZ",
+                    "U04700S4CGH"
+                ],
+                "count": 9
+            },
+            {
+                "name": "frog",
+                "users": [
+                    "U02JDC3M1Q9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02J0PQR85R",
+        "type": "message",
+        "ts": "1714858150.368229",
+        "client_msg_id": "26424E07-527F-465C-A80C-003472B7F633",
+        "text": "want both",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "5a5a4c9ba486",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-01\/5197718318484_5a5a4c9ba486da208996_72.png",
+            "first_name": "Nora",
+            "real_name": "Nora Starhill",
+            "display_name": "Max Shields",
+            "team": "T019RL7R8K1",
+            "name": "nora_starhill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714858089.859689",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TFS6T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "want both"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1714858363.968579",
+        "client_msg_id": "94C1A5E8-E5E0-4021-BC74-DCF1FD4F9EAE",
+        "text": "YOU WNAT TO BREAK DUCK HEART!?",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714858089.859689",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5x9Ke",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "YOU WNAT TO BREAK DUCK HEART!?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02J0PQR85R",
+        "type": "message",
+        "ts": "1714858472.994389",
+        "client_msg_id": "B7C3E82E-1503-4335-9081-579228AFB2CF",
+        "text": "duck cute",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "5a5a4c9ba486",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-01\/5197718318484_5a5a4c9ba486da208996_72.png",
+            "first_name": "Nora",
+            "real_name": "Nora Starhill",
+            "display_name": "Max Shields",
+            "team": "T019RL7R8K1",
+            "name": "nora_starhill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714858089.859689",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sYtPW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "duck cute"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02J0PQR85R",
+        "type": "message",
+        "ts": "1714858475.968459",
+        "client_msg_id": "C3DE4D5D-1750-4009-A05F-9A0086788F91",
+        "text": "i love it back",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "5a5a4c9ba486",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-01\/5197718318484_5a5a4c9ba486da208996_72.png",
+            "first_name": "Nora",
+            "real_name": "Nora Starhill",
+            "display_name": "Max Shields",
+            "team": "T019RL7R8K1",
+            "name": "nora_starhill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714858089.859689",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uVmCN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i love it back"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02J0PQR85R",
+        "type": "message",
+        "ts": "1714858499.665679",
+        "client_msg_id": "A1CBB238-814E-49E9-A4E4-0D249FB70080",
+        "text": ":unicorn_face: pink pony go\n:hot_face: hot to club",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "5a5a4c9ba486",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-01\/5197718318484_5a5a4c9ba486da208996_72.png",
+            "first_name": "Nora",
+            "real_name": "Nora Starhill",
+            "display_name": "Max Shields",
+            "team": "T019RL7R8K1",
+            "name": "nora_starhill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714858499.665679",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1714873777.462469",
+        "reply_users": [
+            "U02HXU752RK",
+            "U060601B2NS"
+        ],
+        "replies": [
+            {
+                "user": "U02HXU752RK",
+                "ts": "1714872653.347219"
+            },
+            {
+                "user": "U060601B2NS",
+                "ts": "1714873777.462469"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gQh6K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "unicorn_face",
+                                "unicode": "1f984"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pink pony go\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hot_face",
+                                "unicode": "1f975"
+                            },
+                            {
+                                "type": "text",
+                                "text": " hot to club"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "unicorn_face",
+                "users": [
+                    "U01AJKAFPLL",
+                    "U046PRR8JJG",
+                    "U05VC250MM5",
+                    "U02HXU752RK",
+                    "U01AQNJ26GZ"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "user": "U02HXU752RK",
+        "type": "message",
+        "ts": "1714872653.347219",
+        "client_msg_id": "E1C46597-8827-4392-883D-B84B0EF828EA",
+        "text": "<@U060601B2NS> the people have spoken",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "ccfcba4efad8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-06\/3211774774561_ccfcba4efad879e7272f_72.png",
+            "first_name": "Mister",
+            "real_name": "Mister Legs",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "retta.karpinski",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714858499.665679",
+        "parent_user_id": "U02J0PQR85R",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qQbTW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U060601B2NS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " the people have spoken"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U060601B2NS",
+        "type": "message",
+        "ts": "1714873777.462469",
+        "client_msg_id": "07B8BF57-238A-42E7-B310-8D40C37A88EF",
+        "text": ":( ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "0e29ae744ea2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-12\/6018253406423_0e29ae744ea23ac66d9b_72.png",
+            "first_name": "Linnaea",
+            "real_name": "Linnaea McGuinness",
+            "display_name": "sparky",
+            "team": "T019RL7R8K1",
+            "name": "linnaea_mcguinness",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714858499.665679",
+        "parent_user_id": "U02J0PQR85R",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OzRpE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": ":( "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

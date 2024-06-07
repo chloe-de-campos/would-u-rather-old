@@ -1,0 +1,294 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U04700S4CGH",
+        "text": "<@U04700S4CGH> has joined the channel",
+        "type": "message",
+        "ts": "1706067324.085939"
+    },
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1706067669.230759",
+        "client_msg_id": "CD301BD9-C383-406C-B3E4-A7544682739A",
+        "text": "would you rather\n\na) hook up with someone and later find out they will be the professor for ur senior seminar :necktie:\n\nOR\n\nb) hook up with someone and later find out their dad is your advisor :no_mouth: ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706067669.230759",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1706125608.254399",
+        "reply_users": [
+            "U02JDCDDXHP",
+            "U01AQNJ26GZ",
+            "U02HL5DAYUF"
+        ],
+        "replies": [
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1706068962.432609"
+            },
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1706069003.080189"
+            },
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1706069021.292679"
+            },
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1706069033.669029"
+            },
+            {
+                "user": "U02HL5DAYUF",
+                "ts": "1706125594.303259"
+            },
+            {
+                "user": "U02HL5DAYUF",
+                "ts": "1706125608.254399"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eyNMr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "would you rather\n\na) hook up with someone and later find out they will be the professor for ur senior seminar "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "necktie",
+                                "unicode": "1f454"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nOR\n\nb) hook up with someone and later find out their dad is your advisor "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "no_mouth",
+                                "unicode": "1f636"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "no_mouth",
+                "users": [
+                    "U01AQNJ26GZ",
+                    "U04700S4CGH",
+                    "U01ANRY24FK",
+                    "U02JDCDDXHP",
+                    "U046ERV9BPY"
+                ],
+                "count": 5
+            },
+            {
+                "name": "necktie",
+                "users": [
+                    "U02HL5DAYUF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1706068962.432609",
+        "client_msg_id": "F44F2DE9-7171-4487-B3AA-743A4B765C91",
+        "text": "there’s only one option here ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706067669.230759",
+        "parent_user_id": "U01AQNJ26GZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YaBM7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "there’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " only one option here "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1706069003.080189",
+        "client_msg_id": "0FA7F34A-2B4B-4C02-8CDC-5387B3E8CC43",
+        "text": "the person u hooked up with tells their dad everything and it’s clear he knows intimate details",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706067669.230759",
+        "parent_user_id": "U01AQNJ26GZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MLNhq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the person u hooked up with tells their dad everything and "
+                            },
+                            {
+                                "type": "text",
+                                "text": "it’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " clear he knows intimate details"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1706069021.292679",
+        "client_msg_id": "26D4B9C3-E992-4BD0-B97D-C21AA8AFF080",
+        "text": "vs you fucked your professor ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706067669.230759",
+        "parent_user_id": "U01AQNJ26GZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xqy36",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "vs you fucked your professor "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1706069033.669029",
+        "client_msg_id": "FD1DA482-9199-4979-8D07-4A33A09C8A68",
+        "text": "BUT U DIDNT KNOW",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706067669.230759",
+        "parent_user_id": "U01AQNJ26GZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/uskH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "BUT U DIDNT KNOW"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

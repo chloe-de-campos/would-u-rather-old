@@ -1,0 +1,201 @@
+[
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1701359813.767009",
+        "client_msg_id": "d2d3928b-5ba2-4293-8cb7-e5f321838d2d",
+        "text": "would you rather\nbe adrienne lenker on tour with your band (including your ex husband) and bring your brother along to play a little percussion instrument in one song :frog:\nor be the brother and follow your sister and her band on tour just to play your little percussion instrument in one song every night :banana:",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XjQ6K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "would you rather\nbe adrienne lenker on tour with your band (including your ex husband) and bring your brother along to play a little percussion instrument in one song "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "frog",
+                                "unicode": "1f438"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nor be the brother and follow your sister and her band on tour just to play your little percussion instrument in one song every night "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "banana",
+                                "unicode": "1f34c"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "frog",
+                "users": [
+                    "U01AQNJ26GZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1701390215.761959",
+        "edited": {
+            "user": "U01ANRY24FK",
+            "ts": "1701390316.000000"
+        },
+        "client_msg_id": "cdfb503f-ed36-4595-9039-8a0b3501a57b",
+        "text": "would you rather\ngive your partner pink eye :boom: or have your partner give you pink eye? :robot_face: ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3lbN7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "would you rather\ngive your partner pink eye "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "boom",
+                                "unicode": "1f4a5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " or have your partner give you pink eye? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "robot_face",
+                                "unicode": "1f916"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "robot_face",
+                "users": [
+                    "U01ANRY24FK",
+                    "U02JDCDDXHP",
+                    "U01AQNJ26GZ"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1701390276.860369",
+        "client_msg_id": "53AD54F1-8EE5-4013-BCBB-433246529383",
+        "text": "would you rather\nhear your roommates having sex? :clown_face:\nor have sex knowing your roommates can hear you? :star: ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0AJ9E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "would you rather\nhear your roommates having sex? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "clown_face",
+                                "unicode": "1f921"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nor have sex knowing your roommates can hear you? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "star",
+                                "unicode": "2b50"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "clown_face",
+                "users": [
+                    "U01ANRY24FK",
+                    "U02JDCDDXHP",
+                    "U01AQNJ26GZ"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

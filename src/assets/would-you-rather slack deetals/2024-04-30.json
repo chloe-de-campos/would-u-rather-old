@@ -1,0 +1,63 @@
+[
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1714478732.596409",
+        "client_msg_id": "4831505e-48dc-47c4-8bf0-ae29644c6c29",
+        "text": "i cant stop thinking about you with your tail kunz :pleading_face:",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714077524.447409",
+        "parent_user_id": "U02JDCDDXHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lGObI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i cant stop thinking about you with your tail kunz "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pleading_face",
+                                "unicode": "1f97a"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "kissing_heart",
+                "users": [
+                    "U02JDCDDXHP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "monkey",
+                "users": [
+                    "U02JDCDDXHP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,517 @@
+[
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1711402722.559399",
+        "client_msg_id": "053F8512-0180-4A03-BC2B-27F1FD2AE1A3",
+        "text": ":tada: we like to party on repeat 365 times starting rn. it comes out of your sternum at a mid-to-loud volume. you can’t stop it or quiet it\n:monkey: we like to party plays once a day for the next year at a random hour ala bereal",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711402722.559399",
+        "reply_count": 7,
+        "reply_users_count": 4,
+        "latest_reply": "1711404272.462819",
+        "reply_users": [
+            "U02J0PQR85R",
+            "U01ANRY24FK",
+            "U02JDDZETMX",
+            "U02JDCDDXHP"
+        ],
+        "replies": [
+            {
+                "user": "U02J0PQR85R",
+                "ts": "1711402753.122749"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1711402772.094159"
+            },
+            {
+                "user": "U02JDDZETMX",
+                "ts": "1711402787.572909"
+            },
+            {
+                "user": "U02JDDZETMX",
+                "ts": "1711402823.209039"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1711402880.038449"
+            },
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1711404219.612149"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1711404272.462819"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yhPw+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "tada",
+                                "unicode": "1f389"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we like to party on repeat 365 times starting rn. it comes out of your sternum at a mid-to-loud volume. you "
+                            },
+                            {
+                                "type": "text",
+                                "text": "can’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " stop it or quiet it\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "monkey",
+                                "unicode": "1f412"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we like to party plays once a day for the next year at a random hour ala bereal"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "monkey",
+                "users": [
+                    "U02J0PQR85R",
+                    "U05VC250MM5",
+                    "U01AQNJ26GZ",
+                    "U0605TPR6NA",
+                    "U04700S4CGH",
+                    "U01AJKAFPLL",
+                    "U02HXU752RK",
+                    "U02JDC3M1Q9",
+                    "U060CNF6ZBL"
+                ],
+                "count": 9
+            },
+            {
+                "name": "tada",
+                "users": [
+                    "U01ANRY24FK",
+                    "U02JDCDDXHP",
+                    "U046PRR8JJG"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U02J0PQR85R",
+        "type": "message",
+        "ts": "1711402753.122749",
+        "client_msg_id": "D0BEAB71-0ED8-4537-9AFE-857C71682193",
+        "text": "both of these options sound really fun ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "5a5a4c9ba486",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-01\/5197718318484_5a5a4c9ba486da208996_72.png",
+            "first_name": "Nora",
+            "real_name": "Nora Starhill",
+            "display_name": "Max Shields",
+            "team": "T019RL7R8K1",
+            "name": "nora_starhill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711402722.559399",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D8olv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "both of these options sound really fun "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bangbang",
+                "users": [
+                    "U02JDCDDXHP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1711402772.094159",
+        "client_msg_id": "DD23484A-D818-455F-AA89-7AACEED53A19",
+        "text": "i was considering adding a both option",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711402722.559399",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rviig",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i was considering adding a both option"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDDZETMX",
+        "type": "message",
+        "ts": "1711402787.572909",
+        "client_msg_id": "4F53CE44-54FD-472D-9403-D55F0C6E3213",
+        "text": "i think i would love all of the above ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "da58b8021c6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-04\/2910844484980_da58b8021c6fbdeeb42c_72.png",
+            "first_name": "Dana",
+            "real_name": "Dana Richie",
+            "display_name": "jack jack",
+            "team": "T019RL7R8K1",
+            "name": "darichie20",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711402722.559399",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YI90g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i think i would love all of the above "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1711402812.093969",
+        "client_msg_id": "9BC513E3-1EA4-415D-9F22-108842CFEC3D",
+        "text": ":chicken: both of the above\n:woman-gesturing-no: neither of the above",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tWRLY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "chicken",
+                                "unicode": "1f414"
+                            },
+                            {
+                                "type": "text",
+                                "text": " both of the above\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-gesturing-no",
+                                "unicode": "1f645-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " neither of the above"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "chicken",
+                "users": [
+                    "U02J0PQR85R",
+                    "U01ANRY24FK",
+                    "U060601B2NS",
+                    "U0605TPR6NA",
+                    "U02HXU752RK",
+                    "U060CNF6ZBL"
+                ],
+                "count": 6
+            },
+            {
+                "name": "no_good",
+                "users": [
+                    "U01AJKAFPLL",
+                    "U04700S4CGH",
+                    "U01AQNJ26GZ"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U02JDDZETMX",
+        "type": "message",
+        "ts": "1711402823.209039",
+        "client_msg_id": "C260D07E-266F-4924-BA96-8A599CCE6786",
+        "text": "although with either i would be nervous about the song losing meaning because of over saturation",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "da58b8021c6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-04\/2910844484980_da58b8021c6fbdeeb42c_72.png",
+            "first_name": "Dana",
+            "real_name": "Dana Richie",
+            "display_name": "jack jack",
+            "team": "T019RL7R8K1",
+            "name": "darichie20",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711402722.559399",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zBtee",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "although with either i would be nervous about the song losing meaning because of over saturation"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1711402880.038449",
+        "client_msg_id": "90680A53-6088-4EFF-92CF-6089E1334569",
+        "text": "unfortch mild to medium oversaturation is guaranteed by the rules of would you rather",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711402722.559399",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3D7r8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "u"
+                            },
+                            {
+                                "type": "text",
+                                "text": "nfortch mild to medium oversaturation is guaranteed by the rules of would you rather"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1711404219.612149",
+        "client_msg_id": "9346335C-960C-4B6C-BE9F-A74B065C2E6E",
+        "text": "You would really feel the untz in a fun way ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711402722.559399",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AzWPS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You would really feel the untz in a fun way "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bangbang",
+                "users": [
+                    "U02J0PQR85R",
+                    "U0605TPR6NA"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1711404272.462819",
+        "client_msg_id": "35A7A268-97FB-4857-A4B2-A699AB628093",
+        "text": "I WANT THE TRUCK SOUND INSIDE OF ME",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711402722.559399",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ljhvR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I WANT THE TRUCK SOUND INSIDE OF ME"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "truck",
+                "users": [
+                    "U0605TPR6NA"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

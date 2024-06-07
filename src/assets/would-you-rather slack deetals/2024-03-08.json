@@ -1,0 +1,104 @@
+[
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1709968180.506269",
+        "client_msg_id": "C26708CF-43D6-4402-9EED-0D3DEEA67C5A",
+        "text": ":saluting_face: get pantsed by a friend but you’re not wearing underwear and maybe you’re embarrassed\n:pleading_face: pants your friend but they’re not wearing underwear and are really sad that it happened ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BwMGf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "saluting_face",
+                                "unicode": "1fae1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " get pantsed by a friend but "
+                            },
+                            {
+                                "type": "text",
+                                "text": "you’re"
+                            },
+                            {
+                                "type": "text",
+                                "text": " not wearing underwear and maybe "
+                            },
+                            {
+                                "type": "text",
+                                "text": "you’re"
+                            },
+                            {
+                                "type": "text",
+                                "text": " embarrassed\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pleading_face",
+                                "unicode": "1f97a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pants your friend but "
+                            },
+                            {
+                                "type": "text",
+                                "text": "they’re"
+                            },
+                            {
+                                "type": "text",
+                                "text": " not wearing underwear and are really sad that it happened "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U060F69DCUU",
+                    "U05VC250MM5",
+                    "U02JDCDDXHP",
+                    "U060CNF6ZBL",
+                    "U02HXU752RK",
+                    "U01AJKAFPLL",
+                    "U01ANRY24FK",
+                    "U02J0PQR85R",
+                    "U02JDC3M1Q9",
+                    "U01AQNJ26GZ"
+                ],
+                "count": 10
+            },
+            {
+                "name": "pleading_face",
+                "users": [
+                    "U060601B2NS",
+                    "U046PRR8JJG"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

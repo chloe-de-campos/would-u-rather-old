@@ -1,0 +1,223 @@
+[
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1699556263.835749",
+        "client_msg_id": "43f171ea-e692-4d66-806a-63cc10955fd1",
+        "text": "Would you rather be ears out 24\/7  :baby::skin-tone-2:  or never be ears out again :melting_face:",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699556263.835749",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1699585222.330929",
+        "reply_users": [
+            "U02JDCDDXHP"
+        ],
+        "replies": [
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1699585222.330929"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cj\/Av",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Would you rather be ears out 24\/7  "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "baby",
+                                "unicode": "1f476-1f3fb",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": "  or never be ears out again "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "melting_face",
+                                "unicode": "1fae0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "baby",
+                "users": [
+                    "U01ANRY24FK",
+                    "U02JDCDDXHP"
+                ],
+                "count": 2
+            },
+            {
+                "name": "baby::skin-tone-2",
+                "users": [
+                    "U01AQNJ26GZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U02JDCDDXHP",
+        "text": "<@U02JDCDDXHP> has joined the channel",
+        "inviter": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1699556342.112449"
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1699585135.841419",
+        "client_msg_id": "5F487F16-640C-4B8C-B180-EC909A161DAB",
+        "text": "Is this based off of me",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696647147.881469",
+        "parent_user_id": "U01ACQBSABF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iFuh9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is this based off of me"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1699585182.110049",
+        "client_msg_id": "EBEE37F0-9E6C-41D2-A189-FC2F885720CE",
+        "text": "I don’t know how it compares to others ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698258114.341089",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "05wIG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I "
+                            },
+                            {
+                                "type": "text",
+                                "text": "don’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " know how it compares to others "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1699585222.330929",
+        "client_msg_id": "5DA81F64-6D9F-4ACB-A414-D0EBDB8A09CD",
+        "text": "Woah ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699556263.835749",
+        "parent_user_id": "U01AQNJ26GZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OG7XW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Woah "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

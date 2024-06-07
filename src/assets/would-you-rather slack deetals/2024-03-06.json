@@ -1,0 +1,1300 @@
+[
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1709750828.705259",
+        "client_msg_id": "1747E649-5C58-4FCD-A568-813E72CFC884",
+        "text": ":pouring_liquid: die a gruesome death in the barus and holley basement. you haunt the building for 50 years until a group of meddlesome kids set you free to the spirit world \n:apple: get hit by ripta. it said “caution bus is turning” but you were wearing headphones so you didn’t hear it, you’re on bed rest in barus and holley 161 for 500 days or recovery. on the 501st day you graduate and get expelled into the real world",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709750828.705259",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1709750933.029439",
+        "reply_users": [
+            "U02JDDZETMX"
+        ],
+        "replies": [
+            {
+                "user": "U02JDDZETMX",
+                "ts": "1709750933.029439"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IMaF0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "pouring_liquid",
+                                "unicode": "1fad7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " die a gruesome death in the barus and holley basement. you haunt the building for 50 years until a group of meddlesome kids set you free to the spirit world \n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "apple",
+                                "unicode": "1f34e"
+                            },
+                            {
+                                "type": "text",
+                                "text": " get hit by ripta. it said “caution bus is turning” but you were wearing headphones so you "
+                            },
+                            {
+                                "type": "text",
+                                "text": "didn’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " hear it, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "you’re"
+                            },
+                            {
+                                "type": "text",
+                                "text": " on bed rest in barus and holley 161 for 500 days or recovery. on the 501st day you graduate and get expelled into the real world"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pouring_liquid",
+                "users": [
+                    "U02HXU752RK",
+                    "U02JDDZETMX",
+                    "U05VC250MM5",
+                    "U01ANRY24FK",
+                    "U01AQNJ26GZ",
+                    "U02J0PQR85R",
+                    "U060F69DCUU",
+                    "U01AJKAFPLL",
+                    "U047D0ZHW3A"
+                ],
+                "count": 9
+            },
+            {
+                "name": "apple",
+                "users": [
+                    "U02JDC3M1Q9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02JDDZETMX",
+        "type": "message",
+        "ts": "1709750933.029439",
+        "client_msg_id": "40EC1177-A404-43E2-81A3-50289F9E8B05",
+        "text": "i want to be a scooby doo villain ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "da58b8021c6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-04\/2910844484980_da58b8021c6fbdeeb42c_72.png",
+            "first_name": "Dana",
+            "real_name": "Dana Richie",
+            "display_name": "jack jack",
+            "team": "T019RL7R8K1",
+            "name": "darichie20",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709750828.705259",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qx9mT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i want to be a scooby doo villain "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bangbang",
+                "users": [
+                    "U01ANRY24FK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1709751198.390489",
+        "client_msg_id": "1A4027E5-6BB2-416F-8B57-D3D0FF8D1B2B",
+        "text": ":ice_cube: have to light a cheese scented candle and perform a short ceremony every time you’re about to have sex\n:lemon: never eat cheese again",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709751198.390489",
+        "reply_count": 10,
+        "reply_users_count": 3,
+        "latest_reply": "1709751317.269459",
+        "reply_users": [
+            "U01AQNJ26GZ",
+            "U01ANRY24FK",
+            "U02JDDZETMX"
+        ],
+        "replies": [
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1709751246.167259"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1709751248.760589"
+            },
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1709751251.672889"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1709751254.014459"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1709751257.687879"
+            },
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1709751259.530729"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1709751262.056419"
+            },
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1709751262.671519"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1709751268.578799"
+            },
+            {
+                "user": "U02JDDZETMX",
+                "ts": "1709751317.269459"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QomH\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "ice_cube",
+                                "unicode": "1f9ca"
+                            },
+                            {
+                                "type": "text",
+                                "text": " have to light a cheese scented candle and perform a short ceremony every time "
+                            },
+                            {
+                                "type": "text",
+                                "text": "you’re"
+                            },
+                            {
+                                "type": "text",
+                                "text": " about to have sex\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "lemon",
+                                "unicode": "1f34b"
+                            },
+                            {
+                                "type": "text",
+                                "text": " never eat cheese again"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ice_cube",
+                "users": [
+                    "U05VC250MM5",
+                    "U02JDDZETMX",
+                    "U060601B2NS",
+                    "U01AQNJ26GZ",
+                    "U02HXU752RK",
+                    "U02JDCDDXHP",
+                    "U0605TPR6NA",
+                    "U060F69DCUU",
+                    "U02JDC3M1Q9",
+                    "U01AJKAFPLL"
+                ],
+                "count": 10
+            },
+            {
+                "name": "lemon",
+                "users": [
+                    "U02J0PQR85R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1709751246.167259",
+        "client_msg_id": "ABAD2C80-635F-4955-9ED2-DF5F0A6D7164",
+        "text": "do u have to have sex in the cheese candle room",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709751198.390489",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ubGOc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "do u have to have sex in the cheese candle room"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1709751248.760589",
+        "client_msg_id": "5F56D785-9A86-4246-A970-FAD9FB52AEAE",
+        "text": "yes",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709751198.390489",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TTEdm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1709751251.672889",
+        "client_msg_id": "7EF55548-B3F6-41AF-83C0-D2BA2D08C3B9",
+        "text": "how strong is the cheese candle",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709751198.390489",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LJ8hg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "how strong is the cheese candle"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1709751254.014459",
+        "client_msg_id": "9CA23EFB-0A3E-4DB0-974E-0FFB830EDF6C",
+        "text": "within 10 feet",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709751198.390489",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gwOWe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "within 10 feet"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1709751257.687879",
+        "client_msg_id": "C9FDEA97-B074-432E-95DC-3D13C687B059",
+        "text": "it’s strong",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709751198.390489",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5mFwc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " strong"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1709751259.530729",
+        "client_msg_id": "36D23921-7E60-48A9-99D7-AA12050C5501",
+        "text": "can i overpower it with another candle",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709751198.390489",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Tqe3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "can i overpower it with another candle"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1709751262.056419",
+        "client_msg_id": "3C391CF9-B108-492D-B368-7A56F9CAEB6F",
+        "text": "it’s not bad perse",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709751198.390489",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D4F8o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " not bad perse"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1709751262.671519",
+        "client_msg_id": "DCCDA0E0-B87E-4927-91BD-95C16730C278",
+        "text": "hmm",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709751198.390489",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ReRMh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hmm"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1709751268.578799",
+        "client_msg_id": "F5448EBE-DABF-4BAD-942C-34ED2A0E6364",
+        "text": "but it’s unoverpowerable",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709751198.390489",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SfluC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but "
+                            },
+                            {
+                                "type": "text",
+                                "text": "it’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " unoverpowerable"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDDZETMX",
+        "type": "message",
+        "ts": "1709751317.269459",
+        "client_msg_id": "E13FD2E0-D2A4-40A5-912A-C11AB7513FEA",
+        "text": "i love cheese",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "da58b8021c6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-04\/2910844484980_da58b8021c6fbdeeb42c_72.png",
+            "first_name": "Dana",
+            "real_name": "Dana Richie",
+            "display_name": "jack jack",
+            "team": "T019RL7R8K1",
+            "name": "darichie20",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709751198.390489",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dDtIn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i love cheese"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1709751489.873369",
+        "client_msg_id": "1B00465E-6C1E-4C77-9111-FB37749E9A2C",
+        "text": "alternatively \n:ice_cube: the cheese candle thing\n:lemon: you can only eat cheese between the time of sex and the candle going out",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709751489.873369",
+        "reply_count": 10,
+        "reply_users_count": 4,
+        "latest_reply": "1709779317.877779",
+        "reply_users": [
+            "U01ANRY24FK",
+            "U02HXU752RK",
+            "U02JDCDDXHP",
+            "U02J1ARQFC3"
+        ],
+        "replies": [
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1709751531.123729"
+            },
+            {
+                "user": "U02HXU752RK",
+                "ts": "1709752171.054629"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1709752189.813849"
+            },
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1709752215.646909"
+            },
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1709752262.349369"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1709752272.260799"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1709752324.764099"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1709752327.274619"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1709752340.943689"
+            },
+            {
+                "user": "U02J1ARQFC3",
+                "ts": "1709779317.877779"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2hinp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "alternatively \n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ice_cube",
+                                "unicode": "1f9ca"
+                            },
+                            {
+                                "type": "text",
+                                "text": " the cheese candle thing\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "lemon",
+                                "unicode": "1f34b"
+                            },
+                            {
+                                "type": "text",
+                                "text": " you can only eat cheese between the time of sex and the candle going out"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "lemon",
+                "users": [
+                    "U01AQNJ26GZ",
+                    "U046PRR8JJG",
+                    "U02J0PQR85R",
+                    "U02JDC3M1Q9",
+                    "U02J1ARQFC3",
+                    "U047D0ZHW3A",
+                    "U05VC250MM5"
+                ],
+                "count": 7
+            },
+            {
+                "name": "ice_cube",
+                "users": [
+                    "U02HXU752RK",
+                    "U02JDCDDXHP",
+                    "U01AJKAFPLL"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1709751531.123729",
+        "client_msg_id": "216866C4-C041-4DE8-A5F9-2BBA8A5799C2",
+        "text": "you must be within 10 ft of candle to eat cheese",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709751489.873369",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YdtnH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "y"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ou must be within 10 ft of candle to eat cheese"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02HXU752RK",
+        "type": "message",
+        "ts": "1709752171.054629",
+        "client_msg_id": "E4824529-F08A-442F-AB77-81E34FD3BAF6",
+        "text": "Are there different flavors of cheese candle to match what you’re eating?",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "ccfcba4efad8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-06\/3211774774561_ccfcba4efad879e7272f_72.png",
+            "first_name": "Mister",
+            "real_name": "Mister Legs",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "retta.karpinski",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709751489.873369",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Oeib9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are there different flavors of cheese candle to match what "
+                            },
+                            {
+                                "type": "text",
+                                "text": "you’re"
+                            },
+                            {
+                                "type": "text",
+                                "text": " eating?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1709752189.813849",
+        "client_msg_id": "138635f7-8b67-4019-a6bf-a9fe2726f555",
+        "text": "the flavor may change over time but its out of your control",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709751489.873369",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "esGZo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the flavor may change over time but its out of your control"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1709752215.646909",
+        "client_msg_id": "B6F3AE3C-2ADC-4EFF-9BB7-FDB57ECC3272",
+        "text": "It’ll be a fun cheese ritual for me and my future partners ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709751489.873369",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zc1yC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It’ll"
+                            },
+                            {
+                                "type": "text",
+                                "text": " be a fun cheese ritual for me and my future partners "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1709752262.349369",
+        "client_msg_id": "EACE249E-CCB7-44E2-A7C6-6C2C088F75ED",
+        "text": "You’ve heard of wax play and now I give you sex raclette",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709751489.873369",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MCqhX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You’ve"
+                            },
+                            {
+                                "type": "text",
+                                "text": " heard of wax play and now I give you sex raclette"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "frog",
+                "users": [
+                    "U01ANRY24FK",
+                    "U02JDC3M1Q9",
+                    "U02J0N4DU10"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1709752272.260799",
+        "client_msg_id": "6d9d3f85-bdba-47b7-9ec2-96fcfae76d95",
+        "text": "teeheee",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709751489.873369",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y\/zXr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "teeheee"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1709752324.764099",
+        "client_msg_id": "6e99e868-9b74-4fbf-9ac4-2f35ccf14615",
+        "text": "you can't eat the candle",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709751489.873369",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q55yc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you can't eat the candle"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1709752327.274619",
+        "client_msg_id": "6dfa53b4-508a-444d-9842-37bcd2b0fb8b",
+        "text": "you will die :\/",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709751489.873369",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KazFG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you will die :\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "skull",
+                "users": [
+                    "U02JDCDDXHP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1709752340.943689",
+        "client_msg_id": "71707ca3-3135-4585-9a3e-4c2a6245abb5",
+        "text": "but yes you can have your own raclette on the side",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709751489.873369",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jxMF3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but yes you can have your own raclette on the side"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "smiling_imp",
+                "users": [
+                    "U02JDCDDXHP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02J1ARQFC3",
+        "type": "message",
+        "ts": "1709779317.877779",
+        "client_msg_id": "27ED353C-14B0-4D52-9189-00FD15D51750",
+        "text": ":lemon:  sounds ideal ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "8503608c976c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-11\/4077453914001_8503608c976c261958e9_72.png",
+            "first_name": "anjali",
+            "real_name": "anjali",
+            "display_name": "aj",
+            "team": "T019RL7R8K1",
+            "name": "anjali_shah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709751489.873369",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xCh3f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "lemon",
+                                "unicode": "1f34b"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  sounds ideal "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

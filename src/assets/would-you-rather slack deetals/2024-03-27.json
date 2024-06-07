@@ -1,0 +1,292 @@
+[
+    {
+        "user": "U02JDC3M1Q9",
+        "type": "message",
+        "ts": "1711563028.449959",
+        "client_msg_id": "AFCFE645-E1FB-4151-8B2D-D7FA3A77E1AA",
+        "text": "This happened to me",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "5df4583c6c3e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-20\/2859539530726_5df4583c6c3e4c507a51_72.png",
+            "first_name": "Addison",
+            "real_name": "Addison Hannah Kerwin",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "addison_kerwin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711333898.291299",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fNXZm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This happened to me"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDC3M1Q9",
+        "type": "message",
+        "ts": "1711563032.045849",
+        "client_msg_id": "97BFC19F-8AC7-4C41-9CCB-996A70AF19C6",
+        "text": "But I was also crying",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "5df4583c6c3e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-20\/2859539530726_5df4583c6c3e4c507a51_72.png",
+            "first_name": "Addison",
+            "real_name": "Addison Hannah Kerwin",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "addison_kerwin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711333898.291299",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zAd0B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But I was also crying"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDC3M1Q9",
+        "type": "message",
+        "ts": "1711563044.652329",
+        "client_msg_id": "77FA7622-735D-4BED-8FA3-9EC558FE0D88",
+        "text": "It was only a 1.5 hour flight",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "5df4583c6c3e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-20\/2859539530726_5df4583c6c3e4c507a51_72.png",
+            "first_name": "Addison",
+            "real_name": "Addison Hannah Kerwin",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "addison_kerwin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711333898.291299",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QyLWz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It was only a 1.5 hour flight"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1711564458.153329",
+        "client_msg_id": "9281EDC5-8917-4C67-B6B8-D82D2C706038",
+        "text": ":female-construction-worker: every time you fly on a plane from the moment you step into the airport to the moment you leave, you cry nonstop. sometiems sniffles sometiems weeping. its cathartic but exhausting and really sad.\n:sleuth_or_spy:‍:female_sign: every time you ride in a car, plane, train, boat… there’s a 65% chance you will be motion sick and a 5% chance of yak",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711564458.153329",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1711564500.343009",
+        "reply_users": [
+            "U0605TPR6NA"
+        ],
+        "replies": [
+            {
+                "user": "U0605TPR6NA",
+                "ts": "1711564500.343009"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xaPYM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "female-construction-worker",
+                                "unicode": "1f477-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " every time you fly on a plane from the moment you step into the airport to the moment you leave, you cry nonstop. sometiems sniffles sometiems weeping. its cathartic but exhausting and really sad.\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sleuth_or_spy",
+                                "unicode": "1f575-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "‍"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "female_sign",
+                                "unicode": "2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " every time you ride in a car, plane, train, boat"
+                            },
+                            {
+                                "type": "text",
+                                "text": "…"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "there’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " a 65% chance you will be motion sick and a 5% chance of yak"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "construction_worker",
+                "users": [
+                    "U0605TPR6NA",
+                    "U05VC250MM5",
+                    "U02HXU752RK",
+                    "U02J0N4DU10",
+                    "U060F69DCUU",
+                    "U01AJKAFPLL",
+                    "U02J0PQR85R",
+                    "U0609QNFT6Z",
+                    "U01AQNJ26GZ",
+                    "U060CNF6ZBL",
+                    "U060601B2NS",
+                    "U02JDCDDXHP"
+                ],
+                "count": 12
+            },
+            {
+                "name": "female-detective",
+                "users": [
+                    "U01ANRY24FK",
+                    "U046PRR8JJG"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U0605TPR6NA",
+        "type": "message",
+        "ts": "1711564500.343009",
+        "client_msg_id": "251C2DA0-74C8-4D3A-BD74-F4079D621A24",
+        "text": "anything not to yak ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "ec9ff28af7b5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-06\/6165117200897_ec9ff28af7b554dfa0e0_72.jpg",
+            "first_name": "Alice",
+            "real_name": "Alice Cannon",
+            "display_name": "Alice Cannon",
+            "team": "T019RL7R8K1",
+            "name": "alice_cannon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711564458.153329",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HQ+wE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "anything not to yak "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bangbang",
+                "users": [
+                    "U02J0PQR85R",
+                    "U01AQNJ26GZ"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

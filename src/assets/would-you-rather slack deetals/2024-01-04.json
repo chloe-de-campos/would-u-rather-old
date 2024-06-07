@@ -1,0 +1,1011 @@
+[
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1704407952.516979",
+        "edited": {
+            "user": "U02JDCDDXHP",
+            "ts": "1704408244.000000"
+        },
+        "client_msg_id": "b2447476-46ab-4fd0-b5c1-3eaf7e6942e6",
+        "text": "would you rather projectile vomit and layout into it to win last game of the day on uni :face_vomiting: or get scored on to lose the last game of the day on uni but no vomit :man-gesturing-no:(the game is last game on day one of a tournament and just puts us into better bracket position but doesnt knock us out if we lose)",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bOUXH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "would you rather projectile vomit and layout into it to win last game of the day on uni "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_vomiting",
+                                "unicode": "1f92e"
+                            },
+                            {
+                                "type": "text",
+                                "text": " or get scored on to lose the last game of the day on uni but no vomit "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-gesturing-no",
+                                "unicode": "1f645-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "(the game is last game on day one of a tournament and just puts us into better bracket position but doesnt knock us out if we lose)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "face_vomiting",
+                "users": [
+                    "U02JDCDDXHP",
+                    "U01ANRY24FK"
+                ],
+                "count": 2
+            },
+            {
+                "name": "man-gesturing-no::skin-tone-2",
+                "users": [
+                    "U01AQNJ26GZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1704408032.520379",
+        "client_msg_id": "bc620748-e462-4252-a18e-bbe5d7b3c1e7",
+        "text": "would you rather write a 6 page essay :memo: or one 1500 word personal statement :brain:",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/4x8b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "would you rather write a 6 page essay "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pencil",
+                                "unicode": "1f4dd"
+                            },
+                            {
+                                "type": "text",
+                                "text": " or one 1500 word personal statement "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "brain",
+                                "unicode": "1f9e0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "memo",
+                "users": [
+                    "U02JDCDDXHP",
+                    "U01ANRY24FK",
+                    "U01AQNJ26GZ"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1704408058.235749",
+        "client_msg_id": "5cd45aa3-f686-4c0c-b552-76e50bc69861",
+        "text": "would you rather learn how to knit :yarn:or crochet :sewing_needle:",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOf\/U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "would you rather learn how to knit "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "yarn",
+                                "unicode": "1f9f6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "or crochet "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sewing_needle",
+                                "unicode": "1faa1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "yarn",
+                "users": [
+                    "U01ANRY24FK",
+                    "U01AQNJ26GZ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1704408202.184139",
+        "client_msg_id": "d9ba6fdf-074d-4f01-82f4-a00befaf2429",
+        "text": "would you rather encounter an angry bear :bear: or a spirit :ghost:",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704408202.184139",
+        "reply_count": 18,
+        "reply_users_count": 3,
+        "latest_reply": "1706123196.018129",
+        "reply_users": [
+            "U01ANRY24FK",
+            "U02JDCDDXHP",
+            "U01AQNJ26GZ"
+        ],
+        "replies": [
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1704408792.679259"
+            },
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1704410620.201499"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1704410656.555429"
+            },
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1704410727.618389"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1704410771.566099"
+            },
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1704410778.636249"
+            },
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1704410795.335219"
+            },
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1704410809.710659"
+            },
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1704410838.850989"
+            },
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1704504097.563949"
+            },
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1706123100.283119"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1706123153.481439"
+            },
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1706123166.281619"
+            },
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1706123169.100189"
+            },
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1706123171.232089"
+            },
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1706123175.578479"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1706123187.203999"
+            },
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1706123196.018129"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gpoKo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "would you rather encounter an angry bear "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bear",
+                                "unicode": "1f43b"
+                            },
+                            {
+                                "type": "text",
+                                "text": " or a spirit "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ghost",
+                                "unicode": "1f47b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bear",
+                "users": [
+                    "U02JDCDDXHP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "ghost",
+                "users": [
+                    "U01AQNJ26GZ",
+                    "U01ANRY24FK"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1704408321.103479",
+        "edited": {
+            "user": "U02JDCDDXHP",
+            "ts": "1704408418.000000"
+        },
+        "client_msg_id": "e7948aca-ab44-4ea9-bdee-c15e16abf036",
+        "text": "would you rather have the ability to grow a mustache :squirrel: or beard :mushroom:",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704408321.103479",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1704499101.382099",
+        "reply_users": [
+            "U02JDCDDXHP",
+            "U01ANRY24FK",
+            "U01AQNJ26GZ"
+        ],
+        "replies": [
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1704408332.992849"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1704408838.374359"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1704408843.386349"
+            },
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1704499018.506269"
+            },
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1704499101.382099"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LXFNY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "would you rather have the ability to grow a mustache "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "squirrel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " or beard "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "mushroom",
+                                "unicode": "1f344"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "squirrel",
+                "users": [
+                    "U02JDCDDXHP",
+                    "U01ANRY24FK",
+                    "U01AQNJ26GZ"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1704408332.992849",
+        "client_msg_id": "413349e6-e848-460e-a56d-c3d168edc7a5",
+        "text": "guys thers no mustache emoji isnt that insane",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704408321.103479",
+        "parent_user_id": "U02JDCDDXHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6fThk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "guys thers no mustache emoji isnt that insane"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1704408792.679259",
+        "client_msg_id": "C27B8856-BFDE-4A4F-B641-4B206927648F",
+        "text": "this one’s so tough",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704408202.184139",
+        "parent_user_id": "U02JDCDDXHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2H\/tw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this "
+                            },
+                            {
+                                "type": "text",
+                                "text": "one’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " so tough"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1704408838.374359",
+        "client_msg_id": "60163815-4D3E-4C8A-9C79-278B2044D088",
+        "text": "#represnetationformoustachemen",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704408321.103479",
+        "parent_user_id": "U02JDCDDXHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4sMAL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#represnetationformoustachemen"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1704408843.386349",
+        "client_msg_id": "A181C41A-24BF-4D02-A6A5-C0C0C39E8A13",
+        "text": "#showthebroflow",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704408321.103479",
+        "parent_user_id": "U02JDCDDXHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CFqDS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#showthebroflow"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "laughing",
+                "users": [
+                    "U02JDCDDXHP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1704410620.201499",
+        "client_msg_id": "858dfca2-ce48-4a64-8dae-0354fec570fb",
+        "text": "im bear because i would only be scared in forests after that but after experiencing a spirit i would be scared ANYWHERE that was dark or spooky",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704408202.184139",
+        "parent_user_id": "U02JDCDDXHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J6nVw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "im bear because i would only be scared in forests after that but after experiencing a spirit i would be scared ANYWHERE that was dark or spooky"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1704410656.555429",
+        "client_msg_id": "64E73D4A-FDE4-4BA6-8F46-894418F74E83",
+        "text": "i think bear might kill me for real tho ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704408202.184139",
+        "parent_user_id": "U02JDCDDXHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DYatd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i think bear might kill me for real tho "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1704410704.899009",
+        "client_msg_id": "aac55384-9917-4be1-9022-9f9679c6368d",
+        "text": "i think id get tired of the excitable porcupine",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704221421.551609",
+        "parent_user_id": "U01AQNJ26GZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sXdZY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i think id get tired of the excitable porcupine"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1704410727.618389",
+        "client_msg_id": "47eb09ac-c914-4961-8869-e7ceb6ab4dd5",
+        "text": "this made me laugh",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704408202.184139",
+        "parent_user_id": "U02JDCDDXHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/jZx+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this made me laugh"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1704410771.566099",
+        "client_msg_id": "45952E14-BECF-4125-99B0-B30D913AFD66",
+        "text": "but maybe that’s ok",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704408202.184139",
+        "parent_user_id": "U02JDCDDXHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4zcEH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but maybe "
+                            },
+                            {
+                                "type": "text",
+                                "text": "that’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ok"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1704410778.636249",
+        "client_msg_id": "c0670587-aa92-4cb1-af45-6081d9616a36",
+        "text": "the possibility of death is real",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704408202.184139",
+        "parent_user_id": "U02JDCDDXHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cMhWN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the possibility of death is real"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1704410795.335219",
+        "client_msg_id": "f254572b-7a06-4190-a79b-121d21d9f6d7",
+        "text": "but i think id rather that than the mental state id be in after encountering a spirit personally",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704408202.184139",
+        "parent_user_id": "U02JDCDDXHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "olYGh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but i think id rather that than the mental state id be in after encountering a spirit personally"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1704410809.710659",
+        "client_msg_id": "6e5e0539-8774-4344-909f-9cf35d9d56a4",
+        "text": "i dont think id recover",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704408202.184139",
+        "parent_user_id": "U02JDCDDXHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "agx7v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i dont think id recover"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1704410838.850989",
+        "client_msg_id": "a8d3e85f-fc39-45a3-9408-f20c46cdaff5",
+        "text": "it would open up many questions about life after death , incredible fear of being alone and the dark, i would also question my sanity",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704408202.184139",
+        "parent_user_id": "U02JDCDDXHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ybVfa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it would open up many questions about life after death , incredible fear of being alone and the dark, i would also question my sanity"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "two_hearts",
+                "users": [
+                    "U01ANRY24FK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,259 @@
+[
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1714444591.539309",
+        "client_msg_id": "dcfc7b88-8a2f-4c9b-a199-ac684ba05850",
+        "text": ":broom:be mr. brooms for arms\n:waxing_crescent_moon: only go outside when the moon is waxing",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714444591.539309",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1714446535.478189",
+        "reply_users": [
+            "U01AQNJ26GZ",
+            "U02J0PQR85R"
+        ],
+        "replies": [
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1714446493.363429"
+            },
+            {
+                "user": "U02J0PQR85R",
+                "ts": "1714446528.832419"
+            },
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1714446535.478189"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8T+i\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "broom",
+                                "unicode": "1f9f9"
+                            },
+                            {
+                                "type": "text",
+                                "text": "be mr. brooms for arms\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "waxing_crescent_moon",
+                                "unicode": "1f312"
+                            },
+                            {
+                                "type": "text",
+                                "text": " only go outside when the moon is waxing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "waxing_crescent_moon",
+                "users": [
+                    "U02J0PQR85R",
+                    "U046PRR8JJG",
+                    "U047D0ZHW3A",
+                    "U060601B2NS"
+                ],
+                "count": 4
+            },
+            {
+                "name": "broom",
+                "users": [
+                    "U01AQNJ26GZ",
+                    "U01AJKAFPLL",
+                    "U02JDC3M1Q9"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1714446493.363429",
+        "client_msg_id": "9732682c-d0ee-4dd3-8777-2ee8d576bfa5",
+        "text": "the answer is so fucking obvious",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714444591.539309",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8r7TQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the answer is so fucking obvious"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02J0PQR85R",
+        "type": "message",
+        "ts": "1714446528.832419",
+        "client_msg_id": "69F602DA-9261-4090-8C99-3D2A9256983E",
+        "text": "i would just love to live the reverse werewolf life where i only emerge into society once a month",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "5a5a4c9ba486",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-01\/5197718318484_5a5a4c9ba486da208996_72.png",
+            "first_name": "Nora",
+            "real_name": "Nora Starhill",
+            "display_name": "Max Shields",
+            "team": "T019RL7R8K1",
+            "name": "nora_starhill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714444591.539309",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mEqNw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i would just love to live the reverse werewolf life where i only emerge into society once a month"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1714446535.478189",
+        "client_msg_id": "2c2879a2-b643-44fc-a3e3-caff9b40c728",
+        "text": "JUSTICE FOR MR BROOMS FOR ARMS",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714444591.539309",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Lh\/N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "JUSTICE FOR MR BROOMS FOR ARMS"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1714447723.181609",
+        "client_msg_id": "7fa26015-c40f-46f2-a3f2-f5c82972ce30",
+        "text": "i cant stop thinking about it… i want a monke tail so badly",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714077524.447409",
+        "parent_user_id": "U02JDCDDXHP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LSDGl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i cant stop thinking about it… i want a monke tail so badly"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

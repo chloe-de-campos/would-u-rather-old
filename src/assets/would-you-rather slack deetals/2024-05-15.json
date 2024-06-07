@@ -1,0 +1,264 @@
+[
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1715774913.592929",
+        "client_msg_id": "8437AD56-3278-4B8B-9798-F3B668D6B31B",
+        "text": ":full_moon_with_face: accidentally post nudes on linked in\n:new_moon_with_face: accidentally post nudes on facebook",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715774913.592929",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1715786873.393529",
+        "reply_users": [
+            "U01ANRY24FK",
+            "U02J0MVSBPC",
+            "U01AQNJ26GZ"
+        ],
+        "replies": [
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1715775931.427759"
+            },
+            {
+                "user": "U02J0MVSBPC",
+                "ts": "1715782561.182149"
+            },
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1715786871.792539"
+            },
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1715786873.393529"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZDN90",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "full_moon_with_face",
+                                "unicode": "1f31d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " accidentally post nudes on linked in\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "new_moon_with_face",
+                                "unicode": "1f31a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " accidentally post nudes on facebook"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "full_moon_with_face",
+                "users": [
+                    "U02JDCDDXHP",
+                    "U02J0PQR85R"
+                ],
+                "count": 2
+            },
+            {
+                "name": "new_moon_with_face",
+                "users": [
+                    "U01AQNJ26GZ",
+                    "U05VC250MM5",
+                    "U047D0ZHW3A",
+                    "U02J1ARQFC3",
+                    "U060601B2NS"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1715775931.427759",
+        "client_msg_id": "1D6E448B-9242-407D-961A-B3D57FF71A25",
+        "text": "in both cases, you realize after 2 hours and remove them ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715774913.592929",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qfjYa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "in both cases, you realize after 2 hours and remove them "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02J0MVSBPC",
+        "type": "message",
+        "ts": "1715782561.182149",
+        "client_msg_id": "192D526D-16CB-4475-8016-EDC2A5B69B21",
+        "text": "on the one hand no one uses fb so not many ppl would see them on the other maybe i want ppl to see my sexy nudes?",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "947ea5b9e283",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-03\/3050551470693_947ea5b9e283b62877bc_72.jpg",
+            "first_name": "Kavya",
+            "real_name": "Kavya Gopinath",
+            "display_name": "killer",
+            "team": "T019RL7R8K1",
+            "name": "kavya_gopinath",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715774913.592929",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J1uhS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "on the one hand no one uses fb so not many ppl would see them on the other maybe i want ppl to see my sexy nudes?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1715786871.792539",
+        "client_msg_id": "99c9e9d0-d16f-43ea-93cf-e6f5e8913b85",
+        "text": "are they tasteful?",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715774913.592929",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+d75Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "are they tasteful?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1715786873.393529",
+        "client_msg_id": "47741d65-c938-4084-935f-6a00bc68d3e4",
+        "text": "the nudes?",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715774913.592929",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B9S+F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the nudes?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

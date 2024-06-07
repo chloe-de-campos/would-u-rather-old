@@ -1,0 +1,440 @@
+[
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1711988285.426409",
+        "client_msg_id": "f353bda4-988a-415c-b9c6-56bc41c6edf3",
+        "text": ":angel: i shrink you down and carry you in my pocket like a little fairy friend. you can like fly around me probably but not too far away.\n:ghost: you shrink me down and carry me around in your pocket like a little fairy friend.",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711988285.426409",
+        "reply_count": 7,
+        "reply_users_count": 4,
+        "latest_reply": "1711999010.240409",
+        "reply_users": [
+            "U01AQNJ26GZ",
+            "U02J0PQR85R",
+            "U01ANRY24FK",
+            "U02J1ARQFC3"
+        ],
+        "replies": [
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1711988676.800999"
+            },
+            {
+                "user": "U02J0PQR85R",
+                "ts": "1711988971.096029"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1711989131.616049"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1711989138.770319"
+            },
+            {
+                "user": "U02J0PQR85R",
+                "ts": "1711989161.145979"
+            },
+            {
+                "user": "U02J1ARQFC3",
+                "ts": "1711998994.855139"
+            },
+            {
+                "user": "U02J1ARQFC3",
+                "ts": "1711999010.240409"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QhoY0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "angel",
+                                "unicode": "1f47c"
+                            },
+                            {
+                                "type": "text",
+                                "text": " i shrink you down and carry you in my pocket like a little fairy friend. you can like fly around me probably but not too far away.\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ghost",
+                                "unicode": "1f47b"
+                            },
+                            {
+                                "type": "text",
+                                "text": " you shrink me down and carry me around in your pocket like a little fairy friend."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ghost",
+                "users": [
+                    "U02JDC3M1Q9",
+                    "U046PRR8JJG",
+                    "U01ANRY24FK",
+                    "U04700S4CGH",
+                    "U01AQNJ26GZ",
+                    "U02J0PQR85R",
+                    "U05VC250MM5",
+                    "U047D0ZHW3A",
+                    "U060F69DCUU",
+                    "U02J1ARQFC3",
+                    "U060CNF6ZBL"
+                ],
+                "count": 11
+            },
+            {
+                "name": "angel",
+                "users": [
+                    "U02JDCDDXHP",
+                    "U02J0PQR85R",
+                    "U060601B2NS",
+                    "U01AJKAFPLL",
+                    "U0609QNFT6Z",
+                    "U02HXU752RK"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1711988676.800999",
+        "client_msg_id": "7C405EE2-C397-4A1D-9C27-D63509801FDC",
+        "text": "come on tour baby",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711988285.426409",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZPw9m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "come on tour baby"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bangbang",
+                "users": [
+                    "U01ANRY24FK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02J0PQR85R",
+        "type": "message",
+        "ts": "1711988971.096029",
+        "client_msg_id": "ECB4B479-AA9F-4126-A1C2-D70EF509FCE4",
+        "text": "wait… both?",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "5a5a4c9ba486",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-01\/5197718318484_5a5a4c9ba486da208996_72.png",
+            "first_name": "Nora",
+            "real_name": "Nora Starhill",
+            "display_name": "Max Shields",
+            "team": "T019RL7R8K1",
+            "name": "nora_starhill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711988285.426409",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oiuMs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "wait"
+                            },
+                            {
+                                "type": "text",
+                                "text": "…"
+                            },
+                            {
+                                "type": "text",
+                                "text": " both?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1711989131.616049",
+        "client_msg_id": "e5bc96e2-5a09-4f40-9427-5d7227e70cb0",
+        "text": "gotta pick one",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711988285.426409",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7JeAr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "gotta pick one"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1711989138.770319",
+        "client_msg_id": "3f389f58-07e9-4756-8c9b-1d6ff298642a",
+        "text": "cant both be in eachother's pockets :(",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711988285.426409",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cm2fx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cant both be in eachother's pockets :("
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02J0PQR85R",
+        "type": "message",
+        "ts": "1711989161.145979",
+        "client_msg_id": "35A3F4F4-3A53-43B9-B812-E07CCE26D46B",
+        "text": "i would clone us and then we could",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "5a5a4c9ba486",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-01\/5197718318484_5a5a4c9ba486da208996_72.png",
+            "first_name": "Nora",
+            "real_name": "Nora Starhill",
+            "display_name": "Max Shields",
+            "team": "T019RL7R8K1",
+            "name": "nora_starhill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711988285.426409",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GaGzR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i would clone us and then we could"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02J1ARQFC3",
+        "type": "message",
+        "ts": "1711998994.855139",
+        "client_msg_id": "A29AAB29-2EC8-478E-9A70-9F7FBBD6F6EA",
+        "text": "i want hobbes with me all the time ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "8503608c976c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-11\/4077453914001_8503608c976c261958e9_72.png",
+            "first_name": "anjali",
+            "real_name": "anjali",
+            "display_name": "aj",
+            "team": "T019RL7R8K1",
+            "name": "anjali_shah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711988285.426409",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X+6WY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i want hobbes with me all the time "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pinching_hand",
+                "users": [
+                    "U01ANRY24FK"
+                ],
+                "count": 1
+            },
+            {
+                "name": "two_hearts",
+                "users": [
+                    "U01ANRY24FK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02J1ARQFC3",
+        "type": "message",
+        "ts": "1711999010.240409",
+        "client_msg_id": "41E1C4FF-6525-4A67-8E4B-EBF87A101436",
+        "text": "but the concept of wings freaks me out ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "8503608c976c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-11\/4077453914001_8503608c976c261958e9_72.png",
+            "first_name": "anjali",
+            "real_name": "anjali",
+            "display_name": "aj",
+            "team": "T019RL7R8K1",
+            "name": "anjali_shah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711988285.426409",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jEhJk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but the concept of wings freaks me out "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

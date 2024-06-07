@@ -1,0 +1,1226 @@
+[
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1715277403.696609",
+        "client_msg_id": "81995188-e71c-4977-b8c8-5ad48897ca47",
+        "text": ":doughnut: - you have to go back to high school and do a 5th year (AFTER YOUR SENIOR YEAR OF COLLEGE) before you can graduate from college with a degree\n:orange_heart: - you graduate from brown in 3 years and don't get a senior year",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715277403.696609",
+        "reply_count": 25,
+        "reply_users_count": 5,
+        "latest_reply": "1715287200.037759",
+        "reply_users": [
+            "U02J0N4DU10",
+            "U01ANRY24FK",
+            "U01AQNJ26GZ",
+            "U01AJKAFPLL",
+            "U02JDC3M1Q9"
+        ],
+        "replies": [
+            {
+                "user": "U02J0N4DU10",
+                "ts": "1715277497.066639"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1715277502.762379"
+            },
+            {
+                "user": "U02J0N4DU10",
+                "ts": "1715277561.320359"
+            },
+            {
+                "user": "U02J0N4DU10",
+                "ts": "1715277564.339849"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1715277566.087869"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1715277568.718459"
+            },
+            {
+                "user": "U02J0N4DU10",
+                "ts": "1715277574.538069"
+            },
+            {
+                "user": "U02J0N4DU10",
+                "ts": "1715277576.654449"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1715277600.561039"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1715277626.270039"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1715277639.756089"
+            },
+            {
+                "user": "U02J0N4DU10",
+                "ts": "1715277746.796749"
+            },
+            {
+                "user": "U02J0N4DU10",
+                "ts": "1715277753.265429"
+            },
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1715277755.777259"
+            },
+            {
+                "user": "U02J0N4DU10",
+                "ts": "1715277782.118099"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1715277797.150149"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1715277807.536349"
+            },
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1715277812.174559"
+            },
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1715277856.072849"
+            },
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1715277862.899979"
+            },
+            {
+                "user": "U01AJKAFPLL",
+                "ts": "1715284349.109509"
+            },
+            {
+                "user": "U02JDC3M1Q9",
+                "ts": "1715287166.617849"
+            },
+            {
+                "user": "U02JDC3M1Q9",
+                "ts": "1715287171.371239"
+            },
+            {
+                "user": "U02JDC3M1Q9",
+                "ts": "1715287174.424339"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1715287200.037759"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J5E1Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "doughnut",
+                                "unicode": "1f369"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - you have to go back to high school and do a 5th year (AFTER YOUR SENIOR YEAR OF COLLEGE) before you can graduate from college with a degree\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "orange_heart",
+                                "unicode": "1f9e1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - you graduate from brown in 3 years and don't get a senior year"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "orange_heart",
+                "users": [
+                    "U02J0PQR85R",
+                    "U05VC250MM5",
+                    "U02J0N4DU10",
+                    "U060CNF6ZBL",
+                    "U02J1ARQFC3",
+                    "U01AJKAFPLL",
+                    "U02JDCDDXHP",
+                    "U047D0ZHW3A",
+                    "U060F69DCUU",
+                    "U060601B2NS"
+                ],
+                "count": 10
+            },
+            {
+                "name": "doughnut",
+                "users": [
+                    "U01AQNJ26GZ",
+                    "U02HXU752RK",
+                    "U0605TPR6NA",
+                    "U02JDC3M1Q9"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U02J0N4DU10",
+        "type": "message",
+        "ts": "1715277497.066639",
+        "client_msg_id": "65b7e469-f683-4a48-aee1-803c4bf209e2",
+        "text": "do my high school friends do the 5th year with me",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "d4471be17444",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-16\/2614978948004_d4471be17444700092a8_72.png",
+            "first_name": "Margherita",
+            "real_name": "Margherita Rampichini",
+            "display_name": "maggie",
+            "team": "T019RL7R8K1",
+            "name": "mrampichini14",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715277403.696609",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9NKBU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "do my high school friends do the 5th year with me"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1715277502.762379",
+        "client_msg_id": "9a2862e4-fc41-4260-b149-ccd556c3f2e9",
+        "text": "no",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715277403.696609",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H6wa6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02J0N4DU10",
+        "type": "message",
+        "ts": "1715277561.320359",
+        "client_msg_id": "09D323CB-F301-473C-A787-C40A672FEEAD",
+        "text": "Ok and if you do college in 3 years you pay 1 less year of tuition?",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "d4471be17444",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-16\/2614978948004_d4471be17444700092a8_72.png",
+            "first_name": "Margherita",
+            "real_name": "Margherita Rampichini",
+            "display_name": "maggie",
+            "team": "T019RL7R8K1",
+            "name": "mrampichini14",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715277403.696609",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mOqIU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok and if you do college in 3 years you pay 1 less year of tuition?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02J0N4DU10",
+        "type": "message",
+        "ts": "1715277564.339849",
+        "client_msg_id": "C83B3810-CD98-4D1B-B973-8F235FA2FDAD",
+        "text": "This is too easy",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "d4471be17444",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-16\/2614978948004_d4471be17444700092a8_72.png",
+            "first_name": "Margherita",
+            "real_name": "Margherita Rampichini",
+            "display_name": "maggie",
+            "team": "T019RL7R8K1",
+            "name": "mrampichini14",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715277403.696609",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FH44L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is too easy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1715277566.087869",
+        "client_msg_id": "3e9a4fad-e599-438a-8fcc-cc281f52b84d",
+        "text": "no",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715277403.696609",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H6wa6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1715277568.718459",
+        "client_msg_id": "859c20f8-ac9c-4c10-8642-30cc75cf23cf",
+        "text": "you pay 4 years",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715277403.696609",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jzRMU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you pay 4 years"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02J0N4DU10",
+        "type": "message",
+        "ts": "1715277574.538069",
+        "client_msg_id": "ADFB4579-6BF9-40DC-89AA-E7BC4DE6686A",
+        "text": "Oh",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "d4471be17444",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-16\/2614978948004_d4471be17444700092a8_72.png",
+            "first_name": "Margherita",
+            "real_name": "Margherita Rampichini",
+            "display_name": "maggie",
+            "team": "T019RL7R8K1",
+            "name": "mrampichini14",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715277403.696609",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RrYSQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02J0N4DU10",
+        "type": "message",
+        "ts": "1715277576.654449",
+        "client_msg_id": "BB8BA715-A3AA-4E2B-B5DA-D2FE778255F6",
+        "text": "Ewwwww",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "d4471be17444",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-16\/2614978948004_d4471be17444700092a8_72.png",
+            "first_name": "Margherita",
+            "real_name": "Margherita Rampichini",
+            "display_name": "maggie",
+            "team": "T019RL7R8K1",
+            "name": "mrampichini14",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715277403.696609",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N+cu6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ewwwww"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1715277600.561039",
+        "client_msg_id": "104a08f0-36b8-4c41-af87-75c115f4d8a9",
+        "text": "also its a surprise",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715277403.696609",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pn9Tq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "also its a surprise"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1715277626.270039",
+        "client_msg_id": "e43b93a4-29d9-444e-869c-7802e9727307",
+        "text": "brown's just like \"actually you're done dont come back and they take your money and run\"",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715277403.696609",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Szu9j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "brown's just like \"actually you're done dont come back and they take your money and run\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1715277639.756089",
+        "client_msg_id": "ff33d97f-9619-49d9-b600-8f1c2a0d188f",
+        "text": "except they give you a degree",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715277403.696609",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hxY5U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "except they give you a degree"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02J0N4DU10",
+        "type": "message",
+        "ts": "1715277746.796749",
+        "client_msg_id": "C998DB4C-0661-4516-8D06-545830B5CA8B",
+        "text": "Interesting",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "d4471be17444",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-16\/2614978948004_d4471be17444700092a8_72.png",
+            "first_name": "Margherita",
+            "real_name": "Margherita Rampichini",
+            "display_name": "maggie",
+            "team": "T019RL7R8K1",
+            "name": "mrampichini14",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715277403.696609",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7UJgb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Interesting"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02J0N4DU10",
+        "type": "message",
+        "ts": "1715277753.265429",
+        "client_msg_id": "486675F4-6458-425E-A7C3-AF8483522CA1",
+        "text": "This is a great would you rather",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "d4471be17444",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-16\/2614978948004_d4471be17444700092a8_72.png",
+            "first_name": "Margherita",
+            "real_name": "Margherita Rampichini",
+            "display_name": "maggie",
+            "team": "T019RL7R8K1",
+            "name": "mrampichini14",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715277403.696609",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4bQRl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is a great would you rather"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1715277755.777259",
+        "client_msg_id": "B55BEA6E-89E0-47ED-B6A2-309F86F050F1",
+        "text": "are you only missing out on fun senior experiences or also you feel a year stupider ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715277403.696609",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nki7y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "are you only missing out on fun senior experiences or also you feel a year stupider "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bangbang",
+                "users": [
+                    "U02J1ARQFC3",
+                    "U02JDCDDXHP",
+                    "U047D0ZHW3A"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U02J0N4DU10",
+        "type": "message",
+        "ts": "1715277782.118099",
+        "client_msg_id": "A69E5AFD-1D32-484E-86D4-768649456F30",
+        "text": "Personally senior year has not contributed anything intellectually ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "d4471be17444",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-16\/2614978948004_d4471be17444700092a8_72.png",
+            "first_name": "Margherita",
+            "real_name": "Margherita Rampichini",
+            "display_name": "maggie",
+            "team": "T019RL7R8K1",
+            "name": "mrampichini14",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715277403.696609",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9jQ8m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Personally"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "senior year has not contributed anything intellectually "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1715277797.150149",
+        "client_msg_id": "bda23295-02ae-47df-9d21-bbbb84f6b622",
+        "text": "personally senior year has not conftirbuted any fun senior experiences",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715277403.696609",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ffC0j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "personally senior year has not conftirbuted any fun senior experiences"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1715277807.536349",
+        "client_msg_id": "a413ef10-2bc6-4230-944e-a875326bd059",
+        "text": "but you dont get either",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715277403.696609",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MvyUt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but you dont get either"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1715277812.174559",
+        "client_msg_id": "5CCED293-6204-4499-B063-079503E2A4DE",
+        "text": "personally my senior year was rly long",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715277403.696609",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5x0LA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "personally my senior year was rly long"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1715277856.072849",
+        "client_msg_id": "AA2BB8DD-AA0E-4B19-AA3D-1D22A32766F2",
+        "text": "i think surprise bye bye to all ur friends would be too terrible",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715277403.696609",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nM+r5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i think surprise bye bye to all ur friends would be too terrible"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1715277862.899979",
+        "client_msg_id": "B5E97B43-F134-4D2C-BD8A-F9C143A73D0E",
+        "text": "i could\nprepare for high school part 5",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715277403.696609",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p2jpy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i could\nprepare for high school part 5"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01AJKAFPLL",
+        "type": "message",
+        "ts": "1715284349.109509",
+        "client_msg_id": "FF0923A3-C0C5-4B02-84C8-2529DD3E0BC9",
+        "text": "i have stress dreams about the first one lol",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "799df0d2a368",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-03\/5971849909127_799df0d2a36882d15cb1_72.png",
+            "first_name": "Abigail",
+            "real_name": "Abigail Shepler",
+            "display_name": "fly",
+            "team": "T019RL7R8K1",
+            "name": "abigail_shepler",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715277403.696609",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bq4QV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i have stress dreams about the first one lol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDC3M1Q9",
+        "type": "message",
+        "ts": "1715287166.617849",
+        "client_msg_id": "6D523A5A-2190-4FF8-92FE-ACE2611F36E3",
+        "text": "WAIR I HAVE HAD THIS DREAM BEDORE",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "5df4583c6c3e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-20\/2859539530726_5df4583c6c3e4c507a51_72.png",
+            "first_name": "Addison",
+            "real_name": "Addison Hannah Kerwin",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "addison_kerwin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715277403.696609",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jykuO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "WAIR I HAVE HAD THIS DREAM BEDORE"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDC3M1Q9",
+        "type": "message",
+        "ts": "1715287171.371239",
+        "client_msg_id": "A9B0B27B-427F-441D-B53E-E08B80601DD1",
+        "text": "the first one",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "5df4583c6c3e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-20\/2859539530726_5df4583c6c3e4c507a51_72.png",
+            "first_name": "Addison",
+            "real_name": "Addison Hannah Kerwin",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "addison_kerwin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715277403.696609",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D1hGe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the first one"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDC3M1Q9",
+        "type": "message",
+        "ts": "1715287174.424339",
+        "client_msg_id": "663584C1-FE22-4E6B-80DB-673067756F82",
+        "text": "Verbatim ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "5df4583c6c3e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-20\/2859539530726_5df4583c6c3e4c507a51_72.png",
+            "first_name": "Addison",
+            "real_name": "Addison Hannah Kerwin",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "addison_kerwin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715277403.696609",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iAbpb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Verbatim "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1715287200.037759",
+        "client_msg_id": "2dae2598-b6f9-4d2b-b09c-936543563bc4",
+        "text": "ok this is fantastic news from both of you because i had this dream last night",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715277403.696609",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cs+vX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok this is fantastic news from both of you because i had this dream last night"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bangbang",
+                "users": [
+                    "U01AJKAFPLL",
+                    "U02JDC3M1Q9"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

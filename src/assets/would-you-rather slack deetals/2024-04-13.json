@@ -1,0 +1,79 @@
+[
+    {
+        "user": "U01AJKAFPLL",
+        "type": "message",
+        "ts": "1713065774.265539",
+        "client_msg_id": "04F12F95-9906-4CCC-BECE-417EF5A1AD87",
+        "text": ":rooster: eat real eggs knowing they’re chicken’s periods\n:egg: eat a fake omelette from the ratty knowing no chickens were involved ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "799df0d2a368",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-03\/5971849909127_799df0d2a36882d15cb1_72.png",
+            "first_name": "Abigail",
+            "real_name": "Abigail Shepler",
+            "display_name": "fly",
+            "team": "T019RL7R8K1",
+            "name": "abigail_shepler",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ismJd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "rooster",
+                                "unicode": "1f413"
+                            },
+                            {
+                                "type": "text",
+                                "text": " eat real eggs knowing "
+                            },
+                            {
+                                "type": "text",
+                                "text": "they’re"
+                            },
+                            {
+                                "type": "text",
+                                "text": " chicken’s periods\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "egg",
+                                "unicode": "1f95a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " eat a fake omelette from the ratty knowing no chickens were involved "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "rooster",
+                "users": [
+                    "U05VC250MM5",
+                    "U0605TPR6NA",
+                    "U02HXU752RK",
+                    "U047D0ZHW3A",
+                    "U060CNF6ZBL",
+                    "U02JDCDDXHP",
+                    "U046PRR8JJG",
+                    "U01AQNJ26GZ",
+                    "U02J0PQR85R"
+                ],
+                "count": 9
+            }
+        ]
+    }
+]

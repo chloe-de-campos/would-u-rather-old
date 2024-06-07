@@ -1,0 +1,26 @@
+[
+{
+    "id": "F063M1HUZL1",
+    "created": 1698498853,
+    "name": "here___s_a_new_feature_in_slack",
+    "title": "here’s a new feature in slack",
+    "mimetype": "application\/vnd.slack-docs",
+    "filetype": "quip",
+    "pretty_type": "Canvas",
+    "user": "USLACKBOT",
+    "editable": true,
+    "size": 75,
+    "mode": "quip",
+    "is_public": true,
+    "is_tombstoned": false,
+    "public_url_shared": false,
+    "date_delete": 0,
+    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T019RL7R8K1-F063M1HUZL1\/download\/canvas?t=xoxe-1331687858647-7201291529666-7186733812919-1775c31c370698e479f3fc63f25a767b",
+    "shares": [
+        {
+            "team": "T019RL7R8K1",
+            "channel": "C0605P5DLMR"
+        }
+    ]
+}
+]

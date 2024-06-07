@@ -1,0 +1,144 @@
+[
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1706911274.818329",
+        "client_msg_id": "5c988c75-dabf-4572-9198-013c6e364ec1",
+        "text": ":clown_face: : you check your mailbox and find a baby. it's yours. you're instantly a parent. the baby is adorable and perfect. you're obsessed.\n:package: : you check your mailbox and find 2 pounds of weed. it's yours. you're instantly a parent. the weed is fragrant and perfect. you're obsessed.",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2myb+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "clown_face",
+                                "unicode": "1f921"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : you check your mailbox and find a baby. it's yours. you're instantly a parent. the baby is adorable and perfect. you're obsessed.\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "package",
+                                "unicode": "1f4e6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : you check your mailbox and find 2 pounds of weed. it's yours. you're instantly a parent. the weed is fragrant and perfect. you're obsessed."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "package",
+                "users": [
+                    "U02JDCDDXHP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "clown_face",
+                "users": [
+                    "U01AQNJ26GZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0605TPR6NA",
+        "type": "message",
+        "ts": "1706911388.115949",
+        "client_msg_id": "42033686-73DC-471C-86DA-779A88C797A9",
+        "text": "that’s insane",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "ec9ff28af7b5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-06\/6165117200897_ec9ff28af7b554dfa0e0_72.jpg",
+            "first_name": "Alice",
+            "real_name": "Alice Cannon",
+            "display_name": "Alice Cannon",
+            "team": "T019RL7R8K1",
+            "name": "alice_cannon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r7hkj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "that’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " insane"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "hatching_chick",
+                "users": [
+                    "U01ANRY24FK"
+                ],
+                "count": 1
+            },
+            {
+                "name": "shrug",
+                "users": [
+                    "U01ANRY24FK",
+                    "U02JDCDDXHP"
+                ],
+                "count": 2
+            },
+            {
+                "name": "angel",
+                "users": [
+                    "U01ANRY24FK",
+                    "U02JDCDDXHP"
+                ],
+                "count": 2
+            },
+            {
+                "name": "leafy_green",
+                "users": [
+                    "U01ANRY24FK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

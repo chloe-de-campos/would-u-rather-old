@@ -1,0 +1,75 @@
+[
+    {
+        "user": "U02J0PQR85R",
+        "type": "message",
+        "ts": "1710892305.767929",
+        "client_msg_id": "AA786299-E12B-4276-AC99-D67ED489B58D",
+        "text": ":mouse2:  tiny legs that move as fast as a scampering mousey \n:giraffe_face:  legs as tall as a giraffe but slow\n",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "5a5a4c9ba486",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-01\/5197718318484_5a5a4c9ba486da208996_72.png",
+            "first_name": "Nora",
+            "real_name": "Nora Starhill",
+            "display_name": "Max Shields",
+            "team": "T019RL7R8K1",
+            "name": "nora_starhill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7IY2E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "mouse2",
+                                "unicode": "1f401"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  tiny legs that move as fast as a scampering mousey \n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "giraffe_face",
+                                "unicode": "1f992"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  legs as tall as a giraffe but slow\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "mouse2",
+                "users": [
+                    "U046PRR8JJG",
+                    "U02JDC3M1Q9",
+                    "U01ANRY24FK",
+                    "U0609QNFT6Z",
+                    "U02J1ARQFC3"
+                ],
+                "count": 5
+            },
+            {
+                "name": "giraffe_face",
+                "users": [
+                    "U05VC250MM5",
+                    "U02HXU752RK"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

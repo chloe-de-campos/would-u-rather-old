@@ -1,0 +1,364 @@
+[
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1713363896.291069",
+        "client_msg_id": "01d999cd-a592-4c4e-8d41-ef89e76dea1c",
+        "text": ":apple: date someone who's obsessed with jazz and will turn everything into a jazz metaphor\n:bug:date someone who all your friends think is ant pretending to be a person",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713363896.291069",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1713381750.059779",
+        "reply_users": [
+            "U02J0PQR85R",
+            "U01AQNJ26GZ",
+            "U02JDC3M1Q9"
+        ],
+        "replies": [
+            {
+                "user": "U02J0PQR85R",
+                "ts": "1713363946.297929"
+            },
+            {
+                "user": "U01AQNJ26GZ",
+                "ts": "1713373996.604569"
+            },
+            {
+                "user": "U02JDC3M1Q9",
+                "ts": "1713381750.059779"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CfEJ9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "apple",
+                                "unicode": "1f34e"
+                            },
+                            {
+                                "type": "text",
+                                "text": " date someone who's obsessed with jazz and will turn everything into a jazz metaphor\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bug",
+                                "unicode": "1f41b"
+                            },
+                            {
+                                "type": "text",
+                                "text": "date someone who all your friends think is ant pretending to be a person"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bug",
+                "users": [
+                    "U02J0PQR85R",
+                    "U05VC250MM5",
+                    "U046PRR8JJG",
+                    "U01AJKAFPLL",
+                    "U047D0ZHW3A",
+                    "U060CNF6ZBL",
+                    "U0609QNFT6Z",
+                    "U01AQNJ26GZ",
+                    "U02JDC3M1Q9",
+                    "U060601B2NS"
+                ],
+                "count": 10
+            },
+            {
+                "name": "apple",
+                "users": [
+                    "U060F69DCUU",
+                    "U02HL5DAYUF",
+                    "U02JDCDDXHP"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U02J0PQR85R",
+        "type": "message",
+        "ts": "1713363946.297929",
+        "client_msg_id": "8A20C42E-E0C9-49E3-97B3-1817C8DB89BD",
+        "text": "i think it would be a fun bit",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "5a5a4c9ba486",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-01\/5197718318484_5a5a4c9ba486da208996_72.png",
+            "first_name": "Nora",
+            "real_name": "Nora Starhill",
+            "display_name": "Max Shields",
+            "team": "T019RL7R8K1",
+            "name": "nora_starhill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713363896.291069",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ds6xG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i think it would be a fun bit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1713373996.604569",
+        "client_msg_id": "f7007cef-bd34-4e2e-96af-821fcbb15448",
+        "text": "tiktok call back alert",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713363896.291069",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j3tob",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tiktok call back alert"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01ANRY24FK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02JDC3M1Q9",
+        "type": "message",
+        "ts": "1713381750.059779",
+        "client_msg_id": "ddad630f-0228-4799-9dd5-80edfe9d3f90",
+        "text": "great question",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "5df4583c6c3e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-20\/2859539530726_5df4583c6c3e4c507a51_72.png",
+            "first_name": "Addison",
+            "real_name": "Addison Hannah Kerwin",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "addison_kerwin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713363896.291069",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eCfoD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "great question"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1713411070.579479",
+        "client_msg_id": "00A0FBA1-736C-4F4C-A5CE-EC40783C5199",
+        "text": "<https:\/\/www.instagram.com\/reel\/C5DmluYJVN5\/?igsh=dm8xajhocmxwNHlh|https:\/\/www.instagram.com\/reel\/C5DmluYJVN5\/?igsh=dm8xajhocmxwNHlh>",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MPmu0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.instagram.com\/reel\/C5DmluYJVN5\/?igsh=dm8xajhocmxwNHlh",
+                                "text": "https:\/\/www.instagram.com\/reel\/C5DmluYJVN5\/?igsh=dm8xajhocmxwNHlh"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1713411102.032429",
+        "client_msg_id": "3C257F09-2485-4B16-BAF5-73EC5D8E83AD",
+        "text": ":worm:jiggle the raccoon\n:frog: be the raccoon ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713411102.032429",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1713453686.791869",
+        "reply_users": [
+            "U046PRR8JJG"
+        ],
+        "replies": [
+            {
+                "user": "U046PRR8JJG",
+                "ts": "1713453686.791869"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bg7LH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "worm",
+                                "unicode": "1fab1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "jiggle the raccoon\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "frog",
+                                "unicode": "1f438"
+                            },
+                            {
+                                "type": "text",
+                                "text": " be the raccoon "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "frog",
+                "users": [
+                    "U05VC250MM5",
+                    "U060CNF6ZBL",
+                    "U02JDCDDXHP",
+                    "U02JDC3M1Q9",
+                    "U01AQNJ26GZ"
+                ],
+                "count": 5
+            },
+            {
+                "name": "worm",
+                "users": [
+                    "U02HXU752RK",
+                    "U01ANRY24FK",
+                    "U02JDC3M1Q9",
+                    "U047D0ZHW3A"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

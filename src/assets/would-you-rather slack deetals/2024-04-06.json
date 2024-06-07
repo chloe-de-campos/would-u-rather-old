@@ -1,0 +1,83 @@
+[
+    {
+        "user": "U01AQNJ26GZ",
+        "type": "message",
+        "ts": "1712462528.527149",
+        "client_msg_id": "2B58B8BB-F526-45C8-8BAD-D3CFDCA941A2",
+        "text": "would you rather\n:dog2:: dog\n:us: : america ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "4746a8115b2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-05\/6579366489702_4746a8115b2c79df4ab6_72.png",
+            "first_name": "wes",
+            "real_name": "wes chalfant",
+            "display_name": "wes wheel",
+            "team": "T019RL7R8K1",
+            "name": "amelia_chalfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a210c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "would you rather\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "dog2",
+                                "unicode": "1f415"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": dog\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "us",
+                                "unicode": "1f1fa-1f1f8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : america "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "dog2",
+                "users": [
+                    "U05VC250MM5",
+                    "U02HL5DAYUF",
+                    "U02J0PQR85R",
+                    "U060F69DCUU",
+                    "U02J0N4DU10",
+                    "U060601B2NS",
+                    "U01AJKAFPLL",
+                    "U047D0ZHW3A",
+                    "U046PRR8JJG",
+                    "U060CNF6ZBL"
+                ],
+                "count": 10
+            },
+            {
+                "name": "flag-um",
+                "users": [
+                    "U02HXU752RK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

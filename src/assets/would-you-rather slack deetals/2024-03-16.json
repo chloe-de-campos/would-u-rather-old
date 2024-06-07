@@ -1,0 +1,424 @@
+[
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1710593390.317109",
+        "client_msg_id": "70CD3786-1F0E-472F-8487-73FB5CD5E4EA",
+        "text": ":fox_face: live in austin for the next 30 years\n:orangutan: live in pvd forever",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "We+t1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "fox_face",
+                                "unicode": "1f98a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " live in austin for the next 30 years\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "orangutan",
+                                "unicode": "1f9a7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " live in pvd forever"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "orangutan",
+                "users": [
+                    "U02HXU752RK",
+                    "U02JDC3M1Q9",
+                    "U046PRR8JJG",
+                    "U02HL5DAYUF"
+                ],
+                "count": 4
+            },
+            {
+                "name": "fox_face",
+                "users": [
+                    "U02J0PQR85R",
+                    "U01AJKAFPLL",
+                    "U047D0ZHW3A",
+                    "U02JDC3M1Q9",
+                    "U01AQNJ26GZ",
+                    "U060601B2NS",
+                    "U060CNF6ZBL",
+                    "U05VC250MM5",
+                    "U02JDCDDXHP",
+                    "U0605TPR6NA"
+                ],
+                "count": 10
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1710638035.081809",
+        "client_msg_id": "18EED8D5-E533-41F4-8E6D-9386205B58F9",
+        "text": ":rose: charades the phrase “open floor plan” to a team of 7 year olds\n:female-construction-worker: have a mild tooth ache for 2 days",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710638035.081809",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1710638205.111529",
+        "reply_users": [
+            "U02JDCDDXHP",
+            "U01ANRY24FK"
+        ],
+        "replies": [
+            {
+                "user": "U02JDCDDXHP",
+                "ts": "1710638142.918319"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1710638169.771759"
+            },
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1710638205.111529"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hRYVc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "rose",
+                                "unicode": "1f339"
+                            },
+                            {
+                                "type": "text",
+                                "text": " charades the phrase “open floor plan” to a team of 7 year olds\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "female-construction-worker",
+                                "unicode": "1f477-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " have a mild tooth ache for 2 days"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "female-construction-worker",
+                "users": [
+                    "U02JDCDDXHP",
+                    "U01AJKAFPLL",
+                    "U02J0PQR85R",
+                    "U047D0ZHW3A",
+                    "U046PRR8JJG",
+                    "U02HL5DAYUF",
+                    "U01AQNJ26GZ"
+                ],
+                "count": 7
+            },
+            {
+                "name": "rose",
+                "users": [
+                    "U05VC250MM5",
+                    "U02HXU752RK"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1710638142.918319",
+        "client_msg_id": "D7C7B537-9033-474A-9B09-3F7FF62E5CAD",
+        "text": "do you have to go until they get it? ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710638035.081809",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1JEr8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "do you have to go until they get it? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1710638169.771759",
+        "client_msg_id": "4C3D1C7B-D3EA-468A-90D0-577C2AB88FC0",
+        "text": "yes",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710638035.081809",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TTEdm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01ANRY24FK",
+        "type": "message",
+        "ts": "1710638205.111529",
+        "client_msg_id": "41C87414-F303-49E7-83CC-4502103357C6",
+        "text": "it’s best described as a jury duty type situation",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "031200184783",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4081047857317_031200184783727fe7c7_72.jpg",
+            "first_name": "Chloe",
+            "real_name": "Chloe de Campos",
+            "display_name": "hobgoblin",
+            "team": "T019RL7R8K1",
+            "name": "chloe_de_campos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710638035.081809",
+        "parent_user_id": "U01ANRY24FK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Uh\/wR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " best described as a jury duty type situation"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02JDCDDXHP",
+        "type": "message",
+        "ts": "1710638564.741659",
+        "client_msg_id": "570534C4-130C-4E72-A483-F5BCE479E98D",
+        "text": ":sunny: you see a stick of what you think is deodorant, you apply one big swipe to your armpit, only to realize it’s sunscreen. your armpit is sticky but it’s only one swipe\n:sweat_drops: you see a stick of what you think is sunscreen, you apply one big swipe to your face. Wait what’s that smell?! It was deodorant NOT sunscreen! It’s only one swipe but deodorant  on your face  ",
+        "team": "T019RL7R8K1",
+        "user_team": "T019RL7R8K1",
+        "source_team": "T019RL7R8K1",
+        "user_profile": {
+            "avatar_hash": "3e90d95a3606",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-03\/6603932076768_3e90d95a3606244c0af8_72.png",
+            "first_name": "Kunzang",
+            "real_name": "Kunzang Namgyal",
+            "display_name": "",
+            "team": "T019RL7R8K1",
+            "name": "kunzangcnamgyal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710638564.741659",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1711040530.233939",
+        "reply_users": [
+            "U01ANRY24FK"
+        ],
+        "replies": [
+            {
+                "user": "U01ANRY24FK",
+                "ts": "1711040530.233939"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f2sdp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "sunny",
+                                "unicode": "2600-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " you see a stick of what you think is deodorant, you apply one big swipe to your armpit, only to realize "
+                            },
+                            {
+                                "type": "text",
+                                "text": "it’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sunscreen. your armpit is sticky but it’s only one swipe\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_drops",
+                                "unicode": "1f4a6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " you see a stick of what you think is sunscreen, you apply one big swipe to your face. Wait "
+                            },
+                            {
+                                "type": "text",
+                                "text": "what’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " that smell?! It was deodorant NOT sunscreen! "
+                            },
+                            {
+                                "type": "text",
+                                "text": "It’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " only one swipe but deodorant  on your face  "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "sweat_drops",
+                "users": [
+                    "U01ANRY24FK",
+                    "U047D0ZHW3A",
+                    "U02HXU752RK",
+                    "U02JDC3M1Q9"
+                ],
+                "count": 4
+            },
+            {
+                "name": "sunny",
+                "users": [
+                    "U0605TPR6NA",
+                    "U01AJKAFPLL",
+                    "U02J1ARQFC3",
+                    "U02J0PQR85R",
+                    "U060CNF6ZBL",
+                    "U046PRR8JJG",
+                    "U0609QNFT6Z",
+                    "U02HL5DAYUF",
+                    "U01AQNJ26GZ",
+                    "U060F69DCUU"
+                ],
+                "count": 10
+            }
+        ]
+    }
+]
