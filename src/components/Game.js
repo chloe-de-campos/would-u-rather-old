@@ -33,7 +33,7 @@ const Game = () => {
 
   useEffect(() => {
     loadStats();
-  }, [currentIndex]); // Update stats when the index changes
+  }, [currentIndex,loadStats]); // Update stats when the index changes
 
   // const handleChoice = async (questionId, choice) => {
   //   const newResponse = {
@@ -238,18 +238,18 @@ const handleChoice = async (questionId, choice) => {
     // return <Pie data={data} />;
   };
   
-  const answered = () =>{
-    const cookie = findcookie(questions[currentIndex].id)
-    if (cookie && cookie.value !== 'null') {
-      // Fetch response data from API
-      const response = getResponses(); // Assuming getResponse is a function to fetch response data from the API
-      // Check if the response matches one of the options
-      console.log('response, ', response)
-      return response && (response.choice === 'optionA' || response.choice === 'optionB');
-    }
-    return false;
-    return (cookie.value != 'null')
-  }
+  // const answered = () =>{
+  //   const cookie = findcookie(questions[currentIndex].id)
+  //   if (cookie && cookie.value !== 'null') {
+  //     // Fetch response data from API
+  //     const response = getResponses(); // Assuming getResponse is a function to fetch response data from the API
+  //     // Check if the response matches one of the options
+  //     console.log('response, ', response)
+  //     return response && (response.choice === 'optionA' || response.choice === 'optionB');
+  //   }
+  //   return false;
+  //   return (cookie.value != 'null')
+  // }
 
 
   

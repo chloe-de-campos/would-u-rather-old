@@ -154,7 +154,7 @@ import '../App.css';
 import { useNavigate } from 'react-router-dom';
 import Logo from './Logo';
 import { TiArrowBack } from "react-icons/ti";
-import { FaSortAmountDown } from "react-icons/fa";
+
 
 const Statistics = ({ questions }) => {
   const [responses, setResponses] = useState([]);

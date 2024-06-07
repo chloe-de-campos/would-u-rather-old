@@ -22,22 +22,22 @@ const getResponses = async () => {
 };
 
 
-const getResponse = async (responseId) => {
-  try {
-    const responseRef = ref(db, `responses/${responseId}`);
-    const snapshot = await get(responseRef);
+// const getResponse = async (responseId) => {
+//   try {
+//     const responseRef = ref(db, `responses/${responseId}`);
+//     const snapshot = await get(responseRef);
 
-    if (snapshot.exists()) {
-      return snapshot.val();
-    } else {
-      console.log('Response not found');
-      return null;
-    }
-  } catch (error) {
-    console.error('Error fetching response:', error);
-    return null;
-  }
-};
+//     if (snapshot.exists()) {
+//       return snapshot.val();
+//     } else {
+//       console.log('Response not found');
+//       return null;
+//     }
+//   } catch (error) {
+//     console.error('Error fetching response:', error);
+//     return null;
+//   }
+// };
 
 
 export default getResponses;
